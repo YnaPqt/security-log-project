@@ -22,5 +22,9 @@ security-log-project/
 
 Les données fournies sont entièrement synthétiques, livrées sans contrôle qualité préalable et accompagnées de documentations partielles issues d'outils hétérogènes.
 
-![Texte alternatif](docs/image.png)
+<p align="center">
+  <img src="docs/image.png" alt="inventaire" width="600">
+  <br>
+  <em>Aperçu de l'interface d'inventaire</em>
+</p>
 
