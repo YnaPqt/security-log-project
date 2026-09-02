@@ -1,0 +1,201 @@
+device_id,hostname,asset_type,department,owner,criticality,operating_system
+D0035,PHF-SRV-0035,Mobile,Regions,Juridique,Medium,Windows Server 2019
+D0075,PHF-VM-0075,Server,Regions,Regions,Critical,Windows 11
+D0051,PHF-SRV-0051,VM,Regions,Regions,Critical,macOS 14
+D0137,PHF-WS-0137,Mobile,Juridique,Regions,Critical,Windows 10
+D0078,PHF-LT-0078,Desktop,Communication,Communication,MEDIUM,Windows 10
+D0160,PHF-VM-0160,Server,Direction,Communication,CRITICAL,macOS 14
+D0027,PHF-VM-0027,Laptop,Communication,Juridique,MEDIUM,Windows Server 2022
+D0176,PHF-VM-0176,Server,Juridique,Direction,,Windows 10
+D0182,PHF-WS-0182,Desktop,RH,Communication,HIGH,Windows 11
+D0190,PHF-LT-0190,Laptop,Juridique,RH,Critical,Windows Server 2022
+D0099,PHF-SRV-0099,VM,Juridique,RH,,Windows Server 2022
+D0037,PHF-VM-0037,Laptop,Juridique,Communication,High,Windows Server 2022
+D0022,PHF-LT-0022,Mobile,IT,Finance,Critical,Windows Server 2022
+D0065,PHF-WS-0065,Mobile,Communication,RH,MEDIUM,Windows 11
+D0042,PHF-VM-0042,Mobile,RH,Regions,High,macOS 14
+D0023,PHF-WS-0023,Desktop,IT,RH,HIGH,Windows Server 2022
+D0150,PHF-WS-0150,Mobile,Finance,Finance,Medium,Ubuntu 22.04
+D0040,PHF-WS-0040,Mobile,IT,Communication,High,Windows Server 2019
+D0068,PHF-VM-0068,Mobile,Finance,Regions,High,macOS 14
+D0057,PHF-VM-0057,Server,IT,IT,High,Ubuntu 22.04
+D0067,PHF-WS-0067,Mobile,RH,,Low,Ubuntu 22.04
+D0100,PHF-LT-0100,VM,Finance,Regions,Critical,Windows 11
+D0026,PHF-VM-0026,Desktop,IT,RH,Critical,Windows 11
+D0126,PHF-SRV-0126,Desktop,Juridique,RH,CRITICAL,macOS 14
+D0166,PHF-SRV-0166,Mobile,Communication,Finance,CRITICAL,Windows Server 2019
+D0090,PHF-VM-0090,VM,Finance,Communication,Medium,Windows Server 2019
+D0080,PHF-WS-0080,Mobile,Finance,Communication,Critical,macOS 14
+D0165,PHF-WS-0165,Desktop,Communication,IT,,Windows 10
+D0009,PHF-WS-0009,VM,Communication,Communication,LOW,Windows 10
+D0188,PHF-VM-0188,Desktop,Direction,,Medium,Ubuntu 22.04
+D0074,PHF-WS-0074,Server,Juridique,,MEDIUM,Windows Server 2022
+D0159,PHF-LT-0159,VM,Finance,Communication,Medium,macOS 14
+D0024,PHF-VM-0024,Desktop,Communication,RH,,Windows 11
+D0073,PHF-SRV-0073,Desktop,IT,Regions,High,Windows Server 2022
+D0164,PHF-SRV-0164,Mobile,Finance,Finance,,Windows 11
+D0088,PHF-WS-0088,Mobile,Juridique,Finance,High,Windows 10
+D0083,PHF-LT-0083,Server,Juridique,Direction,HIGH,Windows Server 2019
+D0125,PHF-SRV-0125,Desktop,Communication,Finance,,Windows 11
+D0047,PHF-LT-0047,Desktop,Regions,Direction,Critical,Ubuntu 22.04
+D0102,PHF-VM-0102,Mobile,Communication,Direction,Critical,Windows Server 2019
+D0142,PHF-VM-0142,Mobile,Communication,Regions,Critical,Ubuntu 22.04
+D0112,PHF-VM-0112,VM,Juridique,Finance,CRITICAL,macOS 14
+D0197,PHF-WS-0197,VM,Juridique,Finance,HIGH,Windows Server 2019
+D0186,PHF-LT-0186,Laptop,IT,Direction,LOW,Ubuntu 22.04
+D0138,PHF-SRV-0138,Mobile,Finance,,MEDIUM,Ubuntu 22.04
+D0013,PHF-VM-0013,Desktop,Finance,,High,Ubuntu 22.04
+D0171,PHF-WS-0171,Desktop,Finance,Finance,MEDIUM,Windows Server 2019
+D0155,PHF-LT-0155,VM,Communication,Communication,MEDIUM,Windows Server 2022
+D0122,PHF-SRV-0122,VM,Regions,Communication,Critical,Windows Server 2022
+D0029,PHF-WS-0029,Server,Communication,IT,Critical,Windows 11
+D0121,PHF-WS-0120,VM,IT,,Medium,Windows 11
+D0104,PHF-LT-0104,Desktop,Juridique,,Low,Windows 11
+D0179,PHF-VM-0179,VM,Regions,Regions,,Windows Server 2019
+D0071,PHF-WS-0071,VM,Juridique,Direction,Medium,macOS 14
+D0154,PHF-LT-0154,Mobile,Direction,Finance,HIGH,macOS 14
+D0020,PHF-WS-0020,VM,Communication,Juridique,MEDIUM,Windows 11
+D0008,PHF-SRV-0008,Mobile,Finance,Communication,High,Windows 11
+D0016,PHF-SRV-0016,Server,RH,,MEDIUM,Windows Server 2019
+D0061,PHF-SRV-0061,VM,Regions,RH,CRITICAL,macOS 14
+D0124,PHF-LT-0124,Desktop,Regions,Direction,Low,Windows 11
+D0158,PHF-VM-0158,Desktop,Finance,Regions,Low,Windows 11
+D0133,PHF-VM-0133,Desktop,Direction,RH,Critical,macOS 14
+D0091,PHF-SRV-0091,Server,RH,Regions,LOW,Windows Server 2019
+D0077,PHF-LT-0077,VM,Juridique,Communication,Medium,macOS 14
+D0130,PHF-WS-0130,Mobile,RH,Direction,MEDIUM,Windows Server 2019
+D0097,PHF-VM-0097,Desktop,RH,Juridique,MEDIUM,macOS 14
+D0139,PHF-LT-0139,Server,Juridique,Finance,Low,Windows Server 2019
+D0002,PHF-WS-0002,VM,Juridique,IT,Critical,Windows Server 2022
+D0120,PHF-WS-0120,Desktop,IT,IT,CRITICAL,Windows Server 2022
+D0044,PHF-VM-0044,Mobile,Communication,IT,Low,macOS 14
+D0143,PHF-VM-0143,Desktop,Communication,RH,High,Ubuntu 22.04
+D0010,PHF-LT-0010,Server,Juridique,Finance,MEDIUM,Ubuntu 22.04
+D0189,PHF-SRV-0189,VM,Communication,Communication,MEDIUM,Windows Server 2022
+D0059,PHF-WS-0059,Desktop,RH,Direction,,macOS 14
+D0012,PHF-LT-0012,Mobile,Communication,IT,Critical,Windows Server 2022
+D0173,PHF-VM-0173,Laptop,Juridique,Direction,Low,macOS 14
+D0114,PHF-WS-0114,Desktop,Finance,RH,MEDIUM,Windows Server 2022
+D0015,PHF-WS-0015,Server,Communication,Finance,CRITICAL,Windows Server 2019
+D0079,PHF-LT-0079,Mobile,Regions,RH,CRITICAL,Windows 10
+D0053,PHF-SRV-0053,Server,Juridique,Regions,Medium,Windows 11
+D0018,PHF-SRV-0018,VM,Direction,IT,LOW,macOS 14
+D0062,PHF-VM-0062,Laptop,Finance,RH,High,Windows Server 2022
+D0151,PHF-LT-0151,Mobile,Regions,Juridique,Critical,Windows 11
+D0187,PHF-SRV-0187,Desktop,Finance,IT,HIGH,Windows Server 2019
+D0084,PHF-VM-0084,Server,IT,Direction,Medium,Windows Server 2022
+D0129,PHF-VM-0129,Server,Direction,IT,CRITICAL,Windows 10
+D0169,PHF-LT-0169,Mobile,Communication,IT,HIGH,Windows Server 2022
+D0064,PHF-VM-0064,Mobile,IT,Communication,HIGH,macOS 14
+D0111,PHF-SRV-0111,Laptop,RH,Regions,HIGH,Windows Server 2019
+D0123,PHF-SRV-0123,VM,Regions,Juridique,,Windows 10
+D0162,PHF-WS-0162,Desktop,RH,Juridique,,Ubuntu 22.04
+D0131,PHF-VM-0131,Mobile,Communication,Direction,Medium,Windows 10
+D0081,PHF-WS-0081,Laptop,Regions,RH,CRITICAL,Ubuntu 22.04
+D0146,PHF-VM-0146,Laptop,IT,Juridique,HIGH,Windows Server 2022
+D0113,PHF-WS-0113,Desktop,IT,Regions,CRITICAL,Windows Server 2022
+D0030,PHF-LT-0030,Mobile,Communication,Regions,MEDIUM,Windows Server 2019
+D0089,PHF-VM-0089,VM,Direction,Direction,Medium,Windows Server 2022
+D0144,PHF-LT-0144,Desktop,Direction,Regions,High,macOS 14
+D0105,PHF-LT-0105,VM,IT,Regions,High,Windows 11
+D0005,PHF-WS-0005,Desktop,Communication,,Critical,Windows Server 2022
+D0168,PHF-LT-0168,Desktop,Regions,Communication,High,Windows 10
+D0106,PHF-WS-0106,Laptop,Direction,Regions,LOW,Windows 11
+D0094,PHF-LT-0094,Desktop,RH,Juridique,HIGH,macOS 14
+D0132,PHF-VM-0132,Mobile,Juridique,Regions,Low,Windows 10
+D0019,PHF-WS-0019,Laptop,Communication,,Low,Windows 10
+D0194,PHF-SRV-0194,Server,Communication,Direction,Critical,Windows 10
+D0107,PHF-SRV-0107,Mobile,Finance,Direction,,Windows Server 2022
+D0127,PHF-LT-0127,Laptop,Regions,Regions,,Windows Server 2019
+D0043,PHF-SRV-0043,VM,Juridique,Communication,High,Ubuntu 22.04
+D0052,PHF-WS-0052,Mobile,Juridique,Direction,Low,Windows 10
+D0036,PHF-SRV-0036,Server,RH,IT,MEDIUM,Ubuntu 22.04
+D0200,PHF-SRV-0200,Desktop,Finance,Communication,CRITICAL,Ubuntu 22.04
+D0098,PHF-LT-0098,VM,Regions,Finance,Critical,Windows Server 2019
+D0046,PHF-VM-0046,Desktop,Communication,RH,Low,Ubuntu 22.04
+D0191,PHF-VM-0191,Laptop,Communication,Regions,LOW,macOS 14
+D0033,PHF-SRV-0033,VM,Juridique,Juridique,Critical,Ubuntu 22.04
+D0178,PHF-LT-0178,Server,RH,Juridique,Medium,Windows Server 2022
+D0054,PHF-WS-0054,Mobile,RH,Juridique,High,Windows Server 2019
+D0041,PHF-SRV-0041,VM,Direction,Direction,CRITICAL,Windows Server 2019
+D0001,PHF-WS-0001,Laptop,IT,Regions,CRITICAL,Windows Server 2019
+D0156,PHF-LT-0156,Mobile,Communication,Communication,LOW,macOS 14
+D0135,PHF-SRV-0135,Server,Juridique,RH,Low,Windows Server 2019
+D0007,PHF-WS-0007,Laptop,RH,IT,LOW,Windows 10
+D0056,PHF-LT-0055,Server,Direction,Communication,HIGH,Windows 10
+D0198,PHF-VM-0198,Mobile,Juridique,Communication,Low,Ubuntu 22.04
+D0038,PHF-SRV-0038,Server,Direction,RH,Critical,macOS 14
+D0003,PHF-SRV-0003,Server,IT,IT,CRITICAL,Windows Server 2022
+D0103,PHF-SRV-0103,Server,RH,Finance,CRITICAL,macOS 14
+D0183,PHF-SRV-0183,Mobile,Regions,IT,CRITICAL,Windows Server 2022
+D0006,PHF-LT-0006,Server,Direction,Regions,LOW,Ubuntu 22.04
+D0161,PHF-VM-0161,Mobile,RH,IT,MEDIUM,macOS 14
+D0050,PHF-VM-0050,VM,Juridique,Direction,MEDIUM,Ubuntu 22.04
+D0174,PHF-VM-0174,VM,Regions,IT,,Windows Server 2022
+D0175,PHF-SRV-0175,Server,RH,Regions,LOW,Ubuntu 22.04
+D0031,PHF-WS-0031,Mobile,Juridique,,MEDIUM,Windows 10
+D0196,PHF-WS-0196,Desktop,Direction,Juridique,Medium,macOS 14
+D0017,PHF-LT-0017,Mobile,RH,Direction,High,Windows 11
+D0011,PHF-SRV-0011,Server,Finance,Finance,Critical,Windows Server 2019
+D0145,PHF-WS-0145,Mobile,RH,Direction,Low,macOS 14
+D0153,PHF-LT-0153,Server,Regions,IT,Medium,Windows Server 2022
+D0066,PHF-SRV-0066,Mobile,Juridique,RH,Low,Windows 10
+D0085,PHF-VM-0085,Laptop,RH,Regions,HIGH,Ubuntu 22.04
+D0118,PHF-WS-0118,Laptop,IT,Juridique,MEDIUM,Windows 10
+D0109,PHF-VM-0109,Desktop,IT,Juridique,MEDIUM,Windows Server 2019
+D0045,PHF-LT-0045,Mobile,Juridique,Finance,,macOS 14
+D0110,PHF-LT-0110,VM,IT,RH,LOW,Windows Server 2019
+D0184,PHF-LT-0184,Mobile,Juridique,Communication,HIGH,Ubuntu 22.04
+D0034,PHF-VM-0034,VM,RH,Communication,Medium,Windows 11
+D0172,PHF-SRV-0172,Server,Finance,IT,High,Windows Server 2019
+D0147,PHF-LT-0147,VM,IT,IT,HIGH,Windows Server 2019
+D0108,PHF-WS-0108,VM,IT,Finance,LOW,Windows 11
+D0004,PHF-LT-0004,Mobile,Communication,RH,Medium,Ubuntu 22.04
+D0181,PHF-LT-0181,Desktop,Direction,IT,CRITICAL,Windows 10
+D0063,PHF-WS-0063,Desktop,Regions,IT,Critical,Windows 11
+D0032,PHF-VM-0032,Desktop,IT,RH,HIGH,Windows 10
+D0117,PHF-WS-0117,Desktop,Finance,Finance,LOW,macOS 14
+D0095,PHF-WS-0095,Laptop,Direction,IT,CRITICAL,Windows Server 2022
+D0060,PHF-VM-0060,Server,Regions,Communication,,Windows 10
+D0148,PHF-LT-0148,Desktop,RH,Direction,CRITICAL,Windows Server 2022
+D0185,PHF-LT-0185,Desktop,Regions,Direction,Critical,Windows 10
+D0115,PHF-LT-0115,Mobile,Finance,Communication,,Windows 11
+D0021,PHF-WS-0020,Server,RH,Juridique,Critical,Windows 11
+D0134,PHF-LT-0134,Desktop,Juridique,IT,LOW,macOS 14
+D0014,PHF-WS-0014,Server,Juridique,IT,Critical,Windows Server 2022
+D0101,PHF-VM-0101,Server,Communication,Regions,Low,Windows 10
+D0149,PHF-LT-0149,Server,IT,Direction,HIGH,Windows 10
+D0116,PHF-VM-0116,Laptop,Juridique,Communication,Medium,Windows Server 2022
+D0076,PHF-SRV-0076,Desktop,Finance,IT,MEDIUM,Windows Server 2019
+D0069,PHF-LT-0069,Mobile,RH,Communication,High,Windows 10
+D0082,PHF-VM-0082,VM,IT,Juridique,HIGH,Windows Server 2022
+D0157,PHF-WS-0157,Mobile,Direction,Communication,HIGH,macOS 14
+D0193,PHF-SRV-0193,Server,Regions,RH,Critical,Windows 11
+D0039,PHF-LT-0039,Laptop,Regions,Finance,CRITICAL,Windows 11
+D0086,PHF-SRV-0086,VM,IT,Juridique,Critical,Windows Server 2019
+D0177,PHF-SRV-0177,Laptop,Direction,Finance,CRITICAL,Windows Server 2022
+D0049,PHF-LT-0049,Server,IT,IT,HIGH,Ubuntu 22.04
+D0195,PHF-SRV-0195,Desktop,RH,Finance,HIGH,Ubuntu 22.04
+D0087,PHF-VM-0087,VM,Regions,,High,Windows 11
+D0128,PHF-LT-0128,Mobile,Direction,Direction,LOW,Windows 11
+D0163,PHF-VM-0163,Desktop,RH,IT,,Ubuntu 22.04
+D0141,PHF-SRV-0141,Desktop,Juridique,Regions,HIGH,Windows Server 2022
+D0096,PHF-VM-0096,Server,Direction,RH,High,Windows 10
+D0092,PHF-WS-0092,Mobile,Direction,Regions,LOW,Ubuntu 22.04
+D0152,PHF-VM-0152,Desktop,Finance,IT,Critical,Windows 11
+D0070,PHF-WS-0070,VM,Regions,Direction,CRITICAL,Windows 10
+D0167,PHF-VM-0167,Laptop,RH,Direction,Critical,Windows Server 2022
+D0119,PHF-VM-0119,Laptop,IT,,Low,Windows Server 2019
+D0028,PHF-SRV-0028,Server,Communication,Finance,Critical,Ubuntu 22.04
+D0170,PHF-LT-0170,VM,RH,RH,LOW,Windows Server 2019
+D0048,PHF-SRV-0048,VM,Finance,Finance,High,macOS 14
+D0072,PHF-VM-0072,Mobile,Juridique,RH,LOW,Ubuntu 22.04
+D0058,PHF-WS-0058,Mobile,RH,IT,,macOS 14
+D0093,PHF-LT-0093,Server,Finance,Finance,Low,Windows Server 2019
+D0055,PHF-LT-0055,Server,Finance,Regions,High,Windows Server 2022
+D0136,PHF-WS-0136,Server,Regions,,,macOS 14
+D0180,PHF-WS-0180,Desktop,RH,Communication,,Windows 11
+D0140,PHF-VM-0140,VM,Communication,RH,CRITICAL,Windows 10
+D0192,PHF-WS-0192,Server,IT,Juridique,CRITICAL,Windows 10
+D0025,PHF-WS-0025,Laptop,Juridique,RH,Low,Windows Server 2019
+D0199,PHF-SRV-0199,Laptop,Finance,Direction,Medium,macOS 14

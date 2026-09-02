@@ -1,0 +1,1930 @@
+alert_id,timestamp,device_id,user_id,alert_type,process_name,severity,status,analyst_decision
+EDR001382,2026-03-11 10:03:00,D0162,U0131,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000843,2026-03-18 14:20:42,D0088,U0019,Unusual Network,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR001258,2026-03-11 03:51:00,D0015,U0066,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001222,2026-03-11 02:03:00,D0094,U0030,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000109,2026-03-12 15:18:33,D0185,U0041,PUP Detected,outlook.exe,Low,In Progress,
+EDR001150,2026-03-09T13:36:04Z,D0102,U0252,PUP Detected,sccm_client.exe,Medium,Closed,
+EDR000161,2026-03-03T17:23:10Z,D0100,U0336,Unusual Network,outlook.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000269,2026-03-18 14:35:27,D0169,U0190,Unusual Network,python.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000359,2026-03-13T15:43:33Z,D0046,U0292,PUP Detected,inventory_scan.exe,High,Closed,FALSE_POSITIVE
+EDR000541,2026-03-02 13:20:53,D0008,U0015,Suspicious Process,outlook.exe,Medium,Closed,FALSE_POSITIVE
+EDR000733,2026-03-12 10:28:43,D0108,U0038,Unusual Network,chrome.exe,low,Open,FALSE_POSITIVE
+EDR000696,2026-03-08 09:39:57,D0186,U0350,Unusual Network,outlook.exe,High,Open,FALSE_POSITIVE
+EDR001604,2026-03-12 13:21:05,D0143,U0390,Unusual Network,rundll32.exe,Critical,In Progress,NEEDS_INVESTIGATION
+EDR001634,2026-03-14 14:36:01,D0004,U0392,PowerShell Abuse,mimikatz.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001206,2026-03-11 01:15:00,D0066,U0146,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000428,2026-03-03T10:28:52Z,D0053,U0205,PUP Detected,teams.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001252,2026-03-11 03:33:00,D0165,U0392,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001600,2026-03-18T16:51:56Z,D0021,U0380,Suspicious Process,teams.exe,Medium,In Progress,
+EDR001410,2026-03-11T11:27:00Z,D0053,U0167,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000802,2026-03-11T16:17:49Z,D0114,U0069,Unusual Network,teams.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001803,2026-03-12 03:51:00,D0003,U0007,Persistence Attempt,rundll32.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR000461,2026-03-16 08:52:09,D0156,U0116,PUP Detected,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR001334,2026-03-11 07:39:00,D0119,U0090,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001292,2026-03-11 05:33:00,D0198,U0367,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000002,2026-03-21 12:45:50,D0161,U0372,Suspicious Process,teams.exe,high,In Progress,FALSE_POSITIVE
+EDR000489,2026-03-07 12:05:19,D0194,U0110,Unusual Network,teams.exe,medium,Closed,FALSE_POSITIVE
+EDR001698,2026-03-19 08:38:11,D0038,U0125,Unusual Network,cryptolock.exe,medium,Open,NEEDS_INVESTIGATION
+EDR001689,2026-03-09T16:36:35Z,D0175,U0364,Credential Access,chrome.exe,low,Open,NEEDS_INVESTIGATION
+EDR001628,2026-03-10 13:23:23,D0059,U0264,PowerShell Abuse,cryptolock.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001441,2026-03-11 13:00:00,D0138,U0323,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000977,2026-03-18 18:49:59,D0096,U0027,PUP Detected,outlook.exe,medium,Closed,FALSE_POSITIVE
+EDR000894,2026-03-11 12:40:21,D0044,U0170,Suspicious Process,antivirus_update.exe,LOW,Closed,FALSE_POSITIVE
+EDR001524,2026-03-11T17:09:00Z,D0045,U0021,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001216,2026-03-11 01:45:00,D0120,U0219,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000671,2026-03-16 12:42:22,D0074,U0136,Unusual Network,teams.exe,High,In Progress,FALSE_POSITIVE
+EDR000675,2026-03-10 13:10:48,D0127,U0073,Unusual Network,inventory_scan.exe,high,Closed,
+EDR000262,2026-03-12 12:29:00,D0086,U0105,Unusual Network,sccm_client.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001477,2026-03-11 14:48:00,D0021,U0030,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000652,2026-03-20 10:31:10,D0024,U0355,Unusual Network,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000929,2026-03-11T09:23:42Z,D0189,U0097,Unusual Network,sccm_client.exe,Low,In Progress,FALSE_POSITIVE
+EDR001304,2026-03-11 06:09:00,D0118,U0030,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000942,2026-03-12 09:52:24,D0200,U0017,PUP Detected,outlook.exe,Low,Open,
+EDR001252,2026-03-11 03:33:00,D0165,U0392,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001568,2026-03-11T19:21:00Z,D0112,U0197,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000499,2026-03-07 18:33:23,D0165,U0270,PUP Detected,chrome.exe,Low,Open,FALSE_POSITIVE
+EDR000466,2026-03-16 10:58:21,D0126,U0315,PUP Detected,python.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001416,2026-03-11 11:45:00,D0122,U0293,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001054,2026-03-05 08:30:33,D0161,U0336,PUP Detected,sccm_client.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001642,2026-03-18 17:00:33,D0101,U0285,PUP Detected,outlook.exe,High,Open,NEEDS_INVESTIGATION
+EDR000784,2026-03-07 13:30:21,D0065,U0299,PUP Detected,python.exe,Low,Open,FALSE_POSITIVE
+EDR001577,2026-03-11 19:48:00,D0199,U0364,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001807,2026-03-12T04:03:00Z,D0003,U0007,Persistence Attempt,powershell_enc.exe,critical,Open,TRUE_POSITIVE
+EDR000754,2026-03-11T11:07:05Z,D0131,U0128,PUP Detected,antivirus_update.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000021,2026-03-22 17:46:33,D0181,U0081,Suspicious Process,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR001073,2026-03-05 08:11:42,D0095,U0262,Unusual Network,chrome.exe,high,In Progress,FALSE_POSITIVE
+EDR000692,2026-03-16T14:46:56Z,D0108,U0228,Unusual Network,sccm_client.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001778,2026-03-12 02:36:00,D0003,U0007,PowerShell Abuse,rundll32.exe,HIGH,In Progress,TRUE_POSITIVE
+EDR000622,2026-03-16 18:09:56,D0170,U0202,Suspicious Process,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000709,2026-03-04 13:54:58,D0135,U0253,PUP Detected,teams.exe,low,In Progress,FALSE_POSITIVE
+EDR001635,2026-03-18T17:42:39Z,D0074,U0050,PUP Detected,cryptolock.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR000266,2026-03-06 10:00:43,D0171,U0223,Suspicious Process,teams.exe,Low,Open,FALSE_POSITIVE
+EDR000554,2026-03-10 17:58:22,D0085,U0063,PUP Detected,sccm_client.exe,high,Closed,FALSE_POSITIVE
+EDR000102,2026-03-10T14:18:11Z,D0073,U0053,Unusual Network,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000154,2026-03-20 18:35:41,D0059,U0256,PUP Detected,teams.exe,medium,Open,
+EDR000027,2026-03-13 13:08:41,D0127,U0261,PUP Detected,antivirus_update.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001716,2026-03-13 10:30:29,D0146,U0369,Suspicious Process,antivirus_update.exe,High,Open,
+EDR000368,2026-03-04 16:33:30,D0026,U0010,PUP Detected,outlook.exe,High,Closed,FALSE_POSITIVE
+EDR001690,2026-03-05T11:50:16Z,D0163,U0140,PUP Detected,inventory_scan.exe,LOW,In Progress,NEEDS_INVESTIGATION
+EDR001197,2026-03-11 00:48:00,D0036,U0195,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000104,2026-03-11 14:00:19,D0090,U0375,Suspicious Process,sccm_client.exe,medium,Closed,FALSE_POSITIVE
+EDR001478,2026-03-11T14:51:00Z,D0193,U0288,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001367,2026-03-11 09:18:00,D0109,U0316,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000218,2026-03-15 10:58:22,D0051,U0204,Suspicious Process,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001319,2026-03-11 06:54:00,D0092,U0030,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001023,2026-03-05 08:55:39,D0155,U0038,PUP Detected,sccm_client.exe,Low,Closed,FALSE_POSITIVE
+EDR000561,2026-03-06 16:17:07,D0009,U0350,Unusual Network,antivirus_update.exe,High,Closed,FALSE_POSITIVE
+EDR001119,2026-03-16 08:33:38,D0190,U0148,Suspicious Process,antivirus_update.exe,LOW,Open,FALSE_POSITIVE
+EDR001507,2026-03-11 16:18:00,D0114,U0176,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000981,2026-03-07 12:47:01,D0180,U0337,Unusual Network,chrome.exe,HIGH,Open,FALSE_POSITIVE
+EDR000410,2026-03-08T17:00:36Z,D0080,U0286,Unusual Network,teams.exe,high,Open,FALSE_POSITIVE
+EDR000676,2026-03-21 12:49:13,D0198,U0091,PUP Detected,sccm_client.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000507,2026-03-09 17:56:07,D0083,U0308,Suspicious Process,chrome.exe,medium,Closed,FALSE_POSITIVE
+EDR000702,2026-03-18T16:27:47Z,D0172,U0343,Suspicious Process,antivirus_update.exe,High,In Progress,FALSE_POSITIVE
+EDR000756,2026-03-07 13:33:25,D0122,U0012,PUP Detected,inventory_scan.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000812,2026-03-03 13:26:40,D0080,U0011,PUP Detected,inventory_scan.exe,Medium,Open,FALSE_POSITIVE
+EDR000850,2026-03-21 18:16:08,D0001,U0087,PUP Detected,sccm_client.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001814,2026-03-12 04:24:00,D0003,U0007,Persistence Attempt,cryptolock.exe,CRITICAL,In Progress,NEEDS_INVESTIGATION
+EDR001742,2026-03-02 15:16:55,D0190,U0332,PowerShell Abuse,powershell_enc.exe,Critical,Closed,TRUE_POSITIVE
+EDR000903,2026-03-11 18:00:08,D0096,U0278,Unusual Network,teams.exe,Low,Closed,FALSE_POSITIVE
+EDR000156,2026-03-17 19:23:44,D0103,U0013,Suspicious Process,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR001653,2026-03-16 12:53:46,D0089,U0234,PowerShell Abuse,cryptolock.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR000884,2026-03-09T10:45:02Z,D0132,U0143,Unusual Network,python.exe,Low,Closed,FALSE_POSITIVE
+EDR000954,2026-03-08 17:20:24,D0164,U0156,Unusual Network,antivirus_update.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000730,2026-03-12 16:37:24,D0006,U0139,PUP Detected,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR001041,2026-03-06 12:11:25,D0076,U0293,PUP Detected,sccm_client.exe,HIGH,Open,FALSE_POSITIVE
+EDR001840,2026-03-16 09:12:32,D9008,U0179,Unusual Network,chrome.exe,critical,Open,
+EDR000280,2026-03-15 14:54:30,D0057,U0076,Unusual Network,inventory_scan.exe,high,Open,FALSE_POSITIVE
+EDR001306,2026-03-11 06:15:00,D0114,U0026,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000792,2026-03-19 11:36:23,D0140,U0321,PUP Detected,teams.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001012,2026-03-14T19:42:52Z,D0090,U0141,Unusual Network,sccm_client.exe,Medium,Open,FALSE_POSITIVE
+EDR000374,2026-03-19T18:43:57Z,D0150,U0030,PUP Detected,outlook.exe,High,Open,
+EDR001595,2026-03-05T19:37:14Z,D0017,U0219,Ransomware Behaviour,mimikatz.exe,LOW,In Progress,NEEDS_INVESTIGATION
+EDR000937,2026-03-02 11:02:39,D0188,U0058,Unusual Network,teams.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001637,2026-03-14T09:43:26Z,D0163,U0034,Ransomware Behaviour,rundll32.exe,MEDIUM,In Progress,NEEDS_INVESTIGATION
+EDR000997,2026-03-02T19:17:24Z,D0022,U0004,Suspicious Process,teams.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000479,2026-03-04 08:36:29,D0138,U0243,Unusual Network,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000144,2026-03-11 10:28:09,D0138,U0122,Unusual Network,teams.exe,high,Open,FALSE_POSITIVE
+EDR000987,2026-03-17 17:34:05,D0064,U0161,Unusual Network,inventory_scan.exe,Low,Open,
+EDR000190,2026-03-03 14:37:14,D0170,U0062,Suspicious Process,inventory_scan.exe,MEDIUM,Closed,
+EDR001688,2026-03-02T17:07:31Z,D0103,U0345,Malware Signature,inventory_scan.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR001563,2026-03-11 19:06:00,D0194,U0363,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001648,2026-03-10 13:14:30,D0074,U0334,Suspicious Process,python.exe,high,Open,NEEDS_INVESTIGATION
+EDR000863,2026-03-21 12:23:56,D0007,U0128,Suspicious Process,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR001265,2026-03-11 04:12:00,D0187,U0326,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001545,2026-03-11 18:12:00,D0082,U0376,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000286,2026-03-13 14:38:33,D0031,U0326,PUP Detected,sccm_client.exe,Medium,Open,FALSE_POSITIVE
+EDR001419,2026-03-11 11:54:00,D0119,U0317,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001016,2026-03-09T11:12:36Z,D0101,U0300,Unusual Network,inventory_scan.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001718,2026-03-03T16:51:52Z,D0082,U0044,Ransomware Behaviour,antivirus_update.exe,medium,In Progress,NEEDS_INVESTIGATION
+EDR001722,2026-03-02 15:39:08,D0145,U0125,Credential Access,teams.exe,MEDIUM,Open,
+EDR001357,2026-03-11 08:48:00,D0176,U0282,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000656,2026-03-08T19:24:59Z,D0085,U0056,Suspicious Process,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR001668,2026-03-08 13:04:43,D0036,U0265,Persistence Attempt,rundll32.exe,medium,Open,NEEDS_INVESTIGATION
+EDR000124,2026-03-21 08:24:53,D0075,U0209,Suspicious Process,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001221,2026-03-11 02:00:00,D0170,U0365,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000737,2026-03-06 09:34:48,D0015,U0145,Unusual Network,python.exe,low,Open,FALSE_POSITIVE
+EDR000203,2026-03-19 14:27:22,D0029,U0262,PUP Detected,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000761,2026-03-03 13:07:22,D0059,U0337,Unusual Network,outlook.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001558,2026-03-11 18:51:00,D0136,U0173,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000408,2026-03-11 14:25:15,D0055,U0063,Suspicious Process,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000698,2026-03-09T19:13:02Z,D0082,U0312,Unusual Network,teams.exe,High,Open,
+EDR001624,2026-03-02 08:07:06,D0084,U0017,PUP Detected,mimikatz.exe,Medium,Open,NEEDS_INVESTIGATION
+EDR000325,2026-03-18 18:50:27,D0094,U0133,Unusual Network,sccm_client.exe,High,Closed,FALSE_POSITIVE
+EDR000327,2026-03-21 09:59:09,D0131,U0060,Suspicious Process,antivirus_update.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000344,2026-03-12 15:11:58,D0159,U0209,Unusual Network,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR001679,2026-03-12 14:41:38,D0110,U0166,Credential Access,psexec.exe,critical,Open,NEEDS_INVESTIGATION
+EDR000603,2026-03-16 18:40:17,D0094,U0368,Suspicious Process,antivirus_update.exe,medium,Closed,FALSE_POSITIVE
+EDR000303,2026-03-22 15:32:18,D0135,U0034,PUP Detected,inventory_scan.exe,high,Closed,FALSE_POSITIVE
+EDR000862,2026-03-04 15:32:22,D0169,U0372,Suspicious Process,sccm_client.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001029,2026-03-03 14:34:28,D0003,U0240,Suspicious Process,inventory_scan.exe,low,In Progress,FALSE_POSITIVE
+EDR001064,2026-03-03 12:21:19,D0037,U0358,Suspicious Process,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001502,2026-03-11T16:03:00Z,D0121,U0271,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000928,2026-03-07 08:20:26,D0161,U0248,Suspicious Process,sccm_client.exe,Medium,Closed,FALSE_POSITIVE
+EDR000388,2026-03-07 13:19:36,D0179,U0239,Suspicious Process,python.exe,low,Closed,FALSE_POSITIVE
+EDR000750,2026-03-06 09:34:41,D0016,U0236,Suspicious Process,antivirus_update.exe,High,Closed,FALSE_POSITIVE
+EDR000220,2026-03-10 14:42:30,D0104,U0213,Suspicious Process,chrome.exe,High,Open,FALSE_POSITIVE
+EDR000329,2026-03-15 09:15:39,D0057,U0016,Unusual Network,chrome.exe,high,Open,
+EDR001240,2026-03-11 02:57:00,D0003,U0198,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000500,2026-03-14 11:11:42,D0052,U0037,Suspicious Process,teams.exe,LOW,Closed,FALSE_POSITIVE
+EDR001111,2026-03-12 16:44:05,D0148,U0008,Unusual Network,inventory_scan.exe,Low,Closed,FALSE_POSITIVE
+EDR001262,2026-03-11 04:03:00,D0144,U0343,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000278,2026-03-19T16:43:26Z,D0180,U0102,Suspicious Process,python.exe,high,Closed,FALSE_POSITIVE
+EDR001380,2026-03-11 09:57:00,D0150,U0242,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000383,2026-03-16 08:39:29,D0050,U0153,PUP Detected,inventory_scan.exe,High,In Progress,
+EDR000468,2026-03-11T10:01:28Z,D0052,U0207,PUP Detected,antivirus_update.exe,High,Closed,FALSE_POSITIVE
+EDR001147,2026-03-12 16:16:10,D0034,U0031,Suspicious Process,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000572,2026-03-19T14:03:44Z,D0111,U0280,PUP Detected,teams.exe,Low,In Progress,FALSE_POSITIVE
+EDR000031,2026-03-12 10:30:35,D0030,U0097,PUP Detected,antivirus_update.exe,Medium,Open,FALSE_POSITIVE
+EDR001739,2026-03-22 19:16:13,D0187,U0117,Malware Signature,mimikatz.exe,Critical,Closed,TRUE_POSITIVE
+EDR000876,2026-03-03 16:22:27,D0147,U0080,Unusual Network,sccm_client.exe,Low,Closed,FALSE_POSITIVE
+EDR001848,2026-03-13 08:47:52,D9003,U0146,Suspicious Process,outlook.exe,Low,Open,NEEDS_INVESTIGATION
+EDR000557,2026-03-06 12:59:11,D0055,U0105,Suspicious Process,outlook.exe,High,Closed,FALSE_POSITIVE
+EDR000535,2026-03-06 18:08:08,D0188,U0224,PUP Detected,outlook.exe,Low,Open,FALSE_POSITIVE
+EDR000231,2026-03-15 12:56:07,D0109,U0144,Unusual Network,chrome.exe,Low,Closed,FALSE_POSITIVE
+EDR001053,2026-03-06 19:56:12,D0095,U0250,PUP Detected,teams.exe,High,Closed,FALSE_POSITIVE
+EDR001195,2026-03-11 00:42:00,D0117,U0219,Suspicious Process,backup_agent.exe,high,Closed,
+EDR001326,2026-03-11 07:15:00,D0148,U0299,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000593,2026-03-03 14:48:10,D0073,U0393,Unusual Network,teams.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001236,2026-03-11 02:45:00,D0056,U0207,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000421,2026-03-13 18:01:41,D0189,U0162,Suspicious Process,python.exe,low,Closed,FALSE_POSITIVE
+EDR001274,2026-03-11 04:39:00,D0081,U0126,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001547,2026-03-11 18:18:00,D0024,U0099,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001346,2026-03-11 08:15:00,D0075,U0376,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000871,2026-03-11T10:37:58Z,D0102,U0319,PUP Detected,sccm_client.exe,medium,Closed,FALSE_POSITIVE
+EDR000389,2026-03-09 17:56:04,D0012,U0217,Unusual Network,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR000406,2026-03-06 15:27:58,D0185,U0167,PUP Detected,sccm_client.exe,high,In Progress,FALSE_POSITIVE
+EDR001058,2026-03-22 09:35:35,D0023,U0313,Unusual Network,teams.exe,high,Closed,FALSE_POSITIVE
+EDR001186,2026-03-11 00:15:00,D0005,U0367,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000728,2026-03-13 11:00:37,D0103,U0148,Unusual Network,antivirus_update.exe,medium,In Progress,FALSE_POSITIVE
+EDR000045,2026-03-04 19:10:11,D0089,U0123,PUP Detected,sccm_client.exe,high,In Progress,
+EDR001260,2026-03-11 03:57:00,D0186,U0079,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001820,2026-03-17 03:30:00,D0011,U0113,Persistence Attempt,rundll32.exe,Critical,Open,TRUE_POSITIVE
+EDR001144,2026-03-05 18:40:22,D0171,U0099,Unusual Network,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR000375,2026-03-14 10:45:04,D0184,U0375,Unusual Network,chrome.exe,low,Open,FALSE_POSITIVE
+EDR000024,2026-03-10 11:09:44,D0196,U0118,Unusual Network,teams.exe,Low,Open,FALSE_POSITIVE
+EDR001587,2026-03-17 19:51:36,D0056,U0384,Persistence Attempt,mimikatz.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000873,2026-03-13T14:30:26Z,D0028,U0267,PUP Detected,python.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001607,2026-03-08 12:59:16,D0025,U0287,Unusual Network,rundll32.exe,medium,Open,NEEDS_INVESTIGATION
+EDR000462,2026-03-19 17:03:17,D0144,U0177,Unusual Network,sccm_client.exe,Low,Open,FALSE_POSITIVE
+EDR000276,2026-03-13 14:14:25,D0168,U0348,Suspicious Process,chrome.exe,medium,Open,FALSE_POSITIVE
+EDR000527,2026-03-22 11:44:35,D0018,U0184,Unusual Network,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001625,2026-03-05T08:39:34Z,D0067,U0341,PowerShell Abuse,teams.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR000200,2026-03-08T16:10:41Z,D0188,U0239,Unusual Network,outlook.exe,low,Open,FALSE_POSITIVE
+EDR000528,2026-03-02T14:18:27Z,D0031,U0210,PUP Detected,chrome.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000882,2026-03-18 12:26:12,D0094,U0110,Suspicious Process,sccm_client.exe,MEDIUM,Open,
+EDR001680,2026-03-20 18:45:26,D0062,U0232,Suspicious Process,rundll32.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001486,2026-03-11 15:15:00,D0174,U0172,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000458,2026-03-04T19:05:20Z,D0186,U0214,Unusual Network,sccm_client.exe,medium,Closed,FALSE_POSITIVE
+EDR001731,2026-03-09 09:12:52,D0014,U0239,Credential Access,rundll32.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR000764,2026-03-10 18:54:53,D0071,U0128,Suspicious Process,antivirus_update.exe,medium,In Progress,FALSE_POSITIVE
+EDR001155,2026-03-08 19:46:43,D0128,U0191,Suspicious Process,outlook.exe,low,In Progress,FALSE_POSITIVE
+EDR000033,2026-03-09 17:18:04,D0005,U0232,Suspicious Process,sccm_client.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000568,2026-03-08 11:13:19,D0193,U0022,Suspicious Process,chrome.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001706,2026-03-09 15:30:41,D0167,U0362,Suspicious Process,sccm_client.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR001832,2026-03-21 08:58:35,D9003,U0288,PowerShell Abuse,cryptolock.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001312,2026-03-11 06:33:00,D0186,U0205,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000712,2026-03-12 08:44:39,D0182,U0287,Suspicious Process,inventory_scan.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001421,2026-03-11 12:00:00,D0058,U0318,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000478,2026-03-18T18:50:55Z,D0085,U0127,Suspicious Process,chrome.exe,medium,Closed,FALSE_POSITIVE
+EDR000653,2026-03-15T15:52:26Z,D0115,U0118,Suspicious Process,antivirus_update.exe,High,Closed,FALSE_POSITIVE
+EDR001734,2026-03-04 10:50:55,D0017,U0088,Persistence Attempt,powershell_enc.exe,HIGH,Closed,TRUE_POSITIVE
+EDR000394,2026-03-20T09:29:38Z,D0155,U0199,PUP Detected,inventory_scan.exe,medium,Open,FALSE_POSITIVE
+EDR000305,2026-03-11T11:39:26Z,D0109,U0323,Suspicious Process,outlook.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000755,2026-03-02 14:39:18,D0111,U0200,Unusual Network,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000852,2026-03-20 11:59:54,D0154,U0355,Suspicious Process,antivirus_update.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001612,2026-03-11 13:03:06,D0028,U0196,Credential Access,sccm_client.exe,CRITICAL,In Progress,NEEDS_INVESTIGATION
+EDR000285,2026-03-10 12:34:01,D0133,U0077,PUP Detected,chrome.exe,Low,In Progress,
+EDR000685,2026-03-07 08:24:15,D0005,U0163,PUP Detected,outlook.exe,High,Open,
+EDR000443,2026-03-22 09:56:31,D0110,U0346,Unusual Network,chrome.exe,Low,In Progress,
+EDR001227,2026-03-11 02:18:00,D0107,U0339,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000569,2026-03-15 18:09:12,D0087,U0158,Unusual Network,teams.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001741,2026-03-04 13:51:52,D0180,U0072,PowerShell Abuse,cryptolock.exe,high,Closed,TRUE_POSITIVE
+EDR000893,2026-03-19 14:09:21,D0054,U0021,Unusual Network,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR000232,2026-03-03 12:46:47,D0096,U0126,Suspicious Process,outlook.exe,LOW,Closed,FALSE_POSITIVE
+EDR000112,2026-03-14T18:04:04Z,D0116,U0047,Suspicious Process,teams.exe,high,Closed,FALSE_POSITIVE
+EDR000567,2026-03-07 16:10:30,D0080,U0069,PUP Detected,outlook.exe,low,Closed,FALSE_POSITIVE
+EDR000360,2026-03-18 10:59:23,D0183,U0245,Suspicious Process,inventory_scan.exe,low,In Progress,
+EDR000900,2026-03-12 17:49:13,D0065,U0275,PUP Detected,outlook.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001149,2026-03-16 14:39:56,D0141,U0225,Suspicious Process,teams.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000781,2026-03-10 14:54:33,D0192,U0159,Suspicious Process,antivirus_update.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000483,2026-03-17T12:05:24Z,D0114,U0183,PUP Detected,inventory_scan.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001297,2026-03-11T05:48:00Z,D0098,U0201,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000945,2026-03-18 14:49:07,D0009,U0303,Unusual Network,antivirus_update.exe,High,In Progress,
+EDR001179,2026-03-18 09:21:05,D0135,U0064,Suspicious Process,teams.exe,Low,Closed,FALSE_POSITIVE
+EDR001766,2026-03-16 08:38:08,D0104,U0040,Credential Access,mimikatz.exe,critical,Closed,TRUE_POSITIVE
+EDR000023,2026-03-03 13:55:35,D0094,U0341,PUP Detected,python.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000975,2026-03-22T08:09:34Z,D0200,U0082,Unusual Network,antivirus_update.exe,low,Open,FALSE_POSITIVE
+EDR001196,2026-03-11T00:45:00Z,D0192,U0327,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001709,2026-03-06T08:53:47Z,D0092,U0247,Credential Access,powershell_enc.exe,MEDIUM,In Progress,NEEDS_INVESTIGATION
+EDR001125,2026-03-07T16:53:34Z,D0092,U0318,Unusual Network,sccm_client.exe,High,Closed,FALSE_POSITIVE
+EDR000879,2026-03-07T10:44:17Z,D0199,U0363,PUP Detected,chrome.exe,Medium,Closed,FALSE_POSITIVE
+EDR001348,2026-03-11 08:21:00,D0108,U0084,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000634,2026-03-08 12:34:36,D0122,U0042,Suspicious Process,antivirus_update.exe,Low,In Progress,FALSE_POSITIVE
+EDR000173,2026-03-19 11:48:09,D0002,U0179,Unusual Network,antivirus_update.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000058,2026-03-18 18:54:30,D0112,U0178,Unusual Network,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000601,2026-03-10 18:13:51,D0034,U0298,Suspicious Process,inventory_scan.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001434,2026-03-11 12:39:00,D0019,U0320,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000401,2026-03-12 19:39:25,D0131,U0252,Unusual Network,teams.exe,Low,In Progress,FALSE_POSITIVE
+EDR000029,2026-03-15T09:32:19Z,D0142,U0244,Unusual Network,teams.exe,high,In Progress,FALSE_POSITIVE
+EDR001713,2026-03-19 08:53:20,D0167,U0107,Unusual Network,sccm_client.exe,high,Open,NEEDS_INVESTIGATION
+EDR000057,2026-03-12T14:21:46Z,D0161,U0052,Unusual Network,teams.exe,Low,In Progress,FALSE_POSITIVE
+EDR000048,2026-03-06T17:13:44Z,D0193,U0344,Unusual Network,antivirus_update.exe,high,Open,FALSE_POSITIVE
+EDR001504,2026-03-11 16:09:00,D0140,U0041,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001791,2026-03-12 03:15:00,D0003,U0007,Credential Access,powershell_enc.exe,CRITICAL,Open,TRUE_POSITIVE
+EDR001850,2026-03-02 13:04:36,D9001,U0260,Suspicious Process,inventory_scan.exe,Critical,Open,NEEDS_INVESTIGATION
+EDR000502,2026-03-07 13:00:15,D0039,U0200,Suspicious Process,python.exe,Medium,Open,
+EDR000277,2026-03-09 19:50:04,D0005,U0184,PUP Detected,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR001213,2026-03-11 01:36:00,D0098,U0237,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000501,2026-03-20 18:10:58,D0030,U0205,PUP Detected,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR000584,2026-03-13 19:20:38,D0189,U0120,PUP Detected,outlook.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001725,2026-03-17T08:19:06Z,D0006,U0363,Credential Access,rundll32.exe,High,In Progress,NEEDS_INVESTIGATION
+EDR000270,2026-03-08T09:15:48Z,D0141,U0292,PUP Detected,antivirus_update.exe,low,In Progress,FALSE_POSITIVE
+EDR000628,2026-03-17 15:04:28,D0070,U0389,PUP Detected,chrome.exe,High,In Progress,FALSE_POSITIVE
+EDR000370,2026-03-18 18:15:59,D0139,U0023,PUP Detected,sccm_client.exe,medium,Closed,FALSE_POSITIVE
+EDR001296,2026-03-11T05:45:00Z,D0189,U0046,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000363,2026-03-06 16:54:46,D0046,U0110,PUP Detected,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR000438,2026-03-20T14:27:13Z,D0194,U0042,Suspicious Process,teams.exe,high,Open,FALSE_POSITIVE
+EDR000985,2026-03-15 08:47:26,D0126,U0280,Unusual Network,inventory_scan.exe,low,Closed,FALSE_POSITIVE
+EDR001752,2026-03-10 12:14:39,D0081,U0217,Persistence Attempt,powershell_enc.exe,CRITICAL,Closed,
+EDR000885,2026-03-14 08:00:46,D0026,U0061,Suspicious Process,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR000402,2026-03-13 09:35:24,D0166,U0373,Suspicious Process,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000043,2026-03-08 18:34:40,D0071,U0137,PUP Detected,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000425,2026-03-13 09:22:48,D0190,U0016,Unusual Network,python.exe,low,Open,FALSE_POSITIVE
+EDR001535,2026-03-11 17:42:00,D0091,U0046,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000642,2026-03-11 18:29:33,D0014,U0254,Unusual Network,teams.exe,LOW,Open,FALSE_POSITIVE
+EDR000062,2026-03-09 19:39:38,D0026,U0202,PUP Detected,sccm_client.exe,Medium,Closed,FALSE_POSITIVE
+EDR001133,2026-03-08T15:22:33Z,D0024,U0113,PUP Detected,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR000338,2026-03-11 19:56:58,D0027,U0311,Unusual Network,chrome.exe,Low,In Progress,FALSE_POSITIVE
+EDR000848,2026-03-09T16:31:53Z,D0033,U0139,PUP Detected,teams.exe,High,In Progress,FALSE_POSITIVE
+EDR001124,2026-03-12 16:00:25,D0052,U0192,Suspicious Process,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR000826,2026-03-19 11:47:02,D0177,U0049,Suspicious Process,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000679,2026-03-10 18:44:05,D0116,U0309,PUP Detected,outlook.exe,LOW,Closed,FALSE_POSITIVE
+EDR001622,2026-03-20T08:55:07Z,D0012,U0114,Suspicious Process,antivirus_update.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR001683,2026-03-22T11:12:34Z,D0194,U0248,Suspicious Process,chrome.exe,CRITICAL,In Progress,
+EDR001445,2026-03-11T13:12:00Z,D0043,U0182,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001827,2026-03-09 12:23:34,D9004,U0321,Suspicious Process,inventory_scan.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR001188,2026-03-11 00:21:00,D0182,U0370,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000868,2026-03-10 15:36:50,D0037,U0088,Unusual Network,inventory_scan.exe,MEDIUM,Closed,
+EDR000649,2026-03-22 10:18:39,D0081,U0072,Unusual Network,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR001218,2026-03-11 01:51:00,D0028,U0229,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001364,2026-03-11 09:09:00,D0025,U0197,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000521,2026-03-10 17:28:05,D0018,U0258,Unusual Network,outlook.exe,Low,In Progress,FALSE_POSITIVE
+EDR000014,2026-03-17T09:37:33Z,D0196,U0386,Suspicious Process,antivirus_update.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001853,2026-03-11T13:02:54Z,D9005,U0315,Suspicious Process,chrome.exe,critical,Open,
+EDR000068,2026-03-19 16:09:16,D0038,U0217,Suspicious Process,inventory_scan.exe,high,In Progress,FALSE_POSITIVE
+EDR000101,2026-03-21 19:10:27,D0082,U0298,Unusual Network,teams.exe,Medium,Closed,FALSE_POSITIVE
+EDR000809,2026-03-02T13:40:51Z,D0159,U0113,PUP Detected,inventory_scan.exe,LOW,Open,FALSE_POSITIVE
+EDR001310,2026-03-11 06:27:00,D0024,U0062,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000118,2026-03-20 18:53:11,D0199,U0240,PUP Detected,outlook.exe,high,In Progress,
+EDR001761,2026-03-02 09:15:29,D0025,U0354,Malware Signature,psexec.exe,high,Closed,TRUE_POSITIVE
+EDR001315,2026-03-11 06:42:00,D0087,U0278,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000230,2026-03-09T19:08:53Z,D0155,U0365,Suspicious Process,outlook.exe,Low,Open,FALSE_POSITIVE
+EDR001358,2026-03-11T08:51:00Z,D0170,U0194,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000042,2026-03-07 17:04:09,D0115,U0191,Suspicious Process,chrome.exe,Low,Open,
+EDR001315,2026-03-11 06:42:00,D0087,U0278,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001277,2026-03-11 04:48:00,D0028,U0172,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000457,2026-03-22 12:10:45,D0121,U0069,PUP Detected,inventory_scan.exe,high,Closed,FALSE_POSITIVE
+EDR001305,2026-03-11 06:12:00,D0002,U0077,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000405,2026-03-18T08:47:57Z,D0145,U0178,Unusual Network,sccm_client.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001397,2026-03-11 10:48:00,D0061,U0040,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001560,2026-03-11T18:57:00Z,D0152,U0205,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000378,2026-03-15 12:50:55,D0166,U0267,Unusual Network,teams.exe,Low,Open,FALSE_POSITIVE
+EDR001837,2026-03-22 15:58:24,D9005,U0012,PUP Detected,sccm_client.exe,High,Open,NEEDS_INVESTIGATION
+EDR000001,2026-03-12 08:30:31,D0080,U0333,PUP Detected,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR001318,2026-03-11T06:51:00Z,D0052,U0230,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001340,2026-03-11T07:57:00Z,D0070,U0307,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000666,2026-03-22 15:29:01,D0189,U0289,Unusual Network,teams.exe,medium,In Progress,FALSE_POSITIVE
+EDR000763,2026-03-02 08:17:01,D0077,U0001,Suspicious Process,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000596,2026-03-05 12:34:15,D0195,U0014,Unusual Network,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR000127,2026-03-11T08:35:11Z,D0094,U0285,Suspicious Process,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR000878,2026-03-02T14:13:11Z,D0141,U0191,Suspicious Process,chrome.exe,LOW,Closed,FALSE_POSITIVE
+EDR001168,2026-03-22 11:13:25,D0065,U0160,PUP Detected,chrome.exe,medium,Closed,FALSE_POSITIVE
+EDR000940,2026-03-09 18:06:40,D0088,U0381,Unusual Network,python.exe,low,In Progress,FALSE_POSITIVE
+EDR000229,2026-03-06 08:52:35,D0177,U0146,PUP Detected,inventory_scan.exe,high,In Progress,FALSE_POSITIVE
+EDR001250,2026-03-11 03:27:00,D0043,U0302,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001644,2026-03-18 12:42:53,D0034,U0250,Unusual Network,rundll32.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001467,2026-03-11 14:18:00,D0023,U0007,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000856,2026-03-13 19:12:53,D0051,U0266,Unusual Network,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000497,2026-03-12 17:41:14,D0155,U0074,Suspicious Process,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR001765,2026-03-17 12:12:43,D0133,U0074,Persistence Attempt,cryptolock.exe,Critical,Closed,TRUE_POSITIVE
+EDR000650,2026-03-03 17:19:52,D0019,U0003,Unusual Network,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000660,2026-03-07T13:33:10Z,D0169,U0355,PUP Detected,chrome.exe,HIGH,Open,FALSE_POSITIVE
+EDR000191,2026-03-19T18:36:54Z,D0013,U0115,Suspicious Process,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR000550,2026-03-10 18:14:49,D0008,U0012,Unusual Network,teams.exe,LOW,Closed,FALSE_POSITIVE
+EDR001792,2026-03-12 03:18:00,D0003,U0007,Credential Access,rundll32.exe,CRITICAL,In Progress,NEEDS_INVESTIGATION
+EDR000803,2026-03-14 18:12:45,D0198,U0187,Suspicious Process,inventory_scan.exe,Low,In Progress,FALSE_POSITIVE
+EDR000701,2026-03-14 12:55:09,D0004,U0290,Unusual Network,chrome.exe,low,In Progress,FALSE_POSITIVE
+EDR001848,2026-03-13 08:47:52,D9003,U0146,Suspicious Process,outlook.exe,Low,Open,NEEDS_INVESTIGATION
+EDR001559,2026-03-11T18:54:00Z,D0185,U0232,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000178,2026-03-16 14:31:29,D0033,U0168,PUP Detected,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR000832,2026-03-22 10:19:33,D0130,U0389,Suspicious Process,antivirus_update.exe,High,In Progress,FALSE_POSITIVE
+EDR001701,2026-03-08T14:47:55Z,D0051,U0201,Unusual Network,python.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001517,2026-03-11 16:48:00,D0186,U0364,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000869,2026-03-14T19:33:56Z,D0039,U0296,Unusual Network,inventory_scan.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000944,2026-03-22 08:01:26,D0050,U0150,PUP Detected,teams.exe,LOW,Closed,FALSE_POSITIVE
+EDR000726,2026-03-12 14:23:49,D0067,U0109,Unusual Network,inventory_scan.exe,LOW,Closed,FALSE_POSITIVE
+EDR001167,2026-03-17 09:16:06,D0011,U0234,Suspicious Process,python.exe,high,In Progress,FALSE_POSITIVE
+EDR000780,2026-03-06 09:17:54,D0124,U0137,Suspicious Process,outlook.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001682,2026-03-14T17:14:37Z,D0058,U0231,Ransomware Behaviour,inventory_scan.exe,Low,Open,
+EDR000800,2026-03-15T15:03:56Z,D0139,U0313,Unusual Network,inventory_scan.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000132,2026-03-04 19:52:37,D0016,U0152,Unusual Network,teams.exe,Low,Open,FALSE_POSITIVE
+EDR001444,2026-03-11T13:09:00Z,D0028,U0237,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001633,2026-03-20 09:18:58,D0110,U0096,Malware Signature,teams.exe,medium,In Progress,NEEDS_INVESTIGATION
+EDR001687,2026-03-05 13:59:17,D0080,U0082,Malware Signature,chrome.exe,Low,In Progress,NEEDS_INVESTIGATION
+EDR001035,2026-03-14T11:48:37Z,D0200,U0064,Unusual Network,outlook.exe,High,Closed,FALSE_POSITIVE
+EDR000005,2026-03-06 09:28:55,D0142,U0185,Suspicious Process,sccm_client.exe,High,Open,FALSE_POSITIVE
+EDR000281,2026-03-16 17:33:22,D0051,U0072,Suspicious Process,antivirus_update.exe,LOW,Closed,FALSE_POSITIVE
+EDR001825,2026-03-17T03:55:00Z,D0011,U0113,Credential Access,powershell_enc.exe,CRITICAL,Open,TRUE_POSITIVE
+EDR001148,2026-03-16 16:40:27,D0085,U0200,Unusual Network,inventory_scan.exe,LOW,Open,FALSE_POSITIVE
+EDR000490,2026-03-20T14:01:26Z,D0040,U0161,Unusual Network,chrome.exe,medium,Open,FALSE_POSITIVE
+EDR001805,2026-03-12 03:57:00,D0003,U0007,Persistence Attempt,rundll32.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR000766,2026-03-06 17:29:06,D0111,U0070,PUP Detected,python.exe,Low,Closed,FALSE_POSITIVE
+EDR001096,2026-03-16 15:07:19,D0189,U0307,Suspicious Process,sccm_client.exe,High,Closed,FALSE_POSITIVE
+EDR000330,2026-03-18 16:46:05,D0070,U0166,Unusual Network,outlook.exe,Low,Closed,FALSE_POSITIVE
+EDR001429,2026-03-11T12:24:00Z,D0126,U0224,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000219,2026-03-15 11:54:02,D0181,U0328,PUP Detected,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR001808,2026-03-12T04:06:00Z,D0003,U0007,Credential Access,rundll32.exe,critical,Open,NEEDS_INVESTIGATION
+EDR000702,2026-03-18T16:27:47Z,D0172,U0343,Suspicious Process,antivirus_update.exe,High,In Progress,FALSE_POSITIVE
+EDR000608,2026-03-06 09:52:05,D0095,U0139,Unusual Network,teams.exe,medium,In Progress,FALSE_POSITIVE
+EDR000386,2026-03-03 18:45:03,D0042,U0225,Suspicious Process,chrome.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000927,2026-03-06 19:22:06,D0030,U0067,Suspicious Process,teams.exe,medium,Open,FALSE_POSITIVE
+EDR000068,2026-03-19 16:09:16,D0038,U0217,Suspicious Process,inventory_scan.exe,high,In Progress,FALSE_POSITIVE
+EDR000853,2026-03-06 14:06:45,D0070,U0108,Suspicious Process,chrome.exe,LOW,Open,FALSE_POSITIVE
+EDR000919,2026-03-13 10:40:13,D0066,U0130,Suspicious Process,antivirus_update.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001245,2026-03-11 03:12:00,D0177,U0292,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR001662,2026-03-02 11:26:11,D0005,U0380,PUP Detected,sccm_client.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001570,2026-03-11 19:27:00,D0067,U0290,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001618,2026-03-10T18:03:01Z,D0093,U0274,PUP Detected,cryptolock.exe,LOW,Open,NEEDS_INVESTIGATION
+EDR000384,2026-03-22 19:48:25,D0195,U0325,PUP Detected,outlook.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001411,2026-03-11T11:30:00Z,D0036,U0156,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001213,2026-03-11 01:36:00,D0098,U0237,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000244,2026-03-16T17:36:33Z,D0036,U0328,Unusual Network,outlook.exe,medium,Closed,FALSE_POSITIVE
+EDR000571,2026-03-17T14:48:55Z,D0175,U0350,PUP Detected,outlook.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001200,2026-03-11 00:57:00,D0159,U0157,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000291,2026-03-17 18:19:48,D0191,U0288,Suspicious Process,antivirus_update.exe,high,Open,FALSE_POSITIVE
+EDR001387,2026-03-11T10:18:00Z,D0038,U0166,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001409,2026-03-11 11:24:00,D0160,U0367,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000412,2026-03-08 14:14:51,D0017,U0053,Unusual Network,python.exe,High,In Progress,FALSE_POSITIVE
+EDR001855,2026-03-05 11:52:14,D9001,U0354,Suspicious Process,python.exe,Medium,Open,NEEDS_INVESTIGATION
+EDR000859,2026-03-10 19:30:24,D0133,U0273,Suspicious Process,python.exe,Low,Open,
+EDR000373,2026-03-22 19:08:23,D0192,U0336,PUP Detected,chrome.exe,medium,In Progress,
+EDR000432,2026-03-22T09:55:53Z,D0186,U0322,Suspicious Process,outlook.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000041,2026-03-18 16:37:26,D0039,U0044,PUP Detected,inventory_scan.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001071,2026-03-12 13:42:55,D0135,U0115,Suspicious Process,python.exe,High,In Progress,FALSE_POSITIVE
+EDR001217,2026-03-11 01:48:00,D0071,U0325,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000989,2026-03-22 15:05:47,D0139,U0322,PUP Detected,teams.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001830,2026-03-18 14:08:13,D9002,U0066,Unusual Network,outlook.exe,Low,Open,NEEDS_INVESTIGATION
+EDR001226,2026-03-11T02:15:00Z,D0027,U0120,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001140,2026-03-13 15:43:54,D0085,U0123,PUP Detected,chrome.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001598,2026-03-03 18:01:04,D0189,U0389,PUP Detected,psexec.exe,medium,In Progress,NEEDS_INVESTIGATION
+EDR000995,2026-03-06T17:19:26Z,D0126,U0030,Unusual Network,teams.exe,medium,Closed,FALSE_POSITIVE
+EDR001726,2026-03-04 17:54:05,D0181,U0110,Ransomware Behaviour,antivirus_update.exe,MEDIUM,In Progress,NEEDS_INVESTIGATION
+EDR000141,2026-03-07 08:09:52,D0183,U0377,PUP Detected,sccm_client.exe,high,In Progress,FALSE_POSITIVE
+EDR001758,2026-03-16 08:55:04,D0034,U0178,PowerShell Abuse,rundll32.exe,critical,Closed,TRUE_POSITIVE
+EDR000135,2026-03-17 17:02:36,D0105,U0297,PUP Detected,inventory_scan.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000494,2026-03-02 10:02:11,D0079,U0318,Suspicious Process,sccm_client.exe,medium,Closed,FALSE_POSITIVE
+EDR001194,2026-03-11 00:39:00,D0029,U0330,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001567,2026-03-11 19:18:00,D0014,U0101,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000346,2026-03-02 15:30:47,D0062,U0176,Unusual Network,sccm_client.exe,Low,Open,FALSE_POSITIVE
+EDR000597,2026-03-03 19:07:20,D0137,U0388,Suspicious Process,outlook.exe,High,In Progress,FALSE_POSITIVE
+EDR000509,2026-03-13 10:34:42,D0069,U0280,PUP Detected,outlook.exe,medium,Closed,FALSE_POSITIVE
+EDR001269,2026-03-11T04:24:00Z,D0010,U0202,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001601,2026-03-12 15:13:14,D0180,U0030,Malware Signature,mimikatz.exe,CRITICAL,In Progress,NEEDS_INVESTIGATION
+EDR001627,2026-03-05 15:42:33,D0066,U0345,Unusual Network,antivirus_update.exe,CRITICAL,In Progress,NEEDS_INVESTIGATION
+EDR001135,2026-03-21 16:13:20,D0059,U0198,PUP Detected,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR000221,2026-03-16 08:01:22,D0061,U0257,PUP Detected,antivirus_update.exe,medium,In Progress,FALSE_POSITIVE
+EDR000633,2026-03-08 13:18:58,D0102,U0366,Suspicious Process,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000914,2026-03-04T16:11:21Z,D0011,U0012,PUP Detected,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000865,2026-03-11 14:11:01,D0009,U0393,Suspicious Process,chrome.exe,Medium,Closed,
+EDR000840,2026-03-16 09:27:36,D0011,U0122,Suspicious Process,sccm_client.exe,high,Open,FALSE_POSITIVE
+EDR000441,2026-03-20 19:06:57,D0036,U0296,Unusual Network,antivirus_update.exe,medium,Closed,FALSE_POSITIVE
+EDR000088,2026-03-14 13:32:43,D0058,U0296,Unusual Network,teams.exe,medium,Open,FALSE_POSITIVE
+EDR001485,2026-03-11 15:12:00,D0146,U0251,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR001187,2026-03-11T00:18:00Z,D0062,U0007,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001401,2026-03-11T11:00:00Z,D0137,U0210,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000655,2026-03-09T19:01:17Z,D0105,U0274,Unusual Network,sccm_client.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000444,2026-03-14 18:58:29,D0176,U0195,Suspicious Process,outlook.exe,Low,Open,FALSE_POSITIVE
+EDR001316,2026-03-11 06:45:00,D0096,U0299,Suspicious Process,backup_agent.exe,High,Closed,
+EDR001816,2026-03-12T04:30:00Z,D0003,U0007,Persistence Attempt,rundll32.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR000524,2026-03-16 12:37:16,D0055,U0326,PUP Detected,outlook.exe,Low,Closed,
+EDR001776,2026-03-12T02:30:00Z,D0003,U0007,PowerShell Abuse,cryptolock.exe,critical,Open,TRUE_POSITIVE
+EDR001081,2026-03-06 12:03:41,D0005,U0193,Unusual Network,python.exe,low,Closed,
+EDR000114,2026-03-22 17:59:01,D0017,U0322,Unusual Network,outlook.exe,HIGH,Open,FALSE_POSITIVE
+EDR000051,2026-03-10 11:04:56,D0129,U0125,PUP Detected,sccm_client.exe,High,Closed,FALSE_POSITIVE
+EDR000683,2026-03-17T17:58:30Z,D0125,U0027,Unusual Network,antivirus_update.exe,LOW,Open,
+EDR001290,2026-03-11T05:27:00Z,D0109,U0313,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000966,2026-03-16 15:28:40,D0045,U0141,Suspicious Process,python.exe,low,Closed,FALSE_POSITIVE
+EDR000953,2026-03-09 16:08:22,D0097,U0338,Unusual Network,sccm_client.exe,medium,In Progress,FALSE_POSITIVE
+EDR001284,2026-03-11T05:09:00Z,D0092,U0283,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001643,2026-03-10T14:36:38Z,D0057,U0133,Ransomware Behaviour,rundll32.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR001584,2026-03-16 18:40:58,D0039,U0041,Ransomware Behaviour,teams.exe,HIGH,Open,
+EDR000744,2026-03-22 18:32:14,D0132,U0106,Unusual Network,antivirus_update.exe,high,Closed,FALSE_POSITIVE
+EDR001007,2026-03-06 13:22:55,D0100,U0036,Suspicious Process,outlook.exe,High,Closed,FALSE_POSITIVE
+EDR001745,2026-03-06 14:45:13,D0136,U0153,Credential Access,psexec.exe,Critical,Closed,
+EDR001681,2026-03-22 16:27:20,D0173,U0004,Persistence Attempt,antivirus_update.exe,Critical,In Progress,NEEDS_INVESTIGATION
+EDR001514,2026-03-11 16:39:00,D0147,U0386,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000815,2026-03-10 09:02:57,D0012,U0030,PUP Detected,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000638,2026-03-18 12:07:28,D0035,U0359,PUP Detected,antivirus_update.exe,high,Open,
+EDR000531,2026-03-09 16:54:57,D0053,U0392,PUP Detected,inventory_scan.exe,medium,Open,FALSE_POSITIVE
+EDR001214,2026-03-11 01:39:00,D0079,U0119,Suspicious Process,backup_agent.exe,High,Closed,
+EDR001658,2026-03-09 14:09:03,D0097,U0090,Credential Access,powershell_enc.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001660,2026-03-20 17:15:19,D0140,U0355,PowerShell Abuse,rundll32.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000311,2026-03-11 15:02:33,D0156,U0146,PUP Detected,antivirus_update.exe,low,Open,FALSE_POSITIVE
+EDR001553,2026-03-11 18:36:00,D0117,U0278,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001667,2026-03-10 10:25:56,D0036,U0264,Unusual Network,mimikatz.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR001052,2026-03-09T10:42:20Z,D0199,U0363,Unusual Network,chrome.exe,Low,Closed,FALSE_POSITIVE
+EDR000662,2026-03-21 10:25:11,D0053,U0313,Unusual Network,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR000525,2026-03-04 13:08:15,D0016,U0004,Unusual Network,outlook.exe,high,Open,FALSE_POSITIVE
+EDR000056,2026-03-04 08:56:48,D0024,U0223,PUP Detected,chrome.exe,high,In Progress,FALSE_POSITIVE
+EDR000700,2026-03-10 12:44:12,D0145,U0112,Suspicious Process,python.exe,Medium,Open,FALSE_POSITIVE
+EDR001142,2026-03-19 11:48:26,D0011,U0229,Unusual Network,python.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001555,2026-03-11 18:42:00,D0056,U0262,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000429,2026-03-10 10:04:21,D0135,U0287,Unusual Network,antivirus_update.exe,low,Closed,
+EDR001249,2026-03-11 03:24:00,D0137,U0274,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000392,2026-03-09 12:20:30,D0052,U0347,Suspicious Process,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000064,2026-03-11 15:19:00,D0153,U0362,Suspicious Process,python.exe,High,Open,FALSE_POSITIVE
+EDR000182,2026-03-03T17:17:25Z,D0155,U0033,PUP Detected,python.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001356,2026-03-11 08:45:00,D0070,U0121,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001248,2026-03-11 03:21:00,D0130,U0250,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000810,2026-03-07 15:55:51,D0130,U0136,Unusual Network,antivirus_update.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000496,2026-03-05T11:29:31Z,D0192,U0346,Suspicious Process,teams.exe,MEDIUM,Closed,
+EDR000897,2026-03-15 12:43:28,D0140,U0043,Unusual Network,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR001084,2026-03-08 19:27:00,D0109,U0004,Suspicious Process,teams.exe,high,Open,FALSE_POSITIVE
+EDR000806,2026-03-10 08:30:27,D0059,U0102,Suspicious Process,outlook.exe,High,In Progress,FALSE_POSITIVE
+EDR000583,2026-03-22T10:53:36Z,D0151,U0111,PUP Detected,inventory_scan.exe,Medium,Open,FALSE_POSITIVE
+EDR000447,2026-03-17 14:12:02,D0176,U0364,Suspicious Process,teams.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000117,2026-03-18 15:58:39,D0194,U0072,PUP Detected,python.exe,low,In Progress,FALSE_POSITIVE
+EDR001493,2026-03-11 15:36:00,D0096,U0284,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001361,2026-03-11 09:00:00,D0155,U0120,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR000831,2026-03-19 19:22:07,D0194,U0216,PUP Detected,python.exe,low,Open,FALSE_POSITIVE
+EDR001503,2026-03-11 16:06:00,D0082,U0058,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000976,2026-03-09 17:06:45,D0152,U0211,Unusual Network,inventory_scan.exe,high,Open,FALSE_POSITIVE
+EDR001128,2026-03-10 18:41:14,D0035,U0258,Suspicious Process,outlook.exe,high,Open,
+EDR000147,2026-03-21 14:21:28,D0081,U0016,PUP Detected,inventory_scan.exe,low,Closed,
+EDR000664,2026-03-16 12:46:36,D0167,U0035,Unusual Network,python.exe,medium,Open,
+EDR000777,2026-03-09T14:11:39Z,D0147,U0176,Suspicious Process,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000387,2026-03-08 14:04:23,D0061,U0305,Unusual Network,python.exe,LOW,Open,FALSE_POSITIVE
+EDR001003,2026-03-21 16:42:19,D0187,U0100,Suspicious Process,antivirus_update.exe,Low,Closed,FALSE_POSITIVE
+EDR001772,2026-03-13 16:46:09,D0089,U0232,Malware Signature,rundll32.exe,critical,Closed,TRUE_POSITIVE
+EDR000804,2026-03-16 13:12:44,D0140,U0226,Unusual Network,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR000222,2026-03-17T12:46:13Z,D0149,U0196,Suspicious Process,chrome.exe,Low,Closed,
+EDR000487,2026-03-13 08:45:20,D0149,U0348,PUP Detected,sccm_client.exe,LOW,Open,
+EDR000100,2026-03-13 10:11:07,D0091,U0113,Suspicious Process,outlook.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001603,2026-03-13T10:11:48Z,D0048,U0273,Ransomware Behaviour,inventory_scan.exe,LOW,Open,NEEDS_INVESTIGATION
+EDR001161,2026-03-19 09:51:40,D0192,U0031,Unusual Network,inventory_scan.exe,LOW,Open,FALSE_POSITIVE
+EDR000946,2026-03-22 11:40:48,D0163,U0387,PUP Detected,chrome.exe,LOW,Open,FALSE_POSITIVE
+EDR000759,2026-03-14T11:39:34Z,D0037,U0068,PUP Detected,inventory_scan.exe,high,Open,FALSE_POSITIVE
+EDR001046,2026-03-13T18:46:56Z,D0123,U0047,PUP Detected,outlook.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000512,2026-03-08 13:29:33,D0176,U0268,Suspicious Process,inventory_scan.exe,medium,In Progress,FALSE_POSITIVE
+EDR000713,2026-03-06 11:17:59,D0068,U0244,PUP Detected,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR000382,2026-03-18T10:06:09Z,D0071,U0150,Unusual Network,inventory_scan.exe,LOW,Closed,FALSE_POSITIVE
+EDR000390,2026-03-05T15:50:18Z,D0119,U0037,Suspicious Process,inventory_scan.exe,high,Closed,FALSE_POSITIVE
+EDR001474,2026-03-11 14:39:00,D0175,U0074,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000169,2026-03-10 19:58:08,D0177,U0238,PUP Detected,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000139,2026-03-17 14:42:49,D0193,U0198,Suspicious Process,outlook.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000098,2026-03-15 14:29:59,D0022,U0111,Suspicious Process,outlook.exe,Low,Closed,FALSE_POSITIVE
+EDR000249,2026-03-06T16:43:33Z,D0154,U0237,Suspicious Process,python.exe,LOW,Closed,FALSE_POSITIVE
+EDR001398,2026-03-11 10:51:00,D0103,U0017,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000125,2026-03-21 13:35:14,D0109,U0161,PUP Detected,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000813,2026-03-06 17:04:19,D0023,U0322,PUP Detected,chrome.exe,medium,Closed,FALSE_POSITIVE
+EDR000552,2026-03-02 15:22:17,D0196,U0081,PUP Detected,teams.exe,low,Open,FALSE_POSITIVE
+EDR000133,2026-03-04T10:05:57Z,D0061,U0013,PUP Detected,python.exe,High,Open,
+EDR001724,2026-03-11 09:28:04,D0042,U0238,Credential Access,teams.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR000851,2026-03-05T17:55:16Z,D0011,U0355,Unusual Network,inventory_scan.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001712,2026-03-20T14:33:57Z,D0151,U0019,Credential Access,antivirus_update.exe,CRITICAL,Open,NEEDS_INVESTIGATION
+EDR001554,2026-03-11 18:39:00,D0183,U0117,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001220,2026-03-11 01:57:00,D0159,U0233,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001136,2026-03-19 11:41:56,D0180,U0171,PUP Detected,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR001491,2026-03-11 15:30:00,D0199,U0078,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000143,2026-03-13 16:05:23,D0109,U0015,Suspicious Process,teams.exe,LOW,Open,FALSE_POSITIVE
+EDR000973,2026-03-10 18:36:46,D0004,U0085,Unusual Network,teams.exe,Low,In Progress,
+EDR001225,2026-03-11 02:12:00,D0149,U0298,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000452,2026-03-08 10:39:13,D0193,U0038,PUP Detected,teams.exe,Medium,Open,
+EDR000110,2026-03-13 15:03:35,D0016,U0103,PUP Detected,antivirus_update.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001192,2026-03-11 00:33:00,D0143,U0029,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000448,2026-03-17 17:56:02,D0145,U0018,Unusual Network,python.exe,LOW,Closed,FALSE_POSITIVE
+EDR001442,2026-03-11 13:03:00,D0134,U0129,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001291,2026-03-11 05:30:00,D0200,U0291,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001159,2026-03-04 14:58:45,D0014,U0299,Unusual Network,teams.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001336,2026-03-11 07:45:00,D0012,U0390,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001024,2026-03-15T17:18:41Z,D0192,U0346,Suspicious Process,antivirus_update.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000255,2026-03-11 09:09:46,D0105,U0036,Suspicious Process,teams.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001630,2026-03-05 09:13:43,D0138,U0347,Persistence Attempt,cryptolock.exe,High,In Progress,NEEDS_INVESTIGATION
+EDR000651,2026-03-22 18:44:24,D0061,U0221,PUP Detected,teams.exe,HIGH,Closed,
+EDR000565,2026-03-08 19:16:37,D0099,U0071,Unusual Network,inventory_scan.exe,low,Open,FALSE_POSITIVE
+EDR001440,2026-03-11 12:57:00,D0095,U0307,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000943,2026-03-09T16:19:19Z,D0031,U0340,PUP Detected,teams.exe,Medium,Closed,FALSE_POSITIVE
+EDR001332,2026-03-11 07:33:00,D0197,U0311,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000422,2026-03-15T15:36:47Z,D0193,U0343,PUP Detected,python.exe,Low,Open,FALSE_POSITIVE
+EDR000785,2026-03-14 18:51:00,D0067,U0052,PUP Detected,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR001366,2026-03-11 09:15:00,D0079,U0184,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000086,2026-03-06 10:05:52,D0027,U0158,PUP Detected,inventory_scan.exe,low,In Progress,FALSE_POSITIVE
+EDR000748,2026-03-13 08:41:21,D0032,U0098,Unusual Network,teams.exe,Medium,Closed,FALSE_POSITIVE
+EDR001454,2026-03-11 13:39:00,D0078,U0126,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000881,2026-03-08T18:37:55Z,D0075,U0168,Unusual Network,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR001394,2026-03-11 10:39:00,D0095,U0370,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000746,2026-03-08 09:42:22,D0069,U0166,Suspicious Process,teams.exe,Low,Open,
+EDR001102,2026-03-16 17:21:08,D0198,U0081,Unusual Network,sccm_client.exe,medium,In Progress,FALSE_POSITIVE
+EDR000657,2026-03-19 17:51:30,D0085,U0370,PUP Detected,python.exe,Medium,Closed,FALSE_POSITIVE
+EDR000096,2026-03-03 16:49:01,D0144,U0058,Unusual Network,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR000807,2026-03-04 11:37:16,D0034,U0385,PUP Detected,outlook.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001496,2026-03-11 15:45:00,D0075,U0175,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR001798,2026-03-12 03:36:00,D0003,U0007,PowerShell Abuse,mimikatz.exe,critical,Open,NEEDS_INVESTIGATION
+EDR001521,2026-03-11 17:00:00,D0097,U0366,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000146,2026-03-18 12:30:37,D0186,U0320,Unusual Network,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR001316,2026-03-11 06:45:00,D0096,U0299,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000424,2026-03-14 18:11:28,D0026,U0076,Suspicious Process,antivirus_update.exe,medium,In Progress,
+EDR001271,2026-03-11 04:30:00,D0173,U0349,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000477,2026-03-16T16:06:12Z,D0077,U0239,Unusual Network,teams.exe,Low,In Progress,
+EDR000351,2026-03-08T11:59:20Z,D0168,U0261,Suspicious Process,inventory_scan.exe,high,Closed,
+EDR000731,2026-03-03T16:44:43Z,D0019,U0307,Suspicious Process,python.exe,low,Closed,FALSE_POSITIVE
+EDR000301,2026-03-22 19:09:33,D0160,U0285,Unusual Network,teams.exe,Low,Closed,FALSE_POSITIVE
+EDR001447,2026-03-11 13:18:00,D0162,U0078,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000602,2026-03-13 10:07:57,D0053,U0392,Unusual Network,chrome.exe,Medium,Open,FALSE_POSITIVE
+EDR001243,2026-03-11 03:06:00,D0110,U0347,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000202,2026-03-10 16:10:20,D0159,U0352,Suspicious Process,inventory_scan.exe,medium,Open,FALSE_POSITIVE
+EDR001743,2026-03-22 12:19:11,D0198,U0144,Persistence Attempt,cryptolock.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR000181,2026-03-02 08:35:28,D0059,U0112,Suspicious Process,python.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000423,2026-03-22T11:04:07Z,D0004,U0161,PUP Detected,antivirus_update.exe,Low,Closed,FALSE_POSITIVE
+EDR000183,2026-03-09 19:14:24,D0126,U0366,PUP Detected,python.exe,High,Closed,FALSE_POSITIVE
+EDR001333,2026-03-11 07:36:00,D0113,U0236,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001375,2026-03-11 09:42:00,D0051,U0228,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000366,2026-03-17 10:45:54,D0094,U0111,PUP Detected,inventory_scan.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001241,2026-03-11T03:00:00Z,D0160,U0116,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001777,2026-03-12T02:33:00Z,D0003,U0007,PowerShell Abuse,mimikatz.exe,high,Open,TRUE_POSITIVE
+EDR001640,2026-03-14T11:40:59Z,D0190,U0240,Credential Access,antivirus_update.exe,critical,In Progress,
+EDR001379,2026-03-11T09:54:00Z,D0097,U0206,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001823,2026-03-17 03:45:00,D0011,U0113,Ransomware Behaviour,psexec.exe,critical,Open,TRUE_POSITIVE
+EDR000170,2026-03-19 12:11:49,D0029,U0230,Unusual Network,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000236,2026-03-20 10:36:03,D0089,U0167,Suspicious Process,chrome.exe,High,Open,FALSE_POSITIVE
+EDR000498,2026-03-15 14:16:31,D0067,U0017,Suspicious Process,outlook.exe,low,In Progress,FALSE_POSITIVE
+EDR001509,2026-03-11 16:24:00,D0120,U0180,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000267,2026-03-14 16:09:28,D0005,U0093,Suspicious Process,python.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001267,2026-03-11 04:18:00,D0115,U0233,Suspicious Process,backup_agent.exe,high,Closed,
+EDR001407,2026-03-11T11:18:00Z,D0019,U0234,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000345,2026-03-19T19:53:08Z,D0135,U0053,PUP Detected,sccm_client.exe,Low,Open,FALSE_POSITIVE
+EDR001641,2026-03-17 12:32:05,D0143,U0077,Credential Access,python.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001456,2026-03-11 13:45:00,D0036,U0286,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001342,2026-03-11 08:03:00,D0078,U0293,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001610,2026-03-15 09:03:00,D0071,U0240,PUP Detected,powershell_enc.exe,MEDIUM,In Progress,
+EDR001834,2026-03-22 11:23:01,D9008,U0258,Credential Access,powershell_enc.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001288,2026-03-11T05:21:00Z,D0160,U0386,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000637,2026-03-20T19:21:34Z,D0106,U0384,Unusual Network,sccm_client.exe,medium,Closed,FALSE_POSITIVE
+EDR001608,2026-03-03 19:13:55,D0108,U0394,Ransomware Behaviour,python.exe,Critical,In Progress,
+EDR000636,2026-03-06 09:33:04,D0090,U0262,PUP Detected,python.exe,MEDIUM,Open,
+EDR001309,2026-03-11T06:24:00Z,D0043,U0330,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001620,2026-03-19 08:32:09,D0172,U0337,Malware Signature,sccm_client.exe,High,In Progress,NEEDS_INVESTIGATION
+EDR000530,2026-03-18 17:44:01,D0084,U0263,Suspicious Process,python.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001018,2026-03-21T15:58:19Z,D0111,U0328,Unusual Network,outlook.exe,high,Open,
+EDR000176,2026-03-11 08:47:51,D0154,U0255,PUP Detected,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000506,2026-03-06 09:18:12,D0123,U0004,PUP Detected,sccm_client.exe,Low,Closed,FALSE_POSITIVE
+EDR001649,2026-03-20 14:35:08,D0148,U0308,PowerShell Abuse,inventory_scan.exe,CRITICAL,Open,
+EDR000948,2026-03-08 12:25:29,D0121,U0294,PUP Detected,chrome.exe,Medium,Open,FALSE_POSITIVE
+EDR001126,2026-03-03T09:33:35Z,D0142,U0196,Suspicious Process,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR001447,2026-03-11 13:18:00,D0162,U0078,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000620,2026-03-07T18:59:32Z,D0103,U0070,PUP Detected,antivirus_update.exe,Medium,Closed,FALSE_POSITIVE
+EDR001109,2026-03-10 10:14:58,D0069,U0223,Suspicious Process,sccm_client.exe,Medium,Open,FALSE_POSITIVE
+EDR001854,2026-03-21 12:45:50,D9002,U0159,Malware Signature,mimikatz.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000718,2026-03-21T19:22:11Z,D0189,U0054,PUP Detected,chrome.exe,medium,In Progress,FALSE_POSITIVE
+EDR000599,2026-03-17 09:57:11,D0142,U0305,Suspicious Process,chrome.exe,medium,Open,FALSE_POSITIVE
+EDR000399,2026-03-07 16:59:17,D0163,U0148,Suspicious Process,inventory_scan.exe,low,Open,FALSE_POSITIVE
+EDR001685,2026-03-18T16:07:40Z,D0126,U0353,Malware Signature,mimikatz.exe,Low,In Progress,NEEDS_INVESTIGATION
+EDR001408,2026-03-11 11:21:00,D0109,U0019,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000922,2026-03-08 19:05:40,D0002,U0067,Unusual Network,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR000290,2026-03-19 10:19:30,D0053,U0035,Suspicious Process,python.exe,high,In Progress,FALSE_POSITIVE
+EDR000585,2026-03-03 12:27:35,D0017,U0338,Unusual Network,inventory_scan.exe,low,In Progress,FALSE_POSITIVE
+EDR001093,2026-03-19 14:30:12,D0075,U0063,PUP Detected,antivirus_update.exe,Medium,Open,
+EDR001549,2026-03-11 18:24:00,D0015,U0156,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000689,2026-03-08 08:47:05,D0067,U0312,PUP Detected,outlook.exe,low,In Progress,FALSE_POSITIVE
+EDR000950,2026-03-09T13:02:41Z,D0044,U0363,Unusual Network,chrome.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001613,2026-03-22 14:26:30,D0078,U0268,Ransomware Behaviour,chrome.exe,LOW,Open,NEEDS_INVESTIGATION
+EDR000464,2026-03-10 08:37:44,D0167,U0258,Unusual Network,antivirus_update.exe,Low,Closed,FALSE_POSITIVE
+EDR001802,2026-03-12 03:48:00,D0003,U0007,Credential Access,powershell_enc.exe,high,In Progress,TRUE_POSITIVE
+EDR001817,2026-03-12T04:33:00Z,D0003,U0007,Credential Access,psexec.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001605,2026-03-21 16:06:19,D0062,U0015,PUP Detected,mimikatz.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR001180,2026-03-09 13:28:08,D0107,U0257,PUP Detected,chrome.exe,High,Closed,
+EDR000735,2026-03-15 14:53:41,D0121,U0105,Unusual Network,python.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000762,2026-03-16 10:13:53,D0105,U0391,Unusual Network,antivirus_update.exe,LOW,Open,FALSE_POSITIVE
+EDR000645,2026-03-20 19:49:47,D0077,U0311,Suspicious Process,python.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000319,2026-03-06T15:08:01Z,D0122,U0019,Suspicious Process,inventory_scan.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000729,2026-03-19 16:49:49,D0103,U0108,Unusual Network,chrome.exe,high,In Progress,
+EDR001694,2026-03-19 09:13:45,D0028,U0147,PUP Detected,psexec.exe,Low,In Progress,NEEDS_INVESTIGATION
+EDR000212,2026-03-20T11:15:12Z,D0062,U0047,Unusual Network,outlook.exe,Low,Closed,FALSE_POSITIVE
+EDR001430,2026-03-11 12:27:00,D0015,U0292,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000022,2026-03-21 14:41:43,D0188,U0355,PUP Detected,inventory_scan.exe,Low,Closed,FALSE_POSITIVE
+EDR000899,2026-03-21 19:31:59,D0083,U0387,Suspicious Process,chrome.exe,Medium,Open,
+EDR001589,2026-03-14 12:23:46,D0051,U0024,Malware Signature,inventory_scan.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR000259,2026-03-04 08:38:53,D0029,U0350,Unusual Network,chrome.exe,medium,In Progress,FALSE_POSITIVE
+EDR001037,2026-03-13 12:42:20,D0005,U0344,Suspicious Process,outlook.exe,high,In Progress,FALSE_POSITIVE
+EDR001322,2026-03-11 07:03:00,D0014,U0337,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000100,2026-03-13 10:11:07,D0091,U0113,Suspicious Process,outlook.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001090,2026-03-07 16:29:12,D0128,U0383,Suspicious Process,inventory_scan.exe,low,Open,FALSE_POSITIVE
+EDR001108,2026-03-14T12:24:22Z,D0099,U0351,Suspicious Process,python.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000672,2026-03-21 13:25:08,D0099,U0049,PUP Detected,sccm_client.exe,Medium,Closed,FALSE_POSITIVE
+EDR001466,2026-03-11 14:15:00,D0137,U0044,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000888,2026-03-02T14:01:08Z,D0003,U0149,Suspicious Process,chrome.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001011,2026-03-02 18:31:57,D0011,U0387,PUP Detected,sccm_client.exe,Low,In Progress,FALSE_POSITIVE
+EDR000076,2026-03-22 18:07:12,D0007,U0187,Suspicious Process,python.exe,high,Open,FALSE_POSITIVE
+EDR001749,2026-03-05 11:35:10,D0028,U0139,Malware Signature,rundll32.exe,Critical,Closed,TRUE_POSITIVE
+EDR001530,2026-03-11 17:27:00,D0060,U0328,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001321,2026-03-11T07:00:00Z,D0016,U0207,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000095,2026-03-19 19:52:27,D0055,U0211,PUP Detected,antivirus_update.exe,low,Closed,FALSE_POSITIVE
+EDR001057,2026-03-08 10:20:07,D0124,U0190,PUP Detected,sccm_client.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000910,2026-03-21 18:26:23,D0159,U0271,Suspicious Process,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001146,2026-03-17 13:16:35,D0039,U0365,Unusual Network,chrome.exe,low,Open,FALSE_POSITIVE
+EDR001076,2026-03-07T17:41:17Z,D0029,U0026,Suspicious Process,chrome.exe,High,Closed,FALSE_POSITIVE
+EDR000585,2026-03-03 12:27:35,D0017,U0338,Unusual Network,inventory_scan.exe,low,In Progress,FALSE_POSITIVE
+EDR000526,2026-03-20 13:41:50,D0166,U0130,Suspicious Process,sccm_client.exe,MEDIUM,Closed,
+EDR000189,2026-03-13 12:36:38,D0127,U0338,Unusual Network,outlook.exe,medium,Open,FALSE_POSITIVE
+EDR000875,2026-03-16 15:26:25,D0083,U0047,Unusual Network,chrome.exe,low,In Progress,FALSE_POSITIVE
+EDR000077,2026-03-04 08:53:16,D0101,U0108,Unusual Network,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001847,2026-03-15T12:52:34Z,D9003,U0270,Unusual Network,teams.exe,Medium,Open,
+EDR001255,2026-03-11T03:42:00Z,D0153,U0120,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR001389,2026-03-11T10:24:00Z,D0143,U0068,Suspicious Process,backup_agent.exe,High,Closed,
+EDR001686,2026-03-03 15:27:27,D0151,U0255,PowerShell Abuse,sccm_client.exe,critical,Open,NEEDS_INVESTIGATION
+EDR001729,2026-03-19 18:46:01,D0038,U0329,PowerShell Abuse,psexec.exe,CRITICAL,In Progress,
+EDR001754,2026-03-08 10:24:36,D0079,U0014,Credential Access,mimikatz.exe,Critical,Closed,TRUE_POSITIVE
+EDR001784,2026-03-12 02:54:00,D0003,U0007,Credential Access,cryptolock.exe,high,Open,NEEDS_INVESTIGATION
+EDR000482,2026-03-05T09:26:07Z,D0042,U0194,Unusual Network,outlook.exe,High,Closed,FALSE_POSITIVE
+EDR001785,2026-03-12 02:57:00,D0003,U0007,Persistence Attempt,powershell_enc.exe,critical,Open,NEEDS_INVESTIGATION
+EDR000019,2026-03-05T15:22:34Z,D0047,U0215,PUP Detected,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR001238,2026-03-11 02:51:00,D0011,U0385,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000801,2026-03-03 16:43:37,D0060,U0173,Suspicious Process,teams.exe,Low,In Progress,FALSE_POSITIVE
+EDR000335,2026-03-03T11:28:46Z,D0175,U0204,Suspicious Process,outlook.exe,Low,In Progress,FALSE_POSITIVE
+EDR001376,2026-03-11T09:45:00Z,D0138,U0188,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000294,2026-03-07 08:24:17,D0160,U0073,PUP Detected,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR001483,2026-03-11 15:06:00,D0200,U0235,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000844,2026-03-06T11:37:42Z,D0066,U0343,PUP Detected,python.exe,Low,Open,FALSE_POSITIVE
+EDR000606,2026-03-11 19:01:52,D0185,U0235,Suspicious Process,outlook.exe,medium,Open,FALSE_POSITIVE
+EDR001609,2026-03-16T15:05:32Z,D0141,U0050,PUP Detected,python.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR001678,2026-03-09 19:49:24,D0030,U0096,Unusual Network,rundll32.exe,medium,Open,NEEDS_INVESTIGATION
+EDR000623,2026-03-08T14:33:19Z,D0137,U0087,Unusual Network,antivirus_update.exe,Medium,Closed,FALSE_POSITIVE
+EDR000414,2026-03-04 12:22:52,D0118,U0266,Suspicious Process,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR000485,2026-03-04 13:40:10,D0015,U0272,Unusual Network,antivirus_update.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000442,2026-03-21T19:15:37Z,D0008,U0210,Suspicious Process,antivirus_update.exe,high,Closed,FALSE_POSITIVE
+EDR000308,2026-03-04 15:42:01,D0070,U0028,PUP Detected,chrome.exe,medium,Open,
+EDR001139,2026-03-10 14:25:05,D0122,U0290,Suspicious Process,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR001174,2026-03-22 09:00:24,D0133,U0257,PUP Detected,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000677,2026-03-14T10:51:38Z,D0101,U0039,Suspicious Process,teams.exe,LOW,Closed,FALSE_POSITIVE
+EDR000682,2026-03-13T17:33:52Z,D0178,U0159,PUP Detected,chrome.exe,High,Open,
+EDR000605,2026-03-14 11:04:20,D0018,U0142,PUP Detected,inventory_scan.exe,medium,Open,
+EDR001548,2026-03-11 18:21:00,D0010,U0123,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000339,2026-03-07T13:57:41Z,D0089,U0358,Suspicious Process,python.exe,High,In Progress,FALSE_POSITIVE
+EDR000416,2026-03-19T16:11:38Z,D0173,U0107,Unusual Network,outlook.exe,HIGH,Open,FALSE_POSITIVE
+EDR000032,2026-03-09T15:39:29Z,D0092,U0341,Suspicious Process,teams.exe,HIGH,Open,FALSE_POSITIVE
+EDR001824,2026-03-17 03:50:00,D0011,U0113,Credential Access,cryptolock.exe,Critical,Open,TRUE_POSITIVE
+EDR000695,2026-03-04T10:24:47Z,D0112,U0369,PUP Detected,sccm_client.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000120,2026-03-21 12:15:17,D0102,U0218,PUP Detected,inventory_scan.exe,low,Open,FALSE_POSITIVE
+EDR000558,2026-03-18 08:16:39,D0141,U0322,PUP Detected,teams.exe,Low,In Progress,FALSE_POSITIVE
+EDR001629,2026-03-19 13:48:18,D0048,U0154,PUP Detected,psexec.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000842,2026-03-10 11:34:33,D0176,U0359,Unusual Network,sccm_client.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001087,2026-03-03 11:30:51,D0174,U0331,PUP Detected,python.exe,high,Closed,
+EDR001103,2026-03-11T16:12:18Z,D0054,U0087,Suspicious Process,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR000358,2026-03-06 08:14:28,D0063,U0299,PUP Detected,sccm_client.exe,medium,Closed,FALSE_POSITIVE
+EDR001819,2026-03-17 03:25:00,D0011,U0113,Persistence Attempt,rundll32.exe,Critical,Open,TRUE_POSITIVE
+EDR001565,2026-03-11T19:12:00Z,D0085,U0214,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000431,2026-03-18 18:55:14,D0157,U0031,PUP Detected,teams.exe,MEDIUM,Open,
+EDR001671,2026-03-08 16:51:23,D0007,U0084,Malware Signature,python.exe,Critical,In Progress,
+EDR000066,2026-03-04 11:54:26,D0003,U0350,PUP Detected,sccm_client.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001169,2026-03-12T16:00:05Z,D0006,U0180,Unusual Network,antivirus_update.exe,medium,In Progress,FALSE_POSITIVE
+EDR001465,2026-03-11T14:12:00Z,D0115,U0296,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001536,2026-03-11 17:45:00,D0041,U0346,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000223,2026-03-22 12:20:08,D0007,U0090,Suspicious Process,sccm_client.exe,low,Open,FALSE_POSITIVE
+EDR000860,2026-03-19T19:35:45Z,D0165,U0197,Suspicious Process,teams.exe,low,In Progress,FALSE_POSITIVE
+EDR000248,2026-03-15T16:06:16Z,D0135,U0153,Unusual Network,chrome.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000372,2026-03-17 09:56:17,D0175,U0377,Suspicious Process,teams.exe,HIGH,Open,FALSE_POSITIVE
+EDR001182,2026-03-11 00:03:00,D0136,U0259,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000489,2026-03-07 12:05:19,D0194,U0110,Unusual Network,teams.exe,medium,Closed,FALSE_POSITIVE
+EDR001231,2026-03-11 02:30:00,D0022,U0254,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001350,2026-03-11 08:27:00,D0169,U0231,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001061,2026-03-08T17:52:26Z,D0152,U0141,Suspicious Process,sccm_client.exe,High,Open,FALSE_POSITIVE
+EDR000309,2026-03-19T10:22:31Z,D0150,U0254,PUP Detected,chrome.exe,Medium,Closed,FALSE_POSITIVE
+EDR000152,2026-03-18 09:47:21,D0022,U0239,Suspicious Process,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR001500,2026-03-11 15:57:00,D0047,U0163,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001511,2026-03-11T16:30:00Z,D0148,U0037,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001330,2026-03-11 07:27:00,D0098,U0251,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001428,2026-03-11T12:21:00Z,D0069,U0215,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000153,2026-03-08 09:31:32,D0198,U0183,Unusual Network,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR001121,2026-03-07T16:54:05Z,D0122,U0309,PUP Detected,inventory_scan.exe,Medium,Open,
+EDR000984,2026-03-18 17:00:01,D0002,U0236,Unusual Network,inventory_scan.exe,Low,In Progress,FALSE_POSITIVE
+EDR001190,2026-03-11T00:27:00Z,D0135,U0378,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000197,2026-03-10 13:52:02,D0040,U0318,PUP Detected,sccm_client.exe,High,Closed,FALSE_POSITIVE
+EDR000737,2026-03-06 09:34:48,D0015,U0145,Unusual Network,python.exe,low,Open,FALSE_POSITIVE
+EDR000926,2026-03-18 12:34:06,D0187,U0060,Suspicious Process,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001647,2026-03-22T11:13:18Z,D0099,U0095,Malware Signature,cryptolock.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR000625,2026-03-12T14:15:29Z,D0120,U0174,PUP Detected,python.exe,low,Open,FALSE_POSITIVE
+EDR000579,2026-03-15 14:03:02,D0194,U0020,PUP Detected,antivirus_update.exe,Medium,Closed,FALSE_POSITIVE
+EDR001744,2026-03-06 08:25:06,D0046,U0161,Malware Signature,rundll32.exe,high,Closed,TRUE_POSITIVE
+EDR001036,2026-03-14 18:35:21,D0104,U0306,PUP Detected,chrome.exe,Low,Open,FALSE_POSITIVE
+EDR001569,2026-03-11T19:24:00Z,D0157,U0243,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR000164,2026-03-22 15:23:33,D0136,U0044,Unusual Network,inventory_scan.exe,medium,Open,FALSE_POSITIVE
+EDR001728,2026-03-15 11:18:08,D0112,U0025,Persistence Attempt,outlook.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR001464,2026-03-11 14:09:00,D0073,U0195,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000450,2026-03-11 10:08:35,D0021,U0069,Suspicious Process,teams.exe,high,Open,FALSE_POSITIVE
+EDR001508,2026-03-11 16:21:00,D0189,U0044,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000129,2026-03-12 12:57:50,D0110,U0005,PUP Detected,chrome.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001100,2026-03-05 12:40:31,D0180,U0223,Suspicious Process,python.exe,low,Open,FALSE_POSITIVE
+EDR001420,2026-03-11T11:57:00Z,D0085,U0181,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001518,2026-03-11 16:51:00,D0001,U0337,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000725,2026-03-16T16:16:35Z,D0180,U0300,PUP Detected,sccm_client.exe,Medium,Closed,
+EDR001458,2026-03-11 13:51:00,D0130,U0084,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000264,2026-03-13T19:33:23Z,D0198,U0281,Unusual Network,python.exe,High,Open,
+EDR000162,2026-03-10 18:56:00,D0104,U0032,Suspicious Process,antivirus_update.exe,Medium,Open,FALSE_POSITIVE
+EDR001282,2026-03-11 05:03:00,D0148,U0375,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000367,2026-03-17 11:01:46,D0094,U0104,PUP Detected,antivirus_update.exe,low,In Progress,
+EDR001286,2026-03-11 05:15:00,D0182,U0225,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000195,2026-03-17T08:05:35Z,D0129,U0207,PUP Detected,teams.exe,High,In Progress,FALSE_POSITIVE
+EDR000819,2026-03-21 16:43:18,D0079,U0049,Suspicious Process,python.exe,medium,In Progress,FALSE_POSITIVE
+EDR001022,2026-03-21T19:51:43Z,D0100,U0381,Unusual Network,inventory_scan.exe,high,Closed,FALSE_POSITIVE
+EDR000955,2026-03-04 12:12:57,D0110,U0341,Unusual Network,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR001152,2026-03-06 11:31:13,D0200,U0354,Suspicious Process,chrome.exe,LOW,Closed,FALSE_POSITIVE
+EDR000820,2026-03-07T14:06:16Z,D0176,U0050,Unusual Network,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR001327,2026-03-11 07:18:00,D0060,U0066,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000757,2026-03-11 18:30:05,D0069,U0124,PUP Detected,python.exe,Low,Closed,FALSE_POSITIVE
+EDR000413,2026-03-03 19:21:18,D0045,U0170,Unusual Network,antivirus_update.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000918,2026-03-09 15:17:19,D0156,U0265,PUP Detected,sccm_client.exe,medium,Open,FALSE_POSITIVE
+EDR000314,2026-03-08 10:59:43,D0007,U0125,PUP Detected,python.exe,LOW,Closed,FALSE_POSITIVE
+EDR001480,2026-03-11 14:57:00,D0092,U0086,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001754,2026-03-08 10:24:36,D0079,U0014,Credential Access,mimikatz.exe,Critical,Closed,TRUE_POSITIVE
+EDR001158,2026-03-06 09:33:12,D0053,U0313,PUP Detected,chrome.exe,High,Open,FALSE_POSITIVE
+EDR000699,2026-03-13 08:17:30,D0073,U0107,Suspicious Process,chrome.exe,low,Open,FALSE_POSITIVE
+EDR000874,2026-03-21T08:02:01Z,D0162,U0251,Suspicious Process,sccm_client.exe,medium,Open,FALSE_POSITIVE
+EDR001646,2026-03-17 12:02:05,D0042,U0104,Malware Signature,cryptolock.exe,Low,In Progress,NEEDS_INVESTIGATION
+EDR000436,2026-03-06T16:23:26Z,D0027,U0035,Unusual Network,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000519,2026-03-16T09:34:03Z,D0058,U0020,Suspicious Process,teams.exe,low,Closed,FALSE_POSITIVE
+EDR001235,2026-03-11 02:42:00,D0018,U0288,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000991,2026-03-14 13:46:30,D0083,U0153,Suspicious Process,outlook.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000039,2026-03-16 17:05:04,D0074,U0083,Suspicious Process,sccm_client.exe,high,Open,FALSE_POSITIVE
+EDR000171,2026-03-07 10:04:00,D0197,U0045,Suspicious Process,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000827,2026-03-04 12:32:51,D0024,U0164,Suspicious Process,outlook.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001062,2026-03-19 10:13:44,D0130,U0211,Unusual Network,teams.exe,medium,In Progress,FALSE_POSITIVE
+EDR000074,2026-03-03T16:21:41Z,D0087,U0243,Unusual Network,antivirus_update.exe,High,In Progress,FALSE_POSITIVE
+EDR000364,2026-03-09 12:53:16,D0033,U0168,Suspicious Process,inventory_scan.exe,high,Closed,FALSE_POSITIVE
+EDR001230,2026-03-11T02:27:00Z,D0111,U0157,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000004,2026-03-11 17:35:27,D0004,U0029,PUP Detected,sccm_client.exe,LOW,Open,
+EDR001079,2026-03-04 08:37:11,D0080,U0022,Suspicious Process,outlook.exe,low,In Progress,
+EDR000817,2026-03-14T19:37:52Z,D0160,U0265,Unusual Network,python.exe,low,Closed,FALSE_POSITIVE
+EDR001107,2026-03-09T11:13:10Z,D0046,U0368,Suspicious Process,chrome.exe,HIGH,Closed,
+EDR001541,2026-03-11 18:00:00,D0198,U0261,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000007,2026-03-17T13:03:10Z,D0194,U0142,Suspicious Process,python.exe,High,Closed,
+EDR000986,2026-03-06T16:55:22Z,D0146,U0187,Suspicious Process,sccm_client.exe,Low,Closed,
+EDR001516,2026-03-11 16:45:00,D0098,U0046,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000600,2026-03-07T17:50:48Z,D0143,U0210,Unusual Network,python.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000081,2026-03-11 14:22:53,D0127,U0279,PUP Detected,antivirus_update.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001586,2026-03-14 14:12:50,D0014,U0242,Credential Access,rundll32.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR001752,2026-03-10 12:14:39,D0081,U0217,Persistence Attempt,powershell_enc.exe,CRITICAL,Closed,
+EDR000213,2026-03-17T15:47:29Z,D0187,U0089,Unusual Network,chrome.exe,Medium,Closed,FALSE_POSITIVE
+EDR000075,2026-03-05 16:31:14,D0127,U0266,PUP Detected,python.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001002,2026-03-04 18:19:29,D0052,U0276,PUP Detected,python.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000204,2026-03-13T16:58:48Z,D0138,U0270,Suspicious Process,python.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001386,2026-03-11 10:15:00,D0168,U0328,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000036,2026-03-18 14:13:05,D0055,U0125,Suspicious Process,inventory_scan.exe,LOW,Open,
+EDR000617,2026-03-04T15:14:30Z,D0019,U0027,PUP Detected,python.exe,Low,In Progress,
+EDR000581,2026-03-18 08:47:26,D0155,U0053,Unusual Network,python.exe,MEDIUM,Open,
+EDR001437,2026-03-11 12:48:00,D0053,U0080,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001851,2026-03-17 08:25:44,D9003,U0226,Ransomware Behaviour,inventory_scan.exe,low,Open,NEEDS_INVESTIGATION
+EDR001796,2026-03-12 03:30:00,D0003,U0007,Credential Access,rundll32.exe,CRITICAL,In Progress,NEEDS_INVESTIGATION
+EDR001704,2026-03-14T18:27:53Z,D0047,U0108,Credential Access,inventory_scan.exe,low,Open,NEEDS_INVESTIGATION
+EDR001257,2026-03-11T03:48:00Z,D0142,U0255,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001443,2026-03-11 13:06:00,D0025,U0010,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000396,2026-03-12 08:33:27,D0067,U0181,Suspicious Process,outlook.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001836,2026-03-22T11:58:19Z,D9008,U0022,PowerShell Abuse,sccm_client.exe,high,Open,
+EDR001532,2026-03-11 17:33:00,D0042,U0230,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000896,2026-03-09 09:35:25,D0036,U0074,Suspicious Process,sccm_client.exe,LOW,Open,FALSE_POSITIVE
+EDR000080,2026-03-12 15:50:32,D0059,U0193,PUP Detected,python.exe,High,Closed,FALSE_POSITIVE
+EDR000837,2026-03-16 13:40:59,D0146,U0112,Suspicious Process,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000216,2026-03-18 11:46:07,D0080,U0068,PUP Detected,chrome.exe,medium,Open,FALSE_POSITIVE
+EDR000420,2026-03-21 19:49:49,D0186,U0006,Suspicious Process,sccm_client.exe,LOW,Open,FALSE_POSITIVE
+EDR000242,2026-03-22 18:58:39,D0031,U0382,Unusual Network,teams.exe,high,In Progress,FALSE_POSITIVE
+EDR001074,2026-03-20T18:29:52Z,D0018,U0376,Unusual Network,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR000640,2026-03-08 13:52:32,D0147,U0043,PUP Detected,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR000460,2026-03-16 10:42:19,D0125,U0201,PUP Detected,python.exe,medium,Closed,
+EDR001768,2026-03-18 10:41:15,D0129,U0135,PowerShell Abuse,powershell_enc.exe,critical,Closed,TRUE_POSITIVE
+EDR000686,2026-03-02 11:29:44,D0044,U0120,Suspicious Process,python.exe,Low,Closed,FALSE_POSITIVE
+EDR000480,2026-03-12 19:09:16,D0151,U0062,Suspicious Process,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR001055,2026-03-20 11:41:40,D0147,U0342,PUP Detected,chrome.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001173,2026-03-20T17:28:41Z,D0039,U0298,PUP Detected,inventory_scan.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001775,2026-03-10T13:01:55Z,D0051,U0290,Malware Signature,mimikatz.exe,Critical,Closed,TRUE_POSITIVE
+EDR000234,2026-03-08T11:22:37Z,D0108,U0038,Suspicious Process,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001354,2026-03-11 08:39:00,D0109,U0147,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000964,2026-03-21T14:39:31Z,D0063,U0110,PUP Detected,teams.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001733,2026-03-21 15:25:58,D0075,U0129,Credential Access,rundll32.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR001769,2026-03-04 15:07:23,D0185,U0149,Malware Signature,powershell_enc.exe,Critical,Closed,TRUE_POSITIVE
+EDR000970,2026-03-07 09:16:24,D0192,U0339,Suspicious Process,outlook.exe,HIGH,Open,FALSE_POSITIVE
+EDR000619,2026-03-07 18:12:55,D0038,U0162,Suspicious Process,inventory_scan.exe,low,Closed,FALSE_POSITIVE
+EDR000797,2026-03-22 08:01:33,D0174,U0349,Suspicious Process,inventory_scan.exe,high,Closed,
+EDR001039,2026-03-20 10:20:03,D0133,U0349,Unusual Network,python.exe,LOW,Open,FALSE_POSITIVE
+EDR000263,2026-03-19T17:00:42Z,D0011,U0300,Unusual Network,teams.exe,High,In Progress,FALSE_POSITIVE
+EDR000658,2026-03-02 10:55:13,D0044,U0354,Suspicious Process,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000343,2026-03-11T08:25:03Z,D0176,U0099,PUP Detected,outlook.exe,high,Closed,FALSE_POSITIVE
+EDR000103,2026-03-04T11:27:51Z,D0047,U0201,Suspicious Process,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR001289,2026-03-11 05:24:00,D0152,U0004,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000870,2026-03-08 13:22:48,D0010,U0096,PUP Detected,chrome.exe,High,In Progress,FALSE_POSITIVE
+EDR000201,2026-03-06T09:15:43Z,D0043,U0298,Unusual Network,inventory_scan.exe,high,In Progress,FALSE_POSITIVE
+EDR000707,2026-03-14 14:11:25,D0054,U0203,Suspicious Process,chrome.exe,Medium,Closed,FALSE_POSITIVE
+EDR001181,2026-03-11 00:00:00,D0116,U0045,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001843,2026-03-10 14:31:15,D9007,U0007,Persistence Attempt,mimikatz.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001256,2026-03-11 03:45:00,D0051,U0262,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001699,2026-03-19 08:27:33,D0119,U0199,Persistence Attempt,outlook.exe,medium,In Progress,NEEDS_INVESTIGATION
+EDR000003,2026-03-02 13:50:29,D0003,U0328,Unusual Network,antivirus_update.exe,High,In Progress,FALSE_POSITIVE
+EDR000988,2026-03-19 17:51:45,D0107,U0363,Suspicious Process,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001295,2026-03-11 05:42:00,D0114,U0334,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000122,2026-03-14 13:07:16,D0046,U0114,PUP Detected,python.exe,low,Closed,FALSE_POSITIVE
+EDR000821,2026-03-06 12:09:12,D0169,U0252,Unusual Network,antivirus_update.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000188,2026-03-03 09:45:37,D0101,U0331,Unusual Network,chrome.exe,low,In Progress,FALSE_POSITIVE
+EDR001661,2026-03-04 16:41:40,D0192,U0265,Credential Access,cryptolock.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000455,2026-03-14 09:42:19,D0167,U0173,Unusual Network,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000703,2026-03-06T08:14:52Z,D0040,U0319,Unusual Network,sccm_client.exe,High,Open,FALSE_POSITIVE
+EDR000909,2026-03-14 12:03:25,D0170,U0218,Suspicious Process,outlook.exe,high,Open,FALSE_POSITIVE
+EDR000917,2026-03-03 16:47:41,D0107,U0342,PUP Detected,python.exe,HIGH,Open,FALSE_POSITIVE
+EDR001122,2026-03-13 09:33:53,D0187,U0390,PUP Detected,outlook.exe,medium,In Progress,FALSE_POSITIVE
+EDR001581,2026-03-20T18:01:50Z,D0115,U0136,Ransomware Behaviour,outlook.exe,Critical,Open,NEEDS_INVESTIGATION
+EDR001156,2026-03-04 08:00:59,D0140,U0393,Unusual Network,inventory_scan.exe,high,In Progress,FALSE_POSITIVE
+EDR000451,2026-03-13T13:37:09Z,D0046,U0100,PUP Detected,inventory_scan.exe,Medium,Closed,FALSE_POSITIVE
+EDR000719,2026-03-11 18:00:39,D0060,U0071,PUP Detected,python.exe,High,Open,FALSE_POSITIVE
+EDR000941,2026-03-22 10:03:04,D0068,U0245,Suspicious Process,python.exe,Low,Closed,FALSE_POSITIVE
+EDR000673,2026-03-19 12:41:16,D0032,U0189,Unusual Network,teams.exe,medium,Open,FALSE_POSITIVE
+EDR001270,2026-03-11T04:27:00Z,D0083,U0314,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000283,2026-03-21 19:01:28,D0048,U0214,PUP Detected,inventory_scan.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000538,2026-03-14 18:00:29,D0159,U0359,PUP Detected,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001176,2026-03-11 15:56:44,D0004,U0084,Suspicious Process,chrome.exe,Low,Closed,FALSE_POSITIVE
+EDR001254,2026-03-11 03:39:00,D0093,U0318,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000257,2026-03-08 14:16:59,D0158,U0051,Unusual Network,outlook.exe,low,Open,FALSE_POSITIVE
+EDR001043,2026-03-14 17:46:52,D0129,U0097,Suspicious Process,antivirus_update.exe,High,Closed,FALSE_POSITIVE
+EDR000318,2026-03-21 12:19:28,D0030,U0273,Suspicious Process,outlook.exe,high,Open,FALSE_POSITIVE
+EDR000215,2026-03-14 12:20:43,D0136,U0393,Suspicious Process,antivirus_update.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001034,2026-03-13T12:46:00Z,D0007,U0295,PUP Detected,teams.exe,low,In Progress,FALSE_POSITIVE
+EDR000092,2026-03-06 11:00:46,D0068,U0139,PUP Detected,python.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001154,2026-03-06 08:10:26,D0107,U0040,Unusual Network,antivirus_update.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001427,2026-03-11 12:18:00,D0018,U0279,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000811,2026-03-09 19:37:43,D0163,U0222,Unusual Network,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR001714,2026-03-17 12:52:53,D0006,U0390,Suspicious Process,chrome.exe,Critical,Open,NEEDS_INVESTIGATION
+EDR001131,2026-03-02 11:43:13,D0121,U0189,PUP Detected,teams.exe,high,Open,FALSE_POSITIVE
+EDR000354,2026-03-21T14:37:03Z,D0116,U0075,Suspicious Process,outlook.exe,high,Open,FALSE_POSITIVE
+EDR000648,2026-03-16T18:46:39Z,D0080,U0327,Unusual Network,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR001089,2026-03-15T16:59:02Z,D0017,U0377,Unusual Network,teams.exe,Medium,Closed,FALSE_POSITIVE
+EDR001137,2026-03-13 18:36:55,D0177,U0025,Suspicious Process,sccm_client.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000333,2026-03-10 12:37:42,D0200,U0042,PUP Detected,chrome.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001614,2026-03-10T08:01:51Z,D0178,U0220,Unusual Network,teams.exe,Critical,In Progress,NEEDS_INVESTIGATION
+EDR000841,2026-03-08T16:30:00Z,D0152,U0206,Suspicious Process,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR001093,2026-03-19 14:30:12,D0075,U0063,PUP Detected,antivirus_update.exe,Medium,Open,
+EDR001125,2026-03-07T16:53:34Z,D0092,U0318,Unusual Network,sccm_client.exe,High,Closed,FALSE_POSITIVE
+EDR000252,2026-03-03T19:44:25Z,D0097,U0025,Suspicious Process,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR000145,2026-03-06 10:12:17,D0161,U0123,PUP Detected,inventory_scan.exe,low,Closed,FALSE_POSITIVE
+EDR001762,2026-03-04 16:00:57,D0061,U0360,PowerShell Abuse,psexec.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR000901,2026-03-11 09:42:40,D0119,U0262,Unusual Network,python.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000932,2026-03-13 12:17:15,D0146,U0150,Unusual Network,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR000907,2026-03-09 12:06:00,D0042,U0323,PUP Detected,inventory_scan.exe,Medium,Open,FALSE_POSITIVE
+EDR000545,2026-03-08 19:21:58,D0003,U0335,PUP Detected,chrome.exe,Low,In Progress,FALSE_POSITIVE
+EDR001381,2026-03-11 10:00:00,D0024,U0346,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000857,2026-03-20T09:25:23Z,D0024,U0265,PUP Detected,python.exe,Medium,Open,FALSE_POSITIVE
+EDR001335,2026-03-11 07:42:00,D0115,U0353,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000630,2026-03-19 19:28:58,D0133,U0009,PUP Detected,chrome.exe,medium,Closed,FALSE_POSITIVE
+EDR000198,2026-03-02 12:54:31,D0104,U0029,Unusual Network,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001049,2026-03-10T10:43:41Z,D0031,U0143,PUP Detected,antivirus_update.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000474,2026-03-09 12:10:40,D0165,U0013,Unusual Network,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000789,2026-03-06 16:50:31,D0182,U0131,Suspicious Process,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000009,2026-03-03 16:25:17,D0023,U0327,Unusual Network,antivirus_update.exe,High,Closed,FALSE_POSITIVE
+EDR001086,2026-03-07 17:57:23,D0182,U0213,PUP Detected,sccm_client.exe,LOW,Open,FALSE_POSITIVE
+EDR001571,2026-03-11 19:30:00,D0136,U0390,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000972,2026-03-07 14:00:19,D0166,U0367,Suspicious Process,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR001404,2026-03-11 11:09:00,D0036,U0071,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000130,2026-03-20 16:25:35,D0018,U0356,PUP Detected,inventory_scan.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000670,2026-03-03 12:26:06,D0138,U0268,Unusual Network,outlook.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000563,2026-03-22 13:30:16,D0182,U0242,Suspicious Process,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR001095,2026-03-21 16:00:57,D0190,U0051,Suspicious Process,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR001812,2026-03-12 04:18:00,D0003,U0007,Persistence Attempt,psexec.exe,high,Open,TRUE_POSITIVE
+EDR001520,2026-03-11T16:57:00Z,D0009,U0377,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000192,2026-03-05 10:06:53,D0117,U0037,PUP Detected,python.exe,Low,Open,FALSE_POSITIVE
+EDR001596,2026-03-22 10:05:25,D0167,U0369,Persistence Attempt,antivirus_update.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR001736,2026-03-03 19:31:02,D0051,U0199,PowerShell Abuse,mimikatz.exe,critical,Closed,TRUE_POSITIVE
+EDR001285,2026-03-11 05:12:00,D0002,U0107,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000336,2026-03-15T13:17:21Z,D0073,U0172,Suspicious Process,inventory_scan.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001707,2026-03-10T17:23:16Z,D0152,U0096,Credential Access,sccm_client.exe,CRITICAL,Open,NEEDS_INVESTIGATION
+EDR000518,2026-03-09 16:43:35,D0082,U0364,PUP Detected,outlook.exe,medium,Closed,FALSE_POSITIVE
+EDR001112,2026-03-08T19:37:16Z,D0068,U0120,Suspicious Process,outlook.exe,LOW,Closed,FALSE_POSITIVE
+EDR000877,2026-03-07 17:53:05,D0071,U0218,Unusual Network,inventory_scan.exe,High,Open,FALSE_POSITIVE
+EDR001163,2026-03-17T17:00:47Z,D0043,U0207,Suspicious Process,outlook.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001472,2026-03-11 14:33:00,D0093,U0330,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001702,2026-03-22 11:07:42,D0197,U0205,Credential Access,python.exe,critical,Open,NEEDS_INVESTIGATION
+EDR001050,2026-03-09 19:50:02,D0060,U0184,PUP Detected,sccm_client.exe,Medium,Open,FALSE_POSITIVE
+EDR000052,2026-03-08T17:42:31Z,D0018,U0081,Suspicious Process,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000570,2026-03-14 18:35:37,D0143,U0297,Suspicious Process,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR001488,2026-03-11T15:21:00Z,D0167,U0116,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000194,2026-03-09 10:21:36,D0145,U0165,Unusual Network,outlook.exe,High,In Progress,FALSE_POSITIVE
+EDR000674,2026-03-14 17:19:52,D0101,U0381,Unusual Network,inventory_scan.exe,low,In Progress,
+EDR000028,2026-03-10T16:50:08Z,D0018,U0195,Unusual Network,outlook.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000796,2026-03-02 16:54:08,D0150,U0049,Unusual Network,outlook.exe,high,In Progress,FALSE_POSITIVE
+EDR001576,2026-03-11 19:45:00,D0113,U0043,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000931,2026-03-21 09:10:25,D0100,U0107,Unusual Network,outlook.exe,Low,Open,FALSE_POSITIVE
+EDR001177,2026-03-13T17:11:39Z,D0188,U0112,Suspicious Process,outlook.exe,Medium,Closed,FALSE_POSITIVE
+EDR000403,2026-03-03T11:28:11Z,D0186,U0012,Unusual Network,antivirus_update.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000839,2026-03-13T17:16:22Z,D0095,U0388,Suspicious Process,teams.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001281,2026-03-11T05:00:00Z,D0002,U0225,Suspicious Process,backup_agent.exe,High,Closed,
+EDR001631,2026-03-05 11:15:48,D0012,U0088,Malware Signature,powershell_enc.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000912,2026-03-02 18:07:51,D0052,U0057,PUP Detected,antivirus_update.exe,high,Closed,FALSE_POSITIVE
+EDR001697,2026-03-11T11:45:26Z,D0199,U0371,PowerShell Abuse,powershell_enc.exe,CRITICAL,In Progress,
+EDR001435,2026-03-11 12:42:00,D0024,U0190,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001831,2026-03-04 17:45:48,D9003,U0226,Credential Access,sccm_client.exe,Low,Open,NEEDS_INVESTIGATION
+EDR001645,2026-03-10T12:37:57Z,D0129,U0364,Unusual Network,chrome.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR000258,2026-03-08 17:55:55,D0161,U0066,Suspicious Process,python.exe,low,Closed,FALSE_POSITIVE
+EDR000980,2026-03-05 12:09:05,D0073,U0324,PUP Detected,chrome.exe,medium,Closed,FALSE_POSITIVE
+EDR000419,2026-03-19T17:06:23Z,D0099,U0019,Unusual Network,outlook.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001564,2026-03-11 19:09:00,D0136,U0220,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000924,2026-03-12 10:50:53,D0165,U0019,Suspicious Process,teams.exe,HIGH,Open,FALSE_POSITIVE
+EDR000488,2026-03-05 08:29:25,D0080,U0270,Suspicious Process,chrome.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001127,2026-03-05 11:24:24,D0050,U0341,Unusual Network,python.exe,High,Closed,FALSE_POSITIVE
+EDR000723,2026-03-15T10:06:41Z,D0005,U0391,Suspicious Process,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000020,2026-03-18T11:19:43Z,D0030,U0087,Suspicious Process,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR001165,2026-03-06 17:14:41,D0120,U0276,PUP Detected,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR001663,2026-03-07 13:59:45,D0095,U0282,Ransomware Behaviour,inventory_scan.exe,low,In Progress,NEEDS_INVESTIGATION
+EDR000069,2026-03-14 10:41:16,D0139,U0355,PUP Detected,teams.exe,medium,Open,
+EDR001499,2026-03-11T15:54:00Z,D0074,U0301,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001264,2026-03-11T04:09:00Z,D0018,U0160,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001405,2026-03-11 11:12:00,D0179,U0043,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000562,2026-03-20 12:34:24,D0124,U0256,Unusual Network,teams.exe,high,In Progress,FALSE_POSITIVE
+EDR000492,2026-03-05 08:46:19,D0112,U0082,Suspicious Process,python.exe,Low,Closed,FALSE_POSITIVE
+EDR000615,2026-03-12T19:50:34Z,D0090,U0128,Suspicious Process,antivirus_update.exe,High,In Progress,FALSE_POSITIVE
+EDR001763,2026-03-04 08:54:13,D0043,U0047,Malware Signature,rundll32.exe,critical,Closed,TRUE_POSITIVE
+EDR001479,2026-03-11 14:54:00,D0148,U0120,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001476,2026-03-11 14:45:00,D0173,U0393,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001059,2026-03-07 14:25:34,D0135,U0034,Suspicious Process,sccm_client.exe,medium,In Progress,FALSE_POSITIVE
+EDR000930,2026-03-12 13:22:56,D0193,U0160,Unusual Network,chrome.exe,High,Open,FALSE_POSITIVE
+EDR001146,2026-03-17 13:16:35,D0039,U0365,Unusual Network,chrome.exe,low,Open,FALSE_POSITIVE
+EDR000890,2026-03-04 09:58:01,D0174,U0093,Suspicious Process,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR001498,2026-03-11 15:51:00,D0184,U0255,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000006,2026-03-07 09:16:41,D0162,U0198,Suspicious Process,inventory_scan.exe,high,In Progress,FALSE_POSITIVE
+EDR001419,2026-03-11 11:54:00,D0119,U0317,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000054,2026-03-04 10:20:20,D0065,U0333,Unusual Network,outlook.exe,Medium,Closed,FALSE_POSITIVE
+EDR000618,2026-03-11 18:45:44,D0147,U0237,Suspicious Process,inventory_scan.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001209,2026-03-11 01:24:00,D0022,U0084,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000175,2026-03-16 12:36:31,D0100,U0032,Suspicious Process,antivirus_update.exe,low,Closed,FALSE_POSITIVE
+EDR000289,2026-03-04T18:53:09Z,D0014,U0018,PUP Detected,antivirus_update.exe,medium,Closed,FALSE_POSITIVE
+EDR000063,2026-03-10 15:32:23,D0039,U0170,Suspicious Process,inventory_scan.exe,Low,In Progress,FALSE_POSITIVE
+EDR001412,2026-03-11 11:33:00,D0028,U0324,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001056,2026-03-12 08:47:44,D0073,U0083,PUP Detected,teams.exe,low,In Progress,FALSE_POSITIVE
+EDR001287,2026-03-11 05:18:00,D0088,U0201,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001000,2026-03-11 13:04:00,D0095,U0244,Suspicious Process,chrome.exe,Low,Open,FALSE_POSITIVE
+EDR001349,2026-03-11 08:24:00,D0011,U0099,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000533,2026-03-05 18:45:02,D0195,U0276,Suspicious Process,inventory_scan.exe,medium,In Progress,FALSE_POSITIVE
+EDR001799,2026-03-12 03:39:00,D0003,U0007,Persistence Attempt,rundll32.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR001065,2026-03-18 14:57:13,D0157,U0152,PUP Detected,outlook.exe,low,Closed,FALSE_POSITIVE
+EDR001072,2026-03-03 15:53:53,D0018,U0209,PUP Detected,python.exe,Medium,Open,FALSE_POSITIVE
+EDR001355,2026-03-11T08:42:00Z,D0121,U0088,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000297,2026-03-09T15:30:26Z,D0030,U0336,Unusual Network,python.exe,medium,Open,FALSE_POSITIVE
+EDR000398,2026-03-22 10:37:08,D0100,U0360,PUP Detected,teams.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000475,2026-03-08 10:02:34,D0038,U0145,Suspicious Process,teams.exe,medium,In Progress,FALSE_POSITIVE
+EDR000968,2026-03-12 15:40:57,D0069,U0097,Unusual Network,chrome.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000172,2026-03-20 16:14:47,D0172,U0374,Unusual Network,inventory_scan.exe,high,Open,FALSE_POSITIVE
+EDR000961,2026-03-12 16:39:55,D0011,U0171,Suspicious Process,teams.exe,LOW,Open,FALSE_POSITIVE
+EDR000018,2026-03-02 12:19:03,D0060,U0103,Suspicious Process,chrome.exe,MEDIUM,Closed,
+EDR000880,2026-03-07 11:40:19,D0033,U0227,PUP Detected,teams.exe,high,In Progress,FALSE_POSITIVE
+EDR001395,2026-03-11 10:42:00,D0189,U0168,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000547,2026-03-18T09:00:22Z,D0050,U0237,Unusual Network,python.exe,LOW,Open,FALSE_POSITIVE
+EDR001422,2026-03-11 12:03:00,D0124,U0218,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000060,2026-03-04 18:44:54,D0112,U0069,Unusual Network,inventory_scan.exe,High,Open,FALSE_POSITIVE
+EDR001080,2026-03-12T08:28:54Z,D0168,U0307,PUP Detected,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR001038,2026-03-12 15:51:48,D0088,U0354,Unusual Network,python.exe,Low,Open,
+EDR000196,2026-03-03 09:14:02,D0075,U0079,Unusual Network,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR001438,2026-03-11 12:51:00,D0022,U0263,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000246,2026-03-04T10:31:21Z,D0174,U0289,Suspicious Process,inventory_scan.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000951,2026-03-10T18:55:38Z,D0001,U0384,PUP Detected,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000738,2026-03-03 13:04:16,D0134,U0260,Unusual Network,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR000598,2026-03-16 17:28:06,D0054,U0004,Suspicious Process,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR000956,2026-03-12 15:15:51,D0147,U0283,Suspicious Process,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000705,2026-03-15 11:36:37,D0049,U0091,Unusual Network,inventory_scan.exe,Low,In Progress,FALSE_POSITIVE
+EDR000070,2026-03-03 17:55:38,D0144,U0243,PUP Detected,outlook.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001621,2026-03-20 13:47:30,D0084,U0379,Malware Signature,powershell_enc.exe,High,Open,NEEDS_INVESTIGATION
+EDR001415,2026-03-11 11:42:00,D0183,U0095,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001030,2026-03-21 12:14:57,D0023,U0375,PUP Detected,chrome.exe,medium,In Progress,
+EDR001170,2026-03-17 09:37:57,D0154,U0172,Suspicious Process,python.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000838,2026-03-16 17:00:12,D0081,U0327,PUP Detected,outlook.exe,Low,Open,FALSE_POSITIVE
+EDR000889,2026-03-22T17:24:37Z,D0043,U0129,Unusual Network,outlook.exe,medium,Closed,
+EDR001047,2026-03-15T12:47:56Z,D0101,U0394,Unusual Network,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR001842,2026-03-05T10:36:12Z,D9006,U0228,Unusual Network,python.exe,Low,Open,NEEDS_INVESTIGATION
+EDR001413,2026-03-11T11:36:00Z,D0146,U0100,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000254,2026-03-05 17:03:35,D0069,U0385,Unusual Network,sccm_client.exe,HIGH,Open,FALSE_POSITIVE
+EDR001067,2026-03-18T15:18:34Z,D0089,U0076,PUP Detected,antivirus_update.exe,Low,In Progress,FALSE_POSITIVE
+EDR001202,2026-03-11 01:03:00,D0159,U0007,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000404,2026-03-17 17:56:04,D0064,U0098,Unusual Network,antivirus_update.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001403,2026-03-11 11:06:00,D0137,U0085,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000323,2026-03-16 09:35:36,D0185,U0060,Unusual Network,python.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001735,2026-03-17 18:42:07,D0170,U0021,Credential Access,rundll32.exe,critical,Closed,TRUE_POSITIVE
+EDR000016,2026-03-20 13:22:41,D0022,U0057,PUP Detected,teams.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000385,2026-03-06 15:05:15,D0039,U0021,PUP Detected,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR000073,2026-03-13 19:18:18,D0150,U0393,Suspicious Process,python.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001371,2026-03-11 09:30:00,D0120,U0043,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000921,2026-03-11 14:25:25,D0195,U0241,PUP Detected,inventory_scan.exe,Medium,Open,
+EDR000688,2026-03-22T08:15:06Z,D0076,U0110,Suspicious Process,antivirus_update.exe,low,Closed,
+EDR000312,2026-03-14 15:26:32,D0079,U0166,Suspicious Process,inventory_scan.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000089,2026-03-12T13:11:36Z,D0153,U0023,Unusual Network,python.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001579,2026-03-11 19:54:00,D0168,U0265,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000678,2026-03-07 14:38:57,D0010,U0167,PUP Detected,antivirus_update.exe,low,Closed,FALSE_POSITIVE
+EDR000284,2026-03-10 14:41:35,D0148,U0073,PUP Detected,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR001685,2026-03-18T16:07:40Z,D0126,U0353,Malware Signature,mimikatz.exe,Low,In Progress,NEEDS_INVESTIGATION
+EDR000097,2026-03-04 16:42:01,D0172,U0166,PUP Detected,antivirus_update.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001391,2026-03-11T10:30:00Z,D0080,U0110,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000855,2026-03-07 11:40:03,D0068,U0028,PUP Detected,antivirus_update.exe,LOW,Closed,FALSE_POSITIVE
+EDR000105,2026-03-05 17:18:18,D0126,U0115,Suspicious Process,python.exe,low,Closed,FALSE_POSITIVE
+EDR000376,2026-03-03 18:05:42,D0048,U0104,Unusual Network,chrome.exe,Medium,Closed,FALSE_POSITIVE
+EDR000272,2026-03-21 13:25:58,D0086,U0081,Suspicious Process,antivirus_update.exe,high,Closed,FALSE_POSITIVE
+EDR001732,2026-03-02T18:49:38Z,D0061,U0068,Credential Access,cryptolock.exe,HIGH,Closed,TRUE_POSITIVE
+EDR001106,2026-03-11 15:27:49,D0076,U0124,PUP Detected,python.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000217,2026-03-19T16:26:29Z,D0089,U0249,Suspicious Process,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR000054,2026-03-04 10:20:20,D0065,U0333,Unusual Network,outlook.exe,Medium,Closed,FALSE_POSITIVE
+EDR001771,2026-03-02 15:33:55,D0021,U0209,PowerShell Abuse,powershell_enc.exe,HIGH,Closed,
+EDR000667,2026-03-07 15:24:44,D0083,U0353,Unusual Network,antivirus_update.exe,Low,In Progress,FALSE_POSITIVE
+EDR001113,2026-03-15T09:25:36Z,D0125,U0135,Unusual Network,chrome.exe,Medium,Open,FALSE_POSITIVE
+EDR001639,2026-03-06 17:52:34,D0119,U0370,PowerShell Abuse,cryptolock.exe,high,Open,NEEDS_INVESTIGATION
+EDR000548,2026-03-05 17:21:32,D0140,U0264,PUP Detected,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR000159,2026-03-17 19:27:33,D0091,U0286,Suspicious Process,antivirus_update.exe,Low,Closed,
+EDR000825,2026-03-13 09:22:27,D0164,U0044,Suspicious Process,chrome.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001638,2026-03-15 15:05:49,D0103,U0046,PowerShell Abuse,rundll32.exe,Medium,In Progress,NEEDS_INVESTIGATION
+EDR000015,2026-03-09 14:05:19,D0022,U0080,Suspicious Process,inventory_scan.exe,medium,Closed,
+EDR000227,2026-03-12T12:29:54Z,D0018,U0168,Suspicious Process,teams.exe,Low,Closed,FALSE_POSITIVE
+EDR001664,2026-03-19T14:36:26Z,D0120,U0168,Persistence Attempt,sccm_client.exe,low,Open,NEEDS_INVESTIGATION
+EDR000453,2026-03-13T08:45:17Z,D0169,U0113,PUP Detected,sccm_client.exe,MEDIUM,In Progress,
+EDR001575,2026-03-11 19:42:00,D0111,U0097,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000641,2026-03-22T09:39:54Z,D0150,U0183,Unusual Network,antivirus_update.exe,medium,In Progress,FALSE_POSITIVE
+EDR000621,2026-03-10 18:51:52,D0069,U0066,Unusual Network,teams.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001134,2026-03-04 12:06:59,D0048,U0160,PUP Detected,chrome.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000137,2026-03-14 15:05:55,D0130,U0217,PUP Detected,outlook.exe,high,Closed,
+EDR000128,2026-03-04 11:48:29,D0092,U0012,Unusual Network,antivirus_update.exe,High,In Progress,
+EDR000517,2026-03-15 19:38:28,D0137,U0312,PUP Detected,chrome.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000611,2026-03-20 18:43:42,D0070,U0372,Unusual Network,sccm_client.exe,high,Closed,FALSE_POSITIVE
+EDR000473,2026-03-07T12:50:38Z,D0089,U0270,Suspicious Process,inventory_scan.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000431,2026-03-18 18:55:14,D0157,U0031,PUP Detected,teams.exe,MEDIUM,Open,
+EDR001506,2026-03-11 16:15:00,D0091,U0042,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000999,2026-03-05 18:28:20,D0187,U0094,PUP Detected,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001268,2026-03-11 04:21:00,D0071,U0272,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001129,2026-03-09T10:04:02Z,D0190,U0126,PUP Detected,chrome.exe,low,Open,
+EDR001738,2026-03-07 17:05:49,D0151,U0363,Credential Access,cryptolock.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR001806,2026-03-12 04:00:00,D0003,U0007,PowerShell Abuse,cryptolock.exe,high,Open,TRUE_POSITIVE
+EDR000861,2026-03-06 19:44:22,D0059,U0281,Suspicious Process,chrome.exe,low,In Progress,FALSE_POSITIVE
+EDR001696,2026-03-09 09:35:17,D0090,U0090,Ransomware Behaviour,chrome.exe,CRITICAL,In Progress,NEEDS_INVESTIGATION
+EDR000513,2026-03-18 14:43:14,D0164,U0365,Suspicious Process,outlook.exe,High,Open,FALSE_POSITIVE
+EDR000795,2026-03-11 09:55:03,D0040,U0086,Suspicious Process,teams.exe,HIGH,Open,FALSE_POSITIVE
+EDR001602,2026-03-18T18:19:00Z,D0013,U0249,Suspicious Process,cryptolock.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000665,2026-03-14 15:26:18,D0177,U0031,PUP Detected,sccm_client.exe,medium,Open,FALSE_POSITIVE
+EDR001615,2026-03-19 11:43:08,D0159,U0181,Ransomware Behaviour,powershell_enc.exe,Medium,In Progress,NEEDS_INVESTIGATION
+EDR000395,2026-03-08T17:14:41Z,D0098,U0027,Unusual Network,sccm_client.exe,Low,Closed,FALSE_POSITIVE
+EDR000206,2026-03-02 14:03:53,D0149,U0079,PUP Detected,outlook.exe,high,In Progress,FALSE_POSITIVE
+EDR000214,2026-03-14 13:21:17,D0192,U0293,PUP Detected,python.exe,High,Closed,FALSE_POSITIVE
+EDR001233,2026-03-11 02:36:00,D0082,U0176,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000967,2026-03-05T11:21:11Z,D0152,U0351,PUP Detected,sccm_client.exe,Medium,Open,FALSE_POSITIVE
+EDR000690,2026-03-04 09:31:53,D0192,U0207,PUP Detected,inventory_scan.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000508,2026-03-20 13:17:16,D0048,U0083,PUP Detected,sccm_client.exe,high,Open,FALSE_POSITIVE
+EDR001551,2026-03-11 18:30:00,D0120,U0037,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000065,2026-03-03 09:41:05,D0163,U0269,Suspicious Process,python.exe,Medium,Open,FALSE_POSITIVE
+EDR001750,2026-03-21 09:15:45,D0001,U0343,Malware Signature,powershell_enc.exe,high,Closed,TRUE_POSITIVE
+EDR001583,2026-03-06 09:50:05,D0095,U0356,Unusual Network,psexec.exe,Critical,In Progress,
+EDR000245,2026-03-08 08:51:22,D0055,U0284,Suspicious Process,outlook.exe,HIGH,Closed,
+EDR000222,2026-03-17T12:46:13Z,D0149,U0196,Suspicious Process,chrome.exe,Low,Closed,
+EDR001028,2026-03-08 17:10:41,D0094,U0387,Unusual Network,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR000791,2026-03-03 18:22:58,D0121,U0323,Suspicious Process,sccm_client.exe,LOW,Closed,FALSE_POSITIVE
+EDR001617,2026-03-09T08:55:38Z,D0175,U0100,Unusual Network,python.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR000529,2026-03-04 16:08:43,D0030,U0149,Suspicious Process,outlook.exe,Low,Closed,FALSE_POSITIVE
+EDR001809,2026-03-12 04:09:00,D0003,U0007,PowerShell Abuse,cryptolock.exe,HIGH,Open,TRUE_POSITIVE
+EDR001717,2026-03-19 16:41:07,D0132,U0159,Persistence Attempt,powershell_enc.exe,LOW,Open,NEEDS_INVESTIGATION
+EDR001193,2026-03-11T00:36:00Z,D0162,U0214,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000607,2026-03-15 09:06:39,D0087,U0241,Suspicious Process,outlook.exe,Low,In Progress,FALSE_POSITIVE
+EDR000867,2026-03-14 10:52:05,D0199,U0105,PUP Detected,inventory_scan.exe,LOW,Open,FALSE_POSITIVE
+EDR001463,2026-03-11 14:06:00,D0030,U0381,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001212,2026-03-11 01:33:00,D0121,U0040,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000072,2026-03-11 13:51:18,D0160,U0077,Suspicious Process,sccm_client.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000654,2026-03-08T11:40:31Z,D0064,U0174,Unusual Network,outlook.exe,High,Open,FALSE_POSITIVE
+EDR000342,2026-03-09 15:44:38,D0056,U0330,Suspicious Process,inventory_scan.exe,medium,Open,FALSE_POSITIVE
+EDR000721,2026-03-07 15:12:25,D0118,U0326,Unusual Network,inventory_scan.exe,HIGH,Open,
+EDR001223,2026-03-11 02:06:00,D0114,U0373,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000134,2026-03-05 19:20:07,D0096,U0005,Suspicious Process,outlook.exe,Medium,Closed,FALSE_POSITIVE
+EDR000794,2026-03-13 18:20:59,D0033,U0021,Suspicious Process,outlook.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000306,2026-03-19T09:01:07Z,D0063,U0207,Unusual Network,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR001383,2026-03-11 10:06:00,D0112,U0070,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000788,2026-03-20 10:22:14,D0021,U0330,PUP Detected,sccm_client.exe,medium,Closed,FALSE_POSITIVE
+EDR001609,2026-03-16T15:05:32Z,D0141,U0050,PUP Detected,python.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR000261,2026-03-09 14:33:44,D0037,U0357,Unusual Network,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001566,2026-03-11T19:15:00Z,D0027,U0196,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000749,2026-03-16 11:35:32,D0016,U0231,PUP Detected,inventory_scan.exe,LOW,Closed,FALSE_POSITIVE
+EDR001130,2026-03-13T16:44:56Z,D0121,U0060,PUP Detected,teams.exe,Medium,Closed,FALSE_POSITIVE
+EDR000540,2026-03-14 19:30:28,D0152,U0264,Unusual Network,inventory_scan.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001016,2026-03-09T11:12:36Z,D0101,U0300,Unusual Network,inventory_scan.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001352,2026-03-11 08:33:00,D0185,U0214,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001652,2026-03-03 10:05:52,D0055,U0028,Ransomware Behaviour,inventory_scan.exe,low,Open,NEEDS_INVESTIGATION
+EDR000377,2026-03-13 08:40:06,D0142,U0156,Suspicious Process,inventory_scan.exe,high,Open,FALSE_POSITIVE
+EDR001580,2026-03-11 19:57:00,D0126,U0208,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000833,2026-03-08 14:13:32,D0002,U0052,Unusual Network,chrome.exe,medium,Open,FALSE_POSITIVE
+EDR000209,2026-03-10 09:31:09,D0115,U0331,Suspicious Process,teams.exe,low,Closed,
+EDR000715,2026-03-21 08:30:10,D0135,U0293,Unusual Network,chrome.exe,LOW,Closed,FALSE_POSITIVE
+EDR000126,2026-03-22 09:15:06,D0109,U0045,Suspicious Process,sccm_client.exe,medium,In Progress,FALSE_POSITIVE
+EDR000783,2026-03-20T13:33:15Z,D0123,U0012,Suspicious Process,inventory_scan.exe,LOW,Open,FALSE_POSITIVE
+EDR001313,2026-03-11 06:36:00,D0196,U0354,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000391,2026-03-09T09:23:46Z,D0139,U0336,PUP Detected,python.exe,Medium,Open,
+EDR000681,2026-03-02T11:27:56Z,D0062,U0103,PUP Detected,python.exe,low,Closed,FALSE_POSITIVE
+EDR000902,2026-03-07 13:15:17,D0018,U0304,PUP Detected,outlook.exe,MEDIUM,Open,
+EDR001451,2026-03-11 13:30:00,D0181,U0309,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000846,2026-03-05T18:44:21Z,D0145,U0005,Suspicious Process,inventory_scan.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000179,2026-03-06T17:56:17Z,D0190,U0269,PUP Detected,antivirus_update.exe,High,Closed,FALSE_POSITIVE
+EDR000400,2026-03-06T09:21:27Z,D0040,U0059,Suspicious Process,sccm_client.exe,LOW,Open,
+EDR001051,2026-03-06 13:20:18,D0052,U0267,Unusual Network,chrome.exe,Low,In Progress,FALSE_POSITIVE
+EDR001359,2026-03-11 08:54:00,D0104,U0237,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000495,2026-03-10 09:38:53,D0165,U0196,Unusual Network,python.exe,HIGH,Closed,
+EDR001597,2026-03-11T16:03:08Z,D0065,U0374,Malware Signature,chrome.exe,HIGH,Open,
+EDR000992,2026-03-14 17:06:38,D0180,U0029,PUP Detected,python.exe,LOW,Closed,FALSE_POSITIVE
+EDR001303,2026-03-11T06:06:00Z,D0072,U0268,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001324,2026-03-11 07:09:00,D0073,U0162,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000211,2026-03-10 18:16:27,D0044,U0033,Suspicious Process,inventory_scan.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000380,2026-03-09T14:54:57Z,D0149,U0071,PUP Detected,sccm_client.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000469,2026-03-02 13:45:13,D0152,U0362,PUP Detected,python.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001632,2026-03-12 14:19:52,D0192,U0124,Unusual Network,outlook.exe,medium,Open,NEEDS_INVESTIGATION
+EDR000109,2026-03-12 15:18:33,D0185,U0041,PUP Detected,outlook.exe,Low,In Progress,
+EDR001091,2026-03-20 13:28:50,D0171,U0361,Unusual Network,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000352,2026-03-19 12:10:13,D0026,U0010,Unusual Network,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR000050,2026-03-18T13:25:55Z,D0061,U0105,Unusual Network,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000192,2026-03-05 10:06:53,D0117,U0037,PUP Detected,python.exe,Low,Open,FALSE_POSITIVE
+EDR001748,2026-03-07 11:16:05,D0046,U0071,Credential Access,cryptolock.exe,Critical,Closed,TRUE_POSITIVE
+EDR001101,2026-03-16T14:03:30Z,D0194,U0117,Suspicious Process,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR001544,2026-03-11 18:09:00,D0198,U0161,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000241,2026-03-22 10:26:15,D0182,U0001,Suspicious Process,outlook.exe,low,Open,FALSE_POSITIVE
+EDR001132,2026-03-06T18:12:26Z,D0126,U0320,Unusual Network,teams.exe,medium,In Progress,FALSE_POSITIVE
+EDR000559,2026-03-09 08:43:19,D0074,U0028,PUP Detected,inventory_scan.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000243,2026-03-14T10:55:48Z,D0076,U0227,PUP Detected,teams.exe,high,In Progress,FALSE_POSITIVE
+EDR001141,2026-03-05 19:01:38,D0037,U0121,Unusual Network,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001715,2026-03-15 12:28:03,D0169,U0321,Suspicious Process,outlook.exe,critical,Open,NEEDS_INVESTIGATION
+EDR001452,2026-03-11 13:33:00,D0187,U0194,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000322,2026-03-14 14:52:43,D0153,U0001,PUP Detected,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000142,2026-03-03 11:23:04,D0133,U0312,Suspicious Process,teams.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000317,2026-03-21 10:24:14,D0021,U0049,Suspicious Process,chrome.exe,Low,Closed,FALSE_POSITIVE
+EDR000960,2026-03-20 19:02:55,D0109,U0326,Suspicious Process,python.exe,LOW,Closed,FALSE_POSITIVE
+EDR001118,2026-03-16 11:03:59,D0107,U0096,Unusual Network,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR000939,2026-03-03 09:40:19,D0059,U0336,Unusual Network,outlook.exe,medium,Closed,FALSE_POSITIVE
+EDR000632,2026-03-05 16:29:30,D0154,U0316,Suspicious Process,sccm_client.exe,High,Open,FALSE_POSITIVE
+EDR001470,2026-03-11 14:27:00,D0084,U0111,Suspicious Process,backup_agent.exe,high,Closed,
+EDR001550,2026-03-11T18:27:00Z,D0014,U0338,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000710,2026-03-04T19:28:28Z,D0149,U0025,Unusual Network,outlook.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001017,2026-03-13 19:25:31,D0098,U0211,Unusual Network,antivirus_update.exe,Medium,Closed,FALSE_POSITIVE
+EDR000047,2026-03-02 09:22:56,D0069,U0295,PUP Detected,outlook.exe,LOW,Open,FALSE_POSITIVE
+EDR000913,2026-03-09 17:17:43,D0128,U0202,Unusual Network,antivirus_update.exe,Medium,Open,FALSE_POSITIVE
+EDR000451,2026-03-13T13:37:09Z,D0046,U0100,PUP Detected,inventory_scan.exe,Medium,Closed,FALSE_POSITIVE
+EDR000287,2026-03-12 15:29:04,D0162,U0233,PUP Detected,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR001020,2026-03-03 12:08:49,D0143,U0394,Suspicious Process,chrome.exe,HIGH,In Progress,
+EDR001700,2026-03-20 16:56:28,D0086,U0113,Malware Signature,chrome.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001094,2026-03-10 18:01:17,D0137,U0310,Suspicious Process,antivirus_update.exe,medium,In Progress,
+EDR000886,2026-03-02 10:29:07,D0200,U0124,Unusual Network,teams.exe,low,Closed,FALSE_POSITIVE
+EDR001475,2026-03-11 14:42:00,D0120,U0058,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001378,2026-03-11 09:51:00,D0001,U0328,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001384,2026-03-11 10:09:00,D0086,U0230,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000990,2026-03-17T11:48:31Z,D0140,U0311,Unusual Network,teams.exe,High,In Progress,FALSE_POSITIVE
+EDR001280,2026-03-11 04:57:00,D0003,U0048,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000445,2026-03-16 18:49:05,D0149,U0181,Suspicious Process,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001160,2026-03-19 11:45:09,D0085,U0141,PUP Detected,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR001042,2026-03-13 11:18:40,D0194,U0006,Unusual Network,python.exe,low,Open,FALSE_POSITIVE
+EDR001540,2026-03-11 17:57:00,D0005,U0246,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001099,2026-03-22 11:03:21,D0130,U0236,PUP Detected,chrome.exe,LOW,Closed,
+EDR000090,2026-03-15T13:01:01Z,D0059,U0188,Suspicious Process,teams.exe,Low,Closed,FALSE_POSITIVE
+EDR000753,2026-03-17 16:15:15,D0073,U0071,PUP Detected,outlook.exe,Medium,Closed,
+EDR000962,2026-03-15 11:48:04,D0176,U0143,Unusual Network,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR001720,2026-03-21 09:47:10,D0062,U0255,Unusual Network,inventory_scan.exe,Critical,Open,NEEDS_INVESTIGATION
+EDR001562,2026-03-11 19:03:00,D0157,U0300,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000433,2026-03-12 12:59:03,D0020,U0345,Unusual Network,sccm_client.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000163,2026-03-13 19:17:24,D0150,U0257,Suspicious Process,teams.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001295,2026-03-11 05:42:00,D0114,U0334,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001025,2026-03-18 19:42:50,D0153,U0226,Unusual Network,teams.exe,LOW,Closed,FALSE_POSITIVE
+EDR001027,2026-03-20 08:18:20,D0050,U0236,PUP Detected,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000427,2026-03-06 13:37:36,D0085,U0196,Suspicious Process,antivirus_update.exe,medium,In Progress,FALSE_POSITIVE
+EDR000556,2026-03-20 11:19:52,D0192,U0262,Unusual Network,antivirus_update.exe,low,In Progress,
+EDR001538,2026-03-11 17:51:00,D0086,U0132,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000687,2026-03-17T19:14:19Z,D0129,U0331,Unusual Network,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR001655,2026-03-04 12:55:26,D0007,U0084,Ransomware Behaviour,powershell_enc.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR000969,2026-03-08 18:01:52,D0168,U0383,Unusual Network,inventory_scan.exe,high,Open,FALSE_POSITIVE
+EDR001838,2026-03-19 13:23:45,D9005,U0218,Persistence Attempt,outlook.exe,critical,Open,NEEDS_INVESTIGATION
+EDR000347,2026-03-03T15:39:41Z,D0179,U0040,Suspicious Process,teams.exe,medium,In Progress,FALSE_POSITIVE
+EDR000332,2026-03-16 17:31:58,D0146,U0270,Suspicious Process,inventory_scan.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001275,2026-03-11 04:42:00,D0106,U0188,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000629,2026-03-20 17:34:05,D0059,U0126,Suspicious Process,antivirus_update.exe,LOW,Closed,
+EDR000149,2026-03-17T09:44:34Z,D0049,U0011,PUP Detected,teams.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001004,2026-03-10 09:09:49,D0073,U0177,Unusual Network,outlook.exe,low,Closed,FALSE_POSITIVE
+EDR000814,2026-03-21 13:54:55,D0064,U0036,Suspicious Process,antivirus_update.exe,medium,In Progress,FALSE_POSITIVE
+EDR000627,2026-03-21 13:14:39,D0169,U0301,Unusual Network,antivirus_update.exe,High,Open,
+EDR001048,2026-03-10 15:37:12,D0196,U0330,PUP Detected,sccm_client.exe,HIGH,Open,FALSE_POSITIVE
+EDR001529,2026-03-11 17:24:00,D0130,U0253,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001082,2026-03-08T13:53:36Z,D0008,U0138,Suspicious Process,python.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000993,2026-03-09 17:55:55,D0046,U0087,Suspicious Process,python.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000926,2026-03-18 12:34:06,D0187,U0060,Suspicious Process,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000240,2026-03-14 08:08:05,D0066,U0188,Unusual Network,outlook.exe,Low,Open,
+EDR000348,2026-03-18 12:18:25,D0013,U0280,Suspicious Process,antivirus_update.exe,Low,Open,FALSE_POSITIVE
+EDR000580,2026-03-08 10:49:33,D0006,U0293,PUP Detected,chrome.exe,High,Closed,FALSE_POSITIVE
+EDR000355,2026-03-06 15:09:20,D0130,U0146,Suspicious Process,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001835,2026-03-13 14:29:45,D9002,U0249,Unusual Network,rundll32.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000716,2026-03-11 14:23:19,D0031,U0391,Unusual Network,sccm_client.exe,high,Open,FALSE_POSITIVE
+EDR000300,2026-03-22 12:02:26,D0190,U0263,Suspicious Process,outlook.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001826,2026-03-21 19:03:00,D9006,U0380,Suspicious Process,antivirus_update.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001611,2026-03-07T18:42:10Z,D0097,U0020,PowerShell Abuse,inventory_scan.exe,low,Open,NEEDS_INVESTIGATION
+EDR001512,2026-03-11 16:33:00,D0041,U0341,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001674,2026-03-03 19:29:08,D0051,U0023,Credential Access,mimikatz.exe,low,Open,NEEDS_INVESTIGATION
+EDR000239,2026-03-15T19:39:56Z,D0046,U0002,PUP Detected,inventory_scan.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001730,2026-03-19 14:36:54,D0128,U0313,PowerShell Abuse,teams.exe,High,In Progress,NEEDS_INVESTIGATION
+EDR001810,2026-03-12 04:12:00,D0003,U0007,Persistence Attempt,psexec.exe,critical,Open,TRUE_POSITIVE
+EDR000965,2026-03-20 10:25:05,D0125,U0393,Unusual Network,antivirus_update.exe,medium,In Progress,FALSE_POSITIVE
+EDR001098,2026-03-18 17:09:57,D0150,U0251,PUP Detected,chrome.exe,High,In Progress,FALSE_POSITIVE
+EDR000411,2026-03-17 19:47:17,D0137,U0366,PUP Detected,chrome.exe,medium,In Progress,FALSE_POSITIVE
+EDR000720,2026-03-03T12:59:46Z,D0163,U0341,Suspicious Process,outlook.exe,low,Closed,FALSE_POSITIVE
+EDR001484,2026-03-11T15:09:00Z,D0154,U0359,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001423,2026-03-11 12:06:00,D0181,U0370,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000542,2026-03-02 13:45:50,D0132,U0287,Unusual Network,inventory_scan.exe,Low,In Progress,FALSE_POSITIVE
+EDR001852,2026-03-04 08:00:33,D9002,U0300,Credential Access,inventory_scan.exe,Low,Open,NEEDS_INVESTIGATION
+EDR001572,2026-03-11 19:33:00,D0163,U0124,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000298,2026-03-15T18:18:19Z,D0169,U0242,PUP Detected,inventory_scan.exe,High,Closed,FALSE_POSITIVE
+EDR001077,2026-03-04 17:37:31,D0166,U0105,Unusual Network,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001684,2026-03-16 10:31:21,D0023,U0106,PowerShell Abuse,antivirus_update.exe,low,In Progress,NEEDS_INVESTIGATION
+EDR001582,2026-03-14 19:29:18,D0169,U0337,Persistence Attempt,psexec.exe,LOW,Open,NEEDS_INVESTIGATION
+EDR000668,2026-03-09 18:00:43,D0140,U0003,Unusual Network,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR001013,2026-03-08 13:30:28,D0002,U0165,Unusual Network,sccm_client.exe,Low,In Progress,FALSE_POSITIVE
+EDR000736,2026-03-16T09:58:31Z,D0195,U0087,Suspicious Process,python.exe,LOW,Open,FALSE_POSITIVE
+EDR001790,2026-03-12 03:12:00,D0003,U0007,Credential Access,psexec.exe,CRITICAL,In Progress,TRUE_POSITIVE
+EDR001664,2026-03-19T14:36:26Z,D0120,U0168,Persistence Attempt,sccm_client.exe,low,Open,NEEDS_INVESTIGATION
+EDR001585,2026-03-13 19:47:11,D0004,U0225,PUP Detected,psexec.exe,Medium,Open,NEEDS_INVESTIGATION
+EDR001794,2026-03-12T03:24:00Z,D0003,U0007,Credential Access,mimikatz.exe,HIGH,Open,TRUE_POSITIVE
+EDR000644,2026-03-17 11:24:36,D0093,U0093,Unusual Network,python.exe,low,Closed,FALSE_POSITIVE
+EDR001242,2026-03-11 03:03:00,D0059,U0382,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001031,2026-03-22 08:15:29,D0080,U0162,Suspicious Process,sccm_client.exe,Medium,Open,FALSE_POSITIVE
+EDR000082,2026-03-08T14:59:58Z,D0165,U0172,Unusual Network,antivirus_update.exe,HIGH,In Progress,
+EDR001531,2026-03-11 17:30:00,D0028,U0384,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000523,2026-03-22T14:22:23Z,D0071,U0206,Suspicious Process,inventory_scan.exe,Medium,Open,FALSE_POSITIVE
+EDR000167,2026-03-18 12:35:07,D0088,U0039,Suspicious Process,antivirus_update.exe,Low,Closed,FALSE_POSITIVE
+EDR000087,2026-03-06 19:32:00,D0006,U0347,Suspicious Process,inventory_scan.exe,low,Open,FALSE_POSITIVE
+EDR001210,2026-03-11 01:27:00,D0117,U0229,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001561,2026-03-11 19:00:00,D0073,U0125,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000340,2026-03-15T12:06:06Z,D0102,U0161,Suspicious Process,python.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000565,2026-03-08 19:16:37,D0099,U0071,Unusual Network,inventory_scan.exe,low,Open,FALSE_POSITIVE
+EDR001774,2026-03-09 13:20:12,D0107,U0249,Malware Signature,powershell_enc.exe,critical,Closed,TRUE_POSITIVE
+EDR001546,2026-03-11T18:15:00Z,D0070,U0367,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001623,2026-03-04 19:19:12,D0103,U0158,Malware Signature,chrome.exe,LOW,Open,
+EDR001385,2026-03-11 10:12:00,D0043,U0189,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001787,2026-03-12 03:03:00,D0003,U0007,PowerShell Abuse,rundll32.exe,critical,Open,TRUE_POSITIVE
+EDR000381,2026-03-03T10:31:29Z,D0012,U0378,Suspicious Process,antivirus_update.exe,low,Open,
+EDR000357,2026-03-06 14:44:48,D0160,U0109,Suspicious Process,teams.exe,medium,Closed,FALSE_POSITIVE
+EDR000573,2026-03-17 09:49:26,D0031,U0059,Unusual Network,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR001673,2026-03-09T19:04:26Z,D0078,U0196,Persistence Attempt,rundll32.exe,Medium,In Progress,
+EDR001526,2026-03-11 17:15:00,D0107,U0337,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000546,2026-03-07T12:38:43Z,D0061,U0273,Suspicious Process,outlook.exe,Low,Open,FALSE_POSITIVE
+EDR000313,2026-03-06 13:17:24,D0151,U0109,PUP Detected,chrome.exe,Low,Open,FALSE_POSITIVE
+EDR000576,2026-03-09 13:15:46,D0146,U0052,PUP Detected,inventory_scan.exe,High,Closed,FALSE_POSITIVE
+EDR001302,2026-03-11 06:03:00,D0057,U0119,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001557,2026-03-11 18:48:00,D0112,U0225,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001813,2026-03-12 04:21:00,D0003,U0007,PowerShell Abuse,mimikatz.exe,critical,Open,TRUE_POSITIVE
+EDR000238,2026-03-20T13:01:16Z,D0129,U0288,Unusual Network,outlook.exe,HIGH,Closed,
+EDR000411,2026-03-17 19:47:17,D0137,U0366,PUP Detected,chrome.exe,medium,In Progress,FALSE_POSITIVE
+EDR000094,2026-03-17 08:53:31,D0100,U0210,Suspicious Process,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR001779,2026-03-12 02:39:00,D0003,U0007,Credential Access,mimikatz.exe,high,Open,NEEDS_INVESTIGATION
+EDR001001,2026-03-17 17:19:42,D0101,U0109,PUP Detected,antivirus_update.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001593,2026-03-10 17:22:58,D0157,U0253,Credential Access,inventory_scan.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR000113,2026-03-06 12:41:57,D0146,U0381,Suspicious Process,sccm_client.exe,Low,Closed,FALSE_POSITIVE
+EDR001693,2026-03-12 11:56:51,D0171,U0012,Unusual Network,powershell_enc.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001205,2026-03-11 01:12:00,D0095,U0202,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000337,2026-03-20 12:06:49,D0077,U0068,Suspicious Process,antivirus_update.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001060,2026-03-17 13:19:02,D0074,U0151,Unusual Network,sccm_client.exe,HIGH,Open,FALSE_POSITIVE
+EDR000515,2026-03-13 19:00:36,D0165,U0344,PUP Detected,outlook.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000658,2026-03-02 10:55:13,D0044,U0354,Suspicious Process,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000998,2026-03-18 12:24:58,D0150,U0361,Unusual Network,outlook.exe,low,In Progress,FALSE_POSITIVE
+EDR001770,2026-03-16 10:46:58,D0099,U0273,Persistence Attempt,cryptolock.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR001795,2026-03-12 03:27:00,D0003,U0007,PowerShell Abuse,cryptolock.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001006,2026-03-07T16:42:06Z,D0032,U0226,Unusual Network,antivirus_update.exe,High,Open,
+EDR001198,2026-03-11 00:51:00,D0094,U0099,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001208,2026-03-11 01:21:00,D0050,U0350,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001019,2026-03-16 13:58:22,D0108,U0023,Unusual Network,sccm_client.exe,Low,Open,FALSE_POSITIVE
+EDR000288,2026-03-03 16:32:00,D0100,U0105,Suspicious Process,python.exe,low,Closed,FALSE_POSITIVE
+EDR000823,2026-03-17T10:35:35Z,D0081,U0058,Suspicious Process,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001338,2026-03-11 07:51:00,D0109,U0365,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000148,2026-03-11 13:50:08,D0142,U0355,Suspicious Process,teams.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000590,2026-03-08 11:34:44,D0131,U0277,Unusual Network,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR000393,2026-03-02 10:59:48,D0063,U0220,PUP Detected,antivirus_update.exe,LOW,Open,FALSE_POSITIVE
+EDR000040,2026-03-13 12:52:34,D0143,U0023,Unusual Network,sccm_client.exe,High,Closed,
+EDR001727,2026-03-09 16:04:38,D0153,U0090,Ransomware Behaviour,teams.exe,Critical,Open,NEEDS_INVESTIGATION
+EDR000409,2026-03-07 09:48:04,D0023,U0209,Unusual Network,python.exe,Medium,Open,FALSE_POSITIVE
+EDR001259,2026-03-11 03:54:00,D0013,U0282,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001672,2026-03-16 10:21:29,D0039,U0371,Malware Signature,python.exe,LOW,In Progress,NEEDS_INVESTIGATION
+EDR000250,2026-03-21 08:59:35,D0073,U0329,PUP Detected,teams.exe,High,Open,FALSE_POSITIVE
+EDR001573,2026-03-11T19:36:00Z,D0165,U0315,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001172,2026-03-11 18:03:14,D0099,U0143,Suspicious Process,outlook.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001162,2026-03-02 19:22:33,D0180,U0168,Unusual Network,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000566,2026-03-03 19:32:00,D0078,U0051,PUP Detected,teams.exe,high,In Progress,FALSE_POSITIVE
+EDR001462,2026-03-11 14:03:00,D0110,U0106,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001753,2026-03-16 19:45:15,D0088,U0134,Persistence Attempt,psexec.exe,CRITICAL,Closed,
+EDR001317,2026-03-11 06:48:00,D0103,U0025,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000740,2026-03-17 15:47:01,D0034,U0234,Unusual Network,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000328,2026-03-17 12:22:17,D0106,U0245,Unusual Network,sccm_client.exe,High,Open,FALSE_POSITIVE
+EDR001448,2026-03-11T13:21:00Z,D0129,U0262,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001339,2026-03-11 07:54:00,D0060,U0050,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000067,2026-03-06 16:42:20,D0091,U0382,Unusual Network,sccm_client.exe,low,Open,FALSE_POSITIVE
+EDR000751,2026-03-08 16:45:08,D0039,U0221,Suspicious Process,sccm_client.exe,Medium,Open,FALSE_POSITIVE
+EDR001211,2026-03-11 01:30:00,D0179,U0221,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000646,2026-03-17T17:47:29Z,D0140,U0121,PUP Detected,antivirus_update.exe,high,Open,FALSE_POSITIVE
+EDR000331,2026-03-22 18:04:42,D0176,U0292,Unusual Network,antivirus_update.exe,high,Open,FALSE_POSITIVE
+EDR000228,2026-03-14T11:00:33Z,D0122,U0274,Unusual Network,teams.exe,high,Closed,FALSE_POSITIVE
+EDR001811,2026-03-12T04:15:00Z,D0003,U0007,Credential Access,psexec.exe,HIGH,In Progress,TRUE_POSITIVE
+EDR001066,2026-03-04T12:28:37Z,D0128,U0258,Unusual Network,antivirus_update.exe,LOW,Open,
+EDR000978,2026-03-05 17:08:57,D0061,U0156,Unusual Network,outlook.exe,High,Open,FALSE_POSITIVE
+EDR000010,2026-03-22 17:32:58,D0049,U0174,Suspicious Process,python.exe,Low,In Progress,FALSE_POSITIVE
+EDR001015,2026-03-05 13:55:27,D0008,U0275,Unusual Network,antivirus_update.exe,low,Closed,FALSE_POSITIVE
+EDR000491,2026-03-16 16:33:02,D0099,U0163,PUP Detected,teams.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000586,2026-03-06 08:21:47,D0174,U0216,Suspicious Process,inventory_scan.exe,high,Closed,FALSE_POSITIVE
+EDR001818,2026-03-17 03:20:00,D0011,U0113,Persistence Attempt,powershell_enc.exe,critical,Open,TRUE_POSITIVE
+EDR001654,2026-03-03 16:16:16,D0196,U0290,Persistence Attempt,teams.exe,low,In Progress,
+EDR000589,2026-03-09T16:09:08Z,D0070,U0135,Unusual Network,python.exe,high,In Progress,FALSE_POSITIVE
+EDR001350,2026-03-11 08:27:00,D0169,U0231,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000199,2026-03-02 13:29:06,D0126,U0300,PUP Detected,inventory_scan.exe,Medium,Closed,FALSE_POSITIVE
+EDR000539,2026-03-11T19:01:34Z,D0112,U0389,Unusual Network,teams.exe,high,In Progress,FALSE_POSITIVE
+EDR001204,2026-03-11 01:09:00,D0199,U0284,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000816,2026-03-19T12:15:24Z,D0195,U0353,Suspicious Process,python.exe,High,Closed,
+EDR000353,2026-03-15 15:08:39,D0114,U0091,Unusual Network,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR000407,2026-03-12 17:03:50,D0004,U0160,Unusual Network,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001337,2026-03-11T07:48:00Z,D0143,U0311,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000025,2026-03-06T17:00:58Z,D0046,U0054,PUP Detected,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR000770,2026-03-05 10:00:01,D0106,U0132,PUP Detected,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000647,2026-03-22 18:30:34,D0127,U0185,Suspicious Process,sccm_client.exe,LOW,Open,FALSE_POSITIVE
+EDR000532,2026-03-18T15:33:47Z,D0193,U0174,Suspicious Process,chrome.exe,high,In Progress,FALSE_POSITIVE
+EDR000906,2026-03-17T11:17:27Z,D0048,U0216,Unusual Network,python.exe,Low,Open,FALSE_POSITIVE
+EDR000905,2026-03-12 14:20:46,D0167,U0153,Unusual Network,teams.exe,high,Closed,FALSE_POSITIVE
+EDR000854,2026-03-21 16:05:27,D0084,U0373,Unusual Network,sccm_client.exe,high,Open,FALSE_POSITIVE
+EDR001390,2026-03-11 10:27:00,D0051,U0048,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001078,2026-03-05T10:11:05Z,D0096,U0162,PUP Detected,outlook.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001251,2026-03-11 03:30:00,D0095,U0108,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000186,2026-03-17T17:12:17Z,D0082,U0114,PUP Detected,antivirus_update.exe,Medium,Open,FALSE_POSITIVE
+EDR001703,2026-03-10 12:17:31,D0025,U0331,Ransomware Behaviour,powershell_enc.exe,medium,In Progress,
+EDR001459,2026-03-11 13:54:00,D0051,U0266,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000891,2026-03-07 14:37:58,D0071,U0308,Suspicious Process,teams.exe,LOW,In Progress,
+EDR001594,2026-03-14 18:37:18,D0169,U0291,Persistence Attempt,rundll32.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR001005,2026-03-04 09:38:37,D0165,U0306,Suspicious Process,outlook.exe,high,Open,FALSE_POSITIVE
+EDR000771,2026-03-15 19:20:03,D0153,U0281,Suspicious Process,teams.exe,HIGH,Open,FALSE_POSITIVE
+EDR000785,2026-03-14 18:51:00,D0067,U0052,PUP Detected,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR000151,2026-03-11 11:13:51,D0046,U0114,Unusual Network,sccm_client.exe,Low,Open,FALSE_POSITIVE
+EDR000849,2026-03-16 16:44:32,D0144,U0041,PUP Detected,teams.exe,low,Closed,FALSE_POSITIVE
+EDR001487,2026-03-11 15:18:00,D0152,U0281,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000613,2026-03-10T16:43:37Z,D0037,U0136,Suspicious Process,antivirus_update.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000470,2026-03-07 16:06:17,D0071,U0173,PUP Detected,teams.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000845,2026-03-16 08:23:47,D0072,U0033,PUP Detected,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000609,2026-03-10 17:33:20,D0140,U0079,Unusual Network,chrome.exe,medium,In Progress,FALSE_POSITIVE
+EDR001123,2026-03-17 14:36:45,D0129,U0034,Suspicious Process,python.exe,Medium,Open,FALSE_POSITIVE
+EDR000551,2026-03-19 12:35:23,D0180,U0386,PUP Detected,antivirus_update.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000184,2026-03-19T10:27:32Z,D0196,U0171,Suspicious Process,teams.exe,low,Closed,FALSE_POSITIVE
+EDR000299,2026-03-14 19:54:47,D0019,U0299,PUP Detected,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR000174,2026-03-12 09:02:07,D0023,U0103,Unusual Network,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR000046,2026-03-12 17:23:38,D0129,U0151,Suspicious Process,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR000026,2026-03-11T19:04:26Z,D0196,U0081,Suspicious Process,antivirus_update.exe,medium,Open,FALSE_POSITIVE
+EDR000911,2026-03-16 13:32:09,D0004,U0052,Suspicious Process,outlook.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001829,2026-03-03 15:01:03,D9001,U0229,Malware Signature,mimikatz.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000452,2026-03-08 10:39:13,D0193,U0038,PUP Detected,teams.exe,Medium,Open,
+EDR000371,2026-03-09 17:12:58,D0053,U0334,Suspicious Process,teams.exe,high,Open,FALSE_POSITIVE
+EDR000253,2026-03-04 16:59:56,D0159,U0289,Suspicious Process,inventory_scan.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000055,2026-03-17 09:39:44,D0200,U0086,Suspicious Process,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001114,2026-03-16 15:59:30,D0199,U0365,Suspicious Process,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000086,2026-03-06 10:05:52,D0027,U0158,PUP Detected,inventory_scan.exe,low,In Progress,FALSE_POSITIVE
+EDR000739,2026-03-19 16:53:29,D0079,U0298,PUP Detected,chrome.exe,MEDIUM,Open,
+EDR001374,2026-03-11 09:39:00,D0175,U0349,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000949,2026-03-02 18:10:38,D0028,U0140,PUP Detected,outlook.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000083,2026-03-03T09:11:45Z,D0170,U0229,Unusual Network,outlook.exe,medium,Closed,FALSE_POSITIVE
+EDR001708,2026-03-07 15:18:53,D0180,U0151,PUP Detected,antivirus_update.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR000847,2026-03-12 09:39:58,D0166,U0090,PUP Detected,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR000974,2026-03-13 17:33:52,D0001,U0355,Suspicious Process,python.exe,High,Open,
+EDR000793,2026-03-10 09:25:11,D0021,U0002,Suspicious Process,antivirus_update.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000717,2026-03-17 14:43:36,D0090,U0302,Unusual Network,chrome.exe,HIGH,Open,FALSE_POSITIVE
+EDR000808,2026-03-02 13:20:42,D0157,U0194,Unusual Network,sccm_client.exe,medium,Open,FALSE_POSITIVE
+EDR000307,2026-03-03T16:57:07Z,D0183,U0270,Suspicious Process,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000017,2026-03-04 11:04:10,D0115,U0024,Suspicious Process,chrome.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001821,2026-03-17 03:35:00,D0011,U0113,Ransomware Behaviour,cryptolock.exe,CRITICAL,Open,TRUE_POSITIVE
+EDR001151,2026-03-21T13:12:59Z,D0020,U0017,Suspicious Process,outlook.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000034,2026-03-18T14:15:49Z,D0123,U0109,Suspicious Process,teams.exe,high,Closed,FALSE_POSITIVE
+EDR001455,2026-03-11 13:42:00,D0138,U0118,Suspicious Process,backup_agent.exe,high,Closed,
+EDR001436,2026-03-11T12:45:00Z,D0163,U0211,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000774,2026-03-17 15:07:22,D0043,U0297,Unusual Network,outlook.exe,LOW,Open,FALSE_POSITIVE
+EDR001841,2026-03-16 12:30:43,D9004,U0386,Credential Access,antivirus_update.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR000210,2026-03-10T16:23:33Z,D0079,U0012,PUP Detected,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000872,2026-03-10 14:30:23,D0175,U0327,Unusual Network,teams.exe,High,Closed,FALSE_POSITIVE
+EDR000742,2026-03-05 19:18:46,D0104,U0316,Suspicious Process,teams.exe,Low,Closed,FALSE_POSITIVE
+EDR001373,2026-03-11 09:36:00,D0031,U0151,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001191,2026-03-11 00:30:00,D0147,U0072,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000435,2026-03-10 14:52:52,D0122,U0395,Suspicious Process,antivirus_update.exe,High,Open,
+EDR001040,2026-03-10 08:04:28,D0182,U0026,Suspicious Process,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001760,2026-03-12 13:42:50,D0151,U0234,PowerShell Abuse,cryptolock.exe,critical,Closed,TRUE_POSITIVE
+EDR000631,2026-03-08 13:25:05,D0040,U0190,Unusual Network,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR000773,2026-03-06T19:30:40Z,D0038,U0274,Suspicious Process,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR000282,2026-03-03T13:27:19Z,D0174,U0395,Unusual Network,teams.exe,Low,In Progress,
+EDR001200,2026-03-11 00:57:00,D0159,U0157,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001589,2026-03-14 12:23:46,D0051,U0024,Malware Signature,inventory_scan.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR000908,2026-03-12 08:28:40,D0184,U0157,PUP Detected,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR000510,2026-03-14 19:30:29,D0065,U0282,Suspicious Process,chrome.exe,Low,In Progress,FALSE_POSITIVE
+EDR000437,2026-03-05T14:24:02Z,D0072,U0146,Unusual Network,outlook.exe,low,Open,FALSE_POSITIVE
+EDR001797,2026-03-12T03:33:00Z,D0003,U0007,PowerShell Abuse,psexec.exe,CRITICAL,In Progress,NEEDS_INVESTIGATION
+EDR000140,2026-03-05T10:47:25Z,D0149,U0284,Unusual Network,python.exe,high,Open,FALSE_POSITIVE
+EDR001704,2026-03-14T18:27:53Z,D0047,U0108,Credential Access,inventory_scan.exe,low,Open,NEEDS_INVESTIGATION
+EDR001756,2026-03-16T17:59:58Z,D0116,U0190,Credential Access,cryptolock.exe,HIGH,Closed,
+EDR000691,2026-03-08 11:11:58,D0108,U0239,Unusual Network,sccm_client.exe,LOW,Open,
+EDR000260,2026-03-11 19:52:16,D0044,U0322,Suspicious Process,inventory_scan.exe,medium,Open,FALSE_POSITIVE
+EDR001219,2026-03-11 01:54:00,D0059,U0244,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001773,2026-03-22T08:50:16Z,D0078,U0123,PowerShell Abuse,cryptolock.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR001469,2026-03-11T14:24:00Z,D0191,U0275,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000745,2026-03-15 09:01:02,D0146,U0291,Suspicious Process,antivirus_update.exe,high,Closed,FALSE_POSITIVE
+EDR001203,2026-03-11 01:06:00,D0175,U0031,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001299,2026-03-11 05:54:00,D0047,U0307,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000504,2026-03-09T08:22:59Z,D0188,U0009,Suspicious Process,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001083,2026-03-17 13:01:19,D0173,U0354,Unusual Network,teams.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000247,2026-03-03 12:15:41,D0195,U0023,Unusual Network,antivirus_update.exe,Medium,Closed,
+EDR000560,2026-03-05 08:57:27,D0105,U0355,PUP Detected,chrome.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001244,2026-03-11 03:09:00,D0198,U0019,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000971,2026-03-19 16:04:54,D0192,U0344,PUP Detected,inventory_scan.exe,High,Open,FALSE_POSITIVE
+EDR000514,2026-03-02 15:38:12,D0055,U0367,Unusual Network,python.exe,low,In Progress,FALSE_POSITIVE
+EDR001237,2026-03-11 02:48:00,D0013,U0047,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000822,2026-03-03 13:16:58,D0027,U0315,Suspicious Process,sccm_client.exe,low,Closed,FALSE_POSITIVE
+EDR000592,2026-03-07 14:51:38,D0091,U0145,Suspicious Process,teams.exe,medium,Closed,FALSE_POSITIVE
+EDR001650,2026-03-05 10:29:30,D0036,U0343,Credential Access,chrome.exe,Critical,In Progress,NEEDS_INVESTIGATION
+EDR001453,2026-03-11T13:36:00Z,D0137,U0360,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001804,2026-03-12 03:54:00,D0003,U0007,Credential Access,mimikatz.exe,HIGH,Open,TRUE_POSITIVE
+EDR001399,2026-03-11 10:54:00,D0187,U0261,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000626,2026-03-22 18:29:36,D0111,U0239,Unusual Network,sccm_client.exe,medium,Closed,
+EDR000131,2026-03-22T14:25:01Z,D0149,U0253,Unusual Network,chrome.exe,High,Open,FALSE_POSITIVE
+EDR000614,2026-03-22T09:33:36Z,D0018,U0362,PUP Detected,outlook.exe,Low,Closed,FALSE_POSITIVE
+EDR000694,2026-03-05T16:24:27Z,D0158,U0247,Suspicious Process,chrome.exe,Medium,Closed,FALSE_POSITIVE
+EDR000111,2026-03-07 16:03:28,D0080,U0169,Unusual Network,chrome.exe,medium,In Progress,
+EDR000369,2026-03-11 13:06:28,D0067,U0050,Unusual Network,antivirus_update.exe,low,Open,FALSE_POSITIVE
+EDR001647,2026-03-22T11:13:18Z,D0099,U0095,Malware Signature,cryptolock.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR001278,2026-03-11 04:51:00,D0109,U0107,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR000119,2026-03-14 13:45:57,D0163,U0394,Unusual Network,teams.exe,Low,Open,FALSE_POSITIVE
+EDR000732,2026-03-16 16:23:17,D0091,U0063,Suspicious Process,chrome.exe,High,Open,FALSE_POSITIVE
+EDR000078,2026-03-17T19:59:00Z,D0095,U0151,Suspicious Process,python.exe,LOW,Closed,FALSE_POSITIVE
+EDR000471,2026-03-22 11:25:32,D0161,U0327,Unusual Network,sccm_client.exe,medium,Open,FALSE_POSITIVE
+EDR001353,2026-03-11 08:36:00,D0168,U0064,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001247,2026-03-11 03:18:00,D0166,U0074,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000505,2026-03-12 09:40:53,D0023,U0386,Suspicious Process,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR001513,2026-03-11T16:36:00Z,D0048,U0105,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000150,2026-03-19T16:56:26Z,D0125,U0083,PUP Detected,teams.exe,medium,In Progress,FALSE_POSITIVE
+EDR001185,2026-03-11 00:12:00,D0022,U0389,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000537,2026-03-20 15:47:34,D0050,U0371,Suspicious Process,teams.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000467,2026-03-12 10:43:21,D0121,U0004,Unusual Network,sccm_client.exe,HIGH,Open,FALSE_POSITIVE
+EDR000225,2026-03-19 17:31:52,D0145,U0338,Unusual Network,chrome.exe,high,Open,FALSE_POSITIVE
+EDR001845,2026-03-09 08:21:03,D9007,U0058,Persistence Attempt,inventory_scan.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001325,2026-03-11 07:12:00,D0077,U0391,Suspicious Process,backup_agent.exe,High,Closed,
+EDR001199,2026-03-11 00:54:00,D0003,U0181,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001009,2026-03-08T11:44:44Z,D0070,U0194,PUP Detected,python.exe,High,In Progress,
+EDR000187,2026-03-05 14:27:43,D0088,U0345,Suspicious Process,chrome.exe,LOW,Open,FALSE_POSITIVE
+EDR001788,2026-03-12T03:06:00Z,D0003,U0007,Credential Access,powershell_enc.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001645,2026-03-10T12:37:57Z,D0129,U0364,Unusual Network,chrome.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR000099,2026-03-02 13:36:02,D0002,U0230,PUP Detected,antivirus_update.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001606,2026-03-18T17:11:19Z,D0106,U0307,Credential Access,inventory_scan.exe,HIGH,In Progress,
+EDR000334,2026-03-03 13:12:49,D0061,U0038,Suspicious Process,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000697,2026-03-12 16:47:14,D0166,U0292,Unusual Network,chrome.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000180,2026-03-11 18:51:32,D0045,U0054,Suspicious Process,inventory_scan.exe,medium,Open,
+EDR000887,2026-03-07 17:44:21,D0190,U0316,Suspicious Process,outlook.exe,Low,In Progress,FALSE_POSITIVE
+EDR000116,2026-03-05 15:53:44,D0113,U0182,PUP Detected,teams.exe,medium,In Progress,FALSE_POSITIVE
+EDR000350,2026-03-13 08:32:40,D0089,U0235,Suspicious Process,chrome.exe,high,In Progress,FALSE_POSITIVE
+EDR001362,2026-03-11T09:03:00Z,D0127,U0246,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001781,2026-03-12T02:45:00Z,D0003,U0007,Persistence Attempt,psexec.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001184,2026-03-11 00:09:00,D0054,U0366,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001234,2026-03-11 02:39:00,D0119,U0113,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000979,2026-03-02 08:11:39,D0076,U0313,Suspicious Process,outlook.exe,Low,In Progress,
+EDR000594,2026-03-19T14:43:09Z,D0118,U0056,Suspicious Process,chrome.exe,high,Open,FALSE_POSITIVE
+EDR001440,2026-03-11 12:57:00,D0095,U0307,Suspicious Process,backup_agent.exe,High,Closed,
+EDR001276,2026-03-11T04:45:00Z,D0066,U0277,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000933,2026-03-15 12:33:47,D0098,U0180,Unusual Network,sccm_client.exe,high,Open,FALSE_POSITIVE
+EDR001166,2026-03-08 17:56:21,D0049,U0099,Suspicious Process,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR001473,2026-03-11 14:36:00,D0180,U0182,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000049,2026-03-10T10:56:27Z,D0084,U0313,Unusual Network,antivirus_update.exe,Medium,Open,FALSE_POSITIVE
+EDR001677,2026-03-03 15:24:46,D0149,U0387,PUP Detected,teams.exe,Medium,In Progress,NEEDS_INVESTIGATION
+EDR001406,2026-03-11 11:15:00,D0128,U0348,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000321,2026-03-11T17:10:42Z,D0064,U0235,Unusual Network,sccm_client.exe,Medium,Open,FALSE_POSITIVE
+EDR000472,2026-03-10T19:35:00Z,D0026,U0037,PUP Detected,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR000624,2026-03-06T19:09:24Z,D0093,U0236,Suspicious Process,inventory_scan.exe,low,Open,FALSE_POSITIVE
+EDR000779,2026-03-07T16:52:24Z,D0015,U0313,Unusual Network,sccm_client.exe,Low,Closed,FALSE_POSITIVE
+EDR000273,2026-03-09 19:08:00,D0183,U0341,Unusual Network,outlook.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000727,2026-03-08 13:41:00,D0180,U0217,PUP Detected,chrome.exe,medium,Closed,FALSE_POSITIVE
+EDR001721,2026-03-04 11:56:19,D0085,U0328,Unusual Network,teams.exe,high,Open,NEEDS_INVESTIGATION
+EDR000205,2026-03-12T17:30:10Z,D0162,U0266,PUP Detected,sccm_client.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000293,2026-03-12 12:03:33,D0066,U0246,PUP Detected,outlook.exe,high,In Progress,FALSE_POSITIVE
+EDR000417,2026-03-15 18:37:43,D0125,U0073,Unusual Network,outlook.exe,Low,Closed,FALSE_POSITIVE
+EDR001090,2026-03-07 16:29:12,D0128,U0383,Suspicious Process,inventory_scan.exe,low,Open,FALSE_POSITIVE
+EDR001360,2026-03-11 08:57:00,D0194,U0162,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001523,2026-03-11 17:06:00,D0118,U0112,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000923,2026-03-19 10:21:06,D0064,U0132,Unusual Network,inventory_scan.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001692,2026-03-14 10:03:58,D0097,U0181,Suspicious Process,outlook.exe,MEDIUM,In Progress,NEEDS_INVESTIGATION
+EDR000604,2026-03-11 18:52:07,D0007,U0190,PUP Detected,python.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001433,2026-03-11 12:36:00,D0059,U0156,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000534,2026-03-21 19:18:08,D0171,U0278,Unusual Network,antivirus_update.exe,High,Closed,FALSE_POSITIVE
+EDR000778,2026-03-20 17:35:51,D0159,U0120,Unusual Network,chrome.exe,Low,In Progress,FALSE_POSITIVE
+EDR001301,2026-03-11 06:00:00,D0114,U0335,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000271,2026-03-22 18:20:53,D0179,U0209,PUP Detected,teams.exe,low,Open,FALSE_POSITIVE
+EDR001840,2026-03-16 09:12:32,D9008,U0179,Unusual Network,chrome.exe,critical,Open,
+EDR000947,2026-03-04 09:36:08,D0100,U0349,PUP Detected,teams.exe,low,Open,FALSE_POSITIVE
+EDR001801,2026-03-12 03:45:00,D0003,U0007,Credential Access,cryptolock.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR000418,2026-03-05 13:38:02,D0019,U0052,Unusual Network,sccm_client.exe,high,Open,FALSE_POSITIVE
+EDR001688,2026-03-02T17:07:31Z,D0103,U0345,Malware Signature,inventory_scan.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR001719,2026-03-09 14:42:33,D0088,U0091,Persistence Attempt,powershell_enc.exe,medium,In Progress,NEEDS_INVESTIGATION
+EDR001482,2026-03-11 15:03:00,D0056,U0344,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000324,2026-03-15 08:42:57,D0191,U0056,Unusual Network,inventory_scan.exe,Medium,Open,FALSE_POSITIVE
+EDR001497,2026-03-11 15:48:00,D0002,U0074,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001363,2026-03-11T09:06:00Z,D0081,U0066,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000434,2026-03-09 18:31:09,D0124,U0019,Unusual Network,python.exe,medium,Open,FALSE_POSITIVE
+EDR001515,2026-03-11 16:42:00,D0101,U0058,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000121,2026-03-18 19:31:47,D0101,U0293,Unusual Network,sccm_client.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001552,2026-03-11 18:33:00,D0143,U0183,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000356,2026-03-15 19:26:21,D0082,U0124,Unusual Network,chrome.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001311,2026-03-11T06:30:00Z,D0069,U0285,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001189,2026-03-11 00:24:00,D0192,U0105,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001069,2026-03-16T18:18:04Z,D0046,U0194,Unusual Network,antivirus_update.exe,medium,Open,
+EDR001300,2026-03-11 05:57:00,D0157,U0149,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000775,2026-03-05 11:48:12,D0095,U0346,PUP Detected,teams.exe,medium,Open,FALSE_POSITIVE
+EDR001283,2026-03-11 05:06:00,D0035,U0103,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000224,2026-03-18T19:46:23Z,D0080,U0317,Suspicious Process,inventory_scan.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001711,2026-03-13 09:35:44,D0127,U0293,PUP Detected,psexec.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001021,2026-03-07 10:02:35,D0165,U0018,Suspicious Process,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR000354,2026-03-21T14:37:03Z,D0116,U0075,Suspicious Process,outlook.exe,high,Open,FALSE_POSITIVE
+EDR001032,2026-03-12 10:30:40,D0016,U0392,Suspicious Process,teams.exe,high,Closed,FALSE_POSITIVE
+EDR000994,2026-03-12 18:30:04,D0112,U0143,Unusual Network,python.exe,HIGH,Open,FALSE_POSITIVE
+EDR000898,2026-03-11 13:00:35,D0155,U0335,Unusual Network,python.exe,Low,Open,FALSE_POSITIVE
+EDR001232,2026-03-11T02:33:00Z,D0109,U0357,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000465,2026-03-11 15:42:23,D0130,U0367,Suspicious Process,teams.exe,Medium,Closed,FALSE_POSITIVE
+EDR001414,2026-03-11T11:39:00Z,D0040,U0139,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001178,2026-03-05 14:20:24,D0160,U0308,Suspicious Process,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001747,2026-03-13T14:35:10Z,D0061,U0311,PowerShell Abuse,mimikatz.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR001471,2026-03-11 14:30:00,D0084,U0238,Suspicious Process,backup_agent.exe,High,Closed,
+EDR001461,2026-03-11T14:00:00Z,D0002,U0372,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000758,2026-03-18 12:56:03,D0144,U0198,Suspicious Process,antivirus_update.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000772,2026-03-07 15:35:41,D0197,U0029,Unusual Network,outlook.exe,Medium,Closed,FALSE_POSITIVE
+EDR000459,2026-03-13 16:58:30,D0035,U0043,PUP Detected,teams.exe,LOW,Open,FALSE_POSITIVE
+EDR001431,2026-03-11T12:30:00Z,D0025,U0341,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001143,2026-03-05 19:57:33,D0067,U0281,PUP Detected,python.exe,medium,In Progress,FALSE_POSITIVE
+EDR000734,2026-03-11 13:59:34,D0055,U0218,Unusual Network,teams.exe,high,Closed,FALSE_POSITIVE
+EDR001828,2026-03-15 18:05:12,D9005,U0154,PUP Detected,inventory_scan.exe,High,Open,NEEDS_INVESTIGATION
+EDR000061,2026-03-19 18:37:36,D0093,U0245,PUP Detected,chrome.exe,HIGH,Open,FALSE_POSITIVE
+EDR001293,2026-03-11T05:36:00Z,D0009,U0390,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000157,2026-03-04 09:11:52,D0184,U0395,Suspicious Process,teams.exe,LOW,Open,
+EDR000310,2026-03-08 08:01:30,D0126,U0341,Suspicious Process,inventory_scan.exe,medium,Closed,
+EDR001368,2026-03-11 09:21:00,D0037,U0272,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000591,2026-03-15 12:35:07,D0077,U0069,Suspicious Process,chrome.exe,Medium,Closed,FALSE_POSITIVE
+EDR000767,2026-03-04 15:33:07,D0088,U0158,Unusual Network,inventory_scan.exe,high,In Progress,FALSE_POSITIVE
+EDR001400,2026-03-11T10:57:00Z,D0048,U0091,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000790,2026-03-08 17:42:02,D0141,U0065,Suspicious Process,antivirus_update.exe,low,Closed,FALSE_POSITIVE
+EDR001329,2026-03-11 07:24:00,D0154,U0115,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000316,2026-03-08T13:10:31Z,D0009,U0256,Suspicious Process,teams.exe,High,Closed,FALSE_POSITIVE
+EDR001740,2026-03-11 12:07:48,D0162,U0355,Credential Access,psexec.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR000251,2026-03-07 14:19:14,D0023,U0322,Suspicious Process,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001574,2026-03-11T19:39:00Z,D0061,U0059,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000864,2026-03-03 08:23:05,D0017,U0340,Suspicious Process,antivirus_update.exe,High,Open,
+EDR000904,2026-03-12 12:05:18,D0082,U0042,PUP Detected,teams.exe,medium,Open,FALSE_POSITIVE
+EDR000706,2026-03-04 12:06:07,D0193,U0186,PUP Detected,sccm_client.exe,High,In Progress,FALSE_POSITIVE
+EDR000503,2026-03-11T10:06:01Z,D0019,U0386,Suspicious Process,chrome.exe,low,In Progress,FALSE_POSITIVE
+EDR001341,2026-03-11 08:00:00,D0043,U0355,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR001138,2026-03-21T13:24:18Z,D0024,U0185,PUP Detected,inventory_scan.exe,LOW,Closed,FALSE_POSITIVE
+EDR000315,2026-03-14T18:59:56Z,D0120,U0287,PUP Detected,teams.exe,medium,Open,FALSE_POSITIVE
+EDR001201,2026-03-11 01:00:00,D0180,U0138,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000464,2026-03-10 08:37:44,D0167,U0258,Unusual Network,antivirus_update.exe,Low,Closed,FALSE_POSITIVE
+EDR001344,2026-03-11 08:09:00,D0101,U0177,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001246,2026-03-11 03:15:00,D0195,U0085,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001283,2026-03-11 05:06:00,D0035,U0103,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001224,2026-03-11 02:09:00,D0187,U0261,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000359,2026-03-13T15:43:33Z,D0046,U0292,PUP Detected,inventory_scan.exe,High,Closed,FALSE_POSITIVE
+EDR000158,2026-03-07T17:38:44Z,D0025,U0191,PUP Detected,sccm_client.exe,medium,In Progress,FALSE_POSITIVE
+EDR000292,2026-03-02 15:38:25,D0057,U0347,Unusual Network,antivirus_update.exe,Low,Closed,FALSE_POSITIVE
+EDR001815,2026-03-12T04:27:00Z,D0003,U0007,Persistence Attempt,psexec.exe,CRITICAL,Open,NEEDS_INVESTIGATION
+EDR001593,2026-03-10 17:22:58,D0157,U0253,Credential Access,inventory_scan.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR000235,2026-03-17 10:27:47,D0162,U0016,PUP Detected,python.exe,high,In Progress,FALSE_POSITIVE
+EDR000575,2026-03-07 08:46:42,D0093,U0123,Unusual Network,sccm_client.exe,high,Closed,FALSE_POSITIVE
+EDR000302,2026-03-18T19:14:26Z,D0117,U0230,Suspicious Process,chrome.exe,high,Open,FALSE_POSITIVE
+EDR000543,2026-03-18T11:49:09Z,D0139,U0178,PUP Detected,chrome.exe,high,In Progress,FALSE_POSITIVE
+EDR001780,2026-03-12 02:42:00,D0003,U0007,Credential Access,mimikatz.exe,CRITICAL,Open,TRUE_POSITIVE
+EDR001665,2026-03-19 12:05:04,D0007,U0377,Malware Signature,teams.exe,High,In Progress,NEEDS_INVESTIGATION
+EDR000516,2026-03-18 19:13:50,D0123,U0304,Unusual Network,teams.exe,LOW,Open,FALSE_POSITIVE
+EDR000362,2026-03-20T18:17:28Z,D0071,U0144,PUP Detected,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001115,2026-03-06 12:27:12,D0078,U0318,PUP Detected,antivirus_update.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000915,2026-03-17T08:07:10Z,D0195,U0119,PUP Detected,inventory_scan.exe,LOW,Closed,FALSE_POSITIVE
+EDR001308,2026-03-11T06:21:00Z,D0097,U0368,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000747,2026-03-22 08:40:48,D0138,U0107,PUP Detected,outlook.exe,high,Open,FALSE_POSITIVE
+EDR001153,2026-03-13 10:30:57,D0081,U0112,PUP Detected,chrome.exe,medium,Open,FALSE_POSITIVE
+EDR000484,2026-03-16 19:12:43,D0147,U0069,Suspicious Process,antivirus_update.exe,Medium,Closed,FALSE_POSITIVE
+EDR001657,2026-03-22T16:53:59Z,D0091,U0202,Credential Access,psexec.exe,Critical,Open,NEEDS_INVESTIGATION
+EDR000957,2026-03-11T08:17:49Z,D0160,U0039,Suspicious Process,teams.exe,Low,Open,FALSE_POSITIVE
+EDR001075,2026-03-05 17:16:40,D0080,U0201,PUP Detected,python.exe,Low,In Progress,FALSE_POSITIVE
+EDR001542,2026-03-11 18:03:00,D0068,U0325,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001266,2026-03-11T04:15:00Z,D0098,U0330,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001449,2026-03-11 13:24:00,D0068,U0010,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000776,2026-03-04T12:40:49Z,D0052,U0121,Suspicious Process,chrome.exe,Low,Closed,FALSE_POSITIVE
+EDR000743,2026-03-16 19:34:33,D0052,U0216,Suspicious Process,sccm_client.exe,high,In Progress,
+EDR000663,2026-03-21 19:39:59,D0050,U0343,PUP Detected,python.exe,low,In Progress,FALSE_POSITIVE
+EDR000349,2026-03-08 10:47:31,D0177,U0141,PUP Detected,outlook.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001388,2026-03-11 10:21:00,D0135,U0074,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000320,2026-03-12 17:41:58,D0019,U0336,Suspicious Process,sccm_client.exe,High,Closed,FALSE_POSITIVE
+EDR000510,2026-03-14 19:30:29,D0065,U0282,Suspicious Process,chrome.exe,Low,In Progress,FALSE_POSITIVE
+EDR001527,2026-03-11 17:18:00,D0039,U0278,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000193,2026-03-04 12:57:08,D0094,U0083,PUP Detected,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001145,2026-03-11 15:50:52,D0031,U0321,PUP Detected,teams.exe,low,Open,FALSE_POSITIVE
+EDR000711,2026-03-11 10:45:04,D0127,U0365,Unusual Network,sccm_client.exe,HIGH,In Progress,
+EDR000577,2026-03-15 18:12:36,D0164,U0079,Unusual Network,outlook.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001755,2026-03-15 11:07:58,D0087,U0105,Malware Signature,rundll32.exe,critical,Closed,
+EDR000511,2026-03-18 11:22:22,D0029,U0192,Unusual Network,chrome.exe,LOW,Closed,FALSE_POSITIVE
+EDR001656,2026-03-08 09:43:40,D0092,U0119,PowerShell Abuse,sccm_client.exe,high,In Progress,NEEDS_INVESTIGATION
+EDR000610,2026-03-08 19:29:56,D0028,U0043,PUP Detected,chrome.exe,LOW,Closed,FALSE_POSITIVE
+EDR000295,2026-03-11 19:02:25,D0145,U0337,Suspicious Process,chrome.exe,low,In Progress,FALSE_POSITIVE
+EDR001014,2026-03-04T09:25:17Z,D0187,U0308,Suspicious Process,antivirus_update.exe,medium,Open,FALSE_POSITIVE
+EDR000085,2026-03-10 19:19:12,D0131,U0346,PUP Detected,python.exe,LOW,Closed,FALSE_POSITIVE
+EDR001104,2026-03-07 10:10:36,D0116,U0060,Unusual Network,inventory_scan.exe,High,Closed,FALSE_POSITIVE
+EDR000115,2026-03-15 12:27:23,D0010,U0130,Suspicious Process,antivirus_update.exe,Medium,Open,FALSE_POSITIVE
+EDR001417,2026-03-11T11:48:00Z,D0146,U0306,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000440,2026-03-06 12:16:29,D0020,U0295,Unusual Network,outlook.exe,High,Closed,FALSE_POSITIVE
+EDR001314,2026-03-11T06:39:00Z,D0046,U0105,Suspicious Process,backup_agent.exe,high,Closed,
+EDR001619,2026-03-16 19:23:52,D0146,U0043,PUP Detected,cryptolock.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001670,2026-03-03 12:40:33,D0060,U0017,PUP Detected,inventory_scan.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001786,2026-03-12 03:00:00,D0003,U0007,Credential Access,mimikatz.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001846,2026-03-17 08:33:55,D9008,U0099,PUP Detected,sccm_client.exe,Low,Open,NEEDS_INVESTIGATION
+EDR000011,2026-03-17 11:13:46,D0097,U0280,Suspicious Process,antivirus_update.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000798,2026-03-18 18:32:11,D0103,U0230,Unusual Network,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR000858,2026-03-03 19:54:27,D0131,U0329,Unusual Network,outlook.exe,Low,Open,FALSE_POSITIVE
+EDR000365,2026-03-02 17:44:01,D0152,U0261,PUP Detected,inventory_scan.exe,LOW,Open,FALSE_POSITIVE
+EDR001550,2026-03-11T18:27:00Z,D0014,U0338,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001369,2026-03-11 09:24:00,D0164,U0329,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001215,2026-03-11 01:42:00,D0179,U0339,Suspicious Process,backup_agent.exe,high,Closed,
+EDR000265,2026-03-16T10:59:42Z,D0140,U0270,Suspicious Process,sccm_client.exe,MEDIUM,Open,
+EDR001463,2026-03-11 14:06:00,D0030,U0381,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000279,2026-03-11 14:20:13,D0016,U0062,PUP Detected,antivirus_update.exe,LOW,Open,FALSE_POSITIVE
+EDR001590,2026-03-04T15:17:23Z,D0075,U0117,PowerShell Abuse,powershell_enc.exe,medium,Open,NEEDS_INVESTIGATION
+EDR001026,2026-03-19 08:54:20,D0123,U0365,Unusual Network,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000304,2026-03-07T09:26:12Z,D0164,U0038,Suspicious Process,teams.exe,low,Closed,
+EDR000934,2026-03-21 10:14:12,D0108,U0250,Suspicious Process,teams.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001626,2026-03-06 11:25:54,D0128,U0007,PUP Detected,chrome.exe,Critical,In Progress,NEEDS_INVESTIGATION
+EDR000952,2026-03-17 14:31:45,D0159,U0018,PUP Detected,chrome.exe,Medium,Open,FALSE_POSITIVE
+EDR001522,2026-03-11 17:03:00,D0027,U0209,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000481,2026-03-18 15:25:19,D0070,U0041,Unusual Network,outlook.exe,low,Open,FALSE_POSITIVE
+EDR001822,2026-03-17 03:40:00,D0011,U0113,Persistence Attempt,cryptolock.exe,CRITICAL,Open,TRUE_POSITIVE
+EDR001116,2026-03-02T19:32:39Z,D0188,U0325,PUP Detected,inventory_scan.exe,LOW,Closed,FALSE_POSITIVE
+EDR000935,2026-03-13 09:23:19,D0113,U0104,PUP Detected,teams.exe,low,In Progress,FALSE_POSITIVE
+EDR000741,2026-03-18 13:42:19,D0097,U0146,PUP Detected,outlook.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001764,2026-03-19T08:37:39Z,D0101,U0045,Malware Signature,cryptolock.exe,high,Closed,TRUE_POSITIVE
+EDR001489,2026-03-11 15:24:00,D0041,U0363,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001789,2026-03-12T03:09:00Z,D0003,U0007,Persistence Attempt,mimikatz.exe,critical,Open,NEEDS_INVESTIGATION
+EDR001537,2026-03-11T17:48:00Z,D0150,U0340,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000866,2026-03-18 15:06:51,D0105,U0341,Unusual Network,python.exe,Low,In Progress,FALSE_POSITIVE
+EDR001127,2026-03-05 11:24:24,D0050,U0341,Unusual Network,python.exe,High,Closed,FALSE_POSITIVE
+EDR001157,2026-03-15T09:25:50Z,D0119,U0291,Suspicious Process,chrome.exe,high,In Progress,FALSE_POSITIVE
+EDR000185,2026-03-11 10:28:56,D0034,U0208,Unusual Network,python.exe,Low,In Progress,FALSE_POSITIVE
+EDR000155,2026-03-08 15:52:57,D0021,U0207,PUP Detected,chrome.exe,LOW,In Progress,
+EDR000786,2026-03-10 08:05:09,D0015,U0148,Suspicious Process,sccm_client.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001599,2026-03-05 18:57:35,D0063,U0017,Malware Signature,mimikatz.exe,High,In Progress,NEEDS_INVESTIGATION
+EDR001534,2026-03-11T17:39:00Z,D0166,U0197,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000341,2026-03-18T09:04:30Z,D0012,U0317,PUP Detected,sccm_client.exe,medium,In Progress,FALSE_POSITIVE
+EDR000574,2026-03-05 08:27:44,D0103,U0251,PUP Detected,antivirus_update.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000612,2026-03-02T14:21:40Z,D0164,U0194,PUP Detected,outlook.exe,High,Closed,
+EDR001588,2026-03-11 15:05:27,D0015,U0379,Credential Access,inventory_scan.exe,MEDIUM,Open,NEEDS_INVESTIGATION
+EDR000595,2026-03-13 10:32:25,D0145,U0064,Unusual Network,python.exe,Low,In Progress,FALSE_POSITIVE
+EDR000639,2026-03-20 15:21:20,D0116,U0309,Unusual Network,chrome.exe,Medium,Closed,FALSE_POSITIVE
+EDR000037,2026-03-13 15:45:55,D0188,U0212,Suspicious Process,chrome.exe,low,Closed,FALSE_POSITIVE
+EDR001247,2026-03-11 03:18:00,D0166,U0074,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001800,2026-03-12 03:42:00,D0003,U0007,Credential Access,mimikatz.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR001681,2026-03-22 16:27:20,D0173,U0004,Persistence Attempt,antivirus_update.exe,Critical,In Progress,NEEDS_INVESTIGATION
+EDR001088,2026-03-12 17:03:13,D0041,U0149,PUP Detected,teams.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000587,2026-03-15 17:32:28,D0032,U0002,PUP Detected,chrome.exe,Medium,Open,
+EDR000256,2026-03-04 13:56:19,D0044,U0234,Unusual Network,outlook.exe,medium,Open,FALSE_POSITIVE
+EDR000012,2026-03-03T11:11:15Z,D0061,U0012,PUP Detected,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000936,2026-03-02T11:44:18Z,D0181,U0150,Suspicious Process,outlook.exe,Medium,Closed,FALSE_POSITIVE
+EDR001576,2026-03-11 19:45:00,D0113,U0043,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001396,2026-03-11 10:45:00,D0105,U0347,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000107,2026-03-09 18:00:37,D0121,U0235,Unusual Network,antivirus_update.exe,LOW,Open,FALSE_POSITIVE
+EDR000920,2026-03-09T19:28:50Z,D0145,U0097,Unusual Network,antivirus_update.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001519,2026-03-11 16:54:00,D0141,U0385,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000765,2026-03-11 10:36:17,D0050,U0050,Suspicious Process,chrome.exe,HIGH,Closed,
+EDR001439,2026-03-11 12:54:00,D0138,U0003,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000035,2026-03-09 14:55:07,D0182,U0231,Unusual Network,python.exe,high,In Progress,FALSE_POSITIVE
+EDR001492,2026-03-11 15:33:00,D0188,U0216,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001331,2026-03-11 07:30:00,D0051,U0204,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000830,2026-03-09 12:10:04,D0110,U0001,Suspicious Process,inventory_scan.exe,medium,Open,
+EDR000486,2026-03-08 10:37:56,D0018,U0122,Suspicious Process,chrome.exe,LOW,Open,FALSE_POSITIVE
+EDR001377,2026-03-11 09:48:00,D0183,U0312,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001505,2026-03-11 16:12:00,D0123,U0077,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001171,2026-03-04 18:46:04,D0006,U0135,PUP Detected,teams.exe,LOW,Open,FALSE_POSITIVE
+EDR001279,2026-03-11 04:54:00,D0111,U0368,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000578,2026-03-20T18:46:46Z,D0199,U0044,Unusual Network,chrome.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000760,2026-03-13 11:53:00,D0030,U0220,Suspicious Process,chrome.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001253,2026-03-11 03:36:00,D0065,U0348,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001666,2026-03-21 12:40:26,D0188,U0179,Malware Signature,cryptolock.exe,Medium,In Progress,NEEDS_INVESTIGATION
+EDR000883,2026-03-15 13:15:17,D0065,U0131,Suspicious Process,inventory_scan.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001351,2026-03-11 08:30:00,D0187,U0082,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000768,2026-03-16T08:26:45Z,D0022,U0183,Unusual Network,outlook.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000168,2026-03-07 18:00:42,D0108,U0093,Unusual Network,teams.exe,Medium,Closed,FALSE_POSITIVE
+EDR001450,2026-03-11 13:27:00,D0056,U0062,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001343,2026-03-11 08:06:00,D0101,U0144,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001273,2026-03-11 04:36:00,D0140,U0030,Suspicious Process,backup_agent.exe,HIGH,Closed,
+EDR000326,2026-03-20 13:08:00,D0062,U0178,PUP Detected,antivirus_update.exe,High,Closed,
+EDR000536,2026-03-17 08:17:32,D0057,U0367,Suspicious Process,teams.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001539,2026-03-11 17:54:00,D0090,U0006,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000916,2026-03-17 11:08:40,D0042,U0326,Unusual Network,python.exe,medium,In Progress,FALSE_POSITIVE
+EDR001370,2026-03-11 09:27:00,D0191,U0157,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000093,2026-03-17 16:22:19,D0029,U0085,Unusual Network,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR000207,2026-03-04 09:30:55,D0100,U0135,Suspicious Process,python.exe,medium,In Progress,FALSE_POSITIVE
+EDR000430,2026-03-12T16:13:12Z,D0064,U0201,Unusual Network,inventory_scan.exe,Low,Open,FALSE_POSITIVE
+EDR001045,2026-03-09 08:07:18,D0013,U0121,Suspicious Process,inventory_scan.exe,Medium,Closed,FALSE_POSITIVE
+EDR000564,2026-03-13 14:10:21,D0114,U0214,Suspicious Process,inventory_scan.exe,LOW,Open,
+EDR001117,2026-03-15 12:45:32,D0105,U0169,Suspicious Process,antivirus_update.exe,Low,Closed,FALSE_POSITIVE
+EDR001307,2026-03-11T06:18:00Z,D0069,U0316,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001070,2026-03-07 19:11:45,D0007,U0323,PUP Detected,python.exe,Low,Closed,FALSE_POSITIVE
+EDR001533,2026-03-11T17:36:00Z,D0063,U0218,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001767,2026-03-21T14:52:05Z,D0073,U0031,Persistence Attempt,powershell_enc.exe,HIGH,Closed,TRUE_POSITIVE
+EDR001345,2026-03-11 08:12:00,D0143,U0077,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001393,2026-03-11 10:36:00,D0190,U0027,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001085,2026-03-14 15:02:04,D0133,U0353,Suspicious Process,sccm_client.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000476,2026-03-16 15:21:46,D0171,U0237,PUP Detected,chrome.exe,Low,Open,FALSE_POSITIVE
+EDR001207,2026-03-11 01:18:00,D0065,U0332,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001110,2026-03-12T09:48:37Z,D0056,U0113,Unusual Network,chrome.exe,Low,Open,FALSE_POSITIVE
+EDR000722,2026-03-08 10:54:05,D0170,U0124,PUP Detected,outlook.exe,HIGH,Open,FALSE_POSITIVE
+EDR001651,2026-03-12 18:00:49,D0097,U0209,Credential Access,psexec.exe,Medium,Open,NEEDS_INVESTIGATION
+EDR001468,2026-03-11 14:21:00,D0098,U0145,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001105,2026-03-16 15:40:09,D0133,U0262,Suspicious Process,python.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000079,2026-03-04T09:18:11Z,D0039,U0232,Unusual Network,inventory_scan.exe,MEDIUM,Open,
+EDR000177,2026-03-13 18:43:22,D0135,U0306,PUP Detected,python.exe,Low,Open,FALSE_POSITIVE
+EDR001272,2026-03-11 04:33:00,D0135,U0304,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000669,2026-03-10 17:48:03,D0086,U0039,Unusual Network,python.exe,medium,In Progress,FALSE_POSITIVE
+EDR001239,2026-03-11T02:54:00Z,D0176,U0063,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001281,2026-03-11T05:00:00Z,D0002,U0225,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000724,2026-03-19 11:59:32,D0070,U0317,Unusual Network,inventory_scan.exe,HIGH,Open,FALSE_POSITIVE
+EDR001659,2026-03-13T18:56:13Z,D0085,U0159,Malware Signature,sccm_client.exe,low,Open,NEEDS_INVESTIGATION
+EDR000084,2026-03-17 16:02:53,D0022,U0213,Unusual Network,antivirus_update.exe,HIGH,Open,FALSE_POSITIVE
+EDR000136,2026-03-11 14:33:31,D0155,U0021,Suspicious Process,inventory_scan.exe,high,Open,FALSE_POSITIVE
+EDR001228,2026-03-11T02:21:00Z,D0009,U0059,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001844,2026-03-20 13:00:17,D9002,U0256,Credential Access,outlook.exe,High,Open,NEEDS_INVESTIGATION
+EDR000835,2026-03-19 17:17:52,D0072,U0310,Suspicious Process,inventory_scan.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000613,2026-03-10T16:43:37Z,D0037,U0136,Suspicious Process,antivirus_update.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000680,2026-03-06 19:36:02,D0128,U0300,PUP Detected,sccm_client.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000085,2026-03-10 19:19:12,D0131,U0346,PUP Detected,python.exe,LOW,Closed,FALSE_POSITIVE
+EDR001263,2026-03-11 04:06:00,D0180,U0344,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001757,2026-03-13 17:48:02,D0013,U0138,PowerShell Abuse,psexec.exe,CRITICAL,Closed,TRUE_POSITIVE
+EDR001782,2026-03-12 02:48:00,D0003,U0007,Credential Access,cryptolock.exe,HIGH,In Progress,TRUE_POSITIVE
+EDR001068,2026-03-07 10:14:28,D0114,U0064,Unusual Network,inventory_scan.exe,Low,Open,
+EDR000983,2026-03-11T08:45:04Z,D0170,U0316,Suspicious Process,teams.exe,HIGH,Closed,
+EDR001833,2026-03-13 19:10:19,D9005,U0273,Unusual Network,chrome.exe,low,Open,NEEDS_INVESTIGATION
+EDR001849,2026-03-02T17:32:46Z,D9007,U0006,Unusual Network,python.exe,critical,Open,NEEDS_INVESTIGATION
+EDR000364,2026-03-09 12:53:16,D0033,U0168,Suspicious Process,inventory_scan.exe,high,Closed,FALSE_POSITIVE
+EDR001737,2026-03-10 14:59:40,D0070,U0086,Persistence Attempt,mimikatz.exe,Critical,Closed,TRUE_POSITIVE
+EDR000958,2026-03-08 09:53:37,D0153,U0119,Unusual Network,outlook.exe,low,Closed,FALSE_POSITIVE
+EDR001839,2026-03-13 13:45:05,D9006,U0098,PowerShell Abuse,antivirus_update.exe,High,Open,NEEDS_INVESTIGATION
+EDR000938,2026-03-12 14:40:07,D0067,U0362,Suspicious Process,python.exe,low,In Progress,FALSE_POSITIVE
+EDR001432,2026-03-11 12:33:00,D0119,U0338,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001543,2026-03-11 18:06:00,D0067,U0064,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001008,2026-03-21T15:56:13Z,D0122,U0336,Suspicious Process,sccm_client.exe,HIGH,In Progress,
+EDR000463,2026-03-07 16:17:01,D0186,U0239,Unusual Network,inventory_scan.exe,high,In Progress,
+EDR001751,2026-03-03 09:21:25,D0064,U0015,Malware Signature,psexec.exe,critical,Closed,TRUE_POSITIVE
+EDR001425,2026-03-11 12:12:00,D0193,U0204,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000925,2026-03-11 17:43:14,D0027,U0078,Unusual Network,antivirus_update.exe,low,Closed,
+EDR000555,2026-03-22T08:08:08Z,D0032,U0320,PUP Detected,teams.exe,High,In Progress,FALSE_POSITIVE
+EDR000446,2026-03-03 16:56:28,D0173,U0228,PUP Detected,outlook.exe,low,Closed,FALSE_POSITIVE
+EDR000616,2026-03-19 13:10:30,D0170,U0261,Unusual Network,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR001446,2026-03-11 13:15:00,D0123,U0315,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000635,2026-03-06T08:07:13Z,D0040,U0383,PUP Detected,sccm_client.exe,low,In Progress,FALSE_POSITIVE
+EDR000091,2026-03-04T13:37:11Z,D0073,U0344,Unusual Network,antivirus_update.exe,high,In Progress,FALSE_POSITIVE
+EDR000588,2026-03-09 19:01:56,D0124,U0351,Suspicious Process,sccm_client.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001229,2026-03-11 02:24:00,D0123,U0062,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000138,2026-03-10 18:45:31,D0092,U0187,Unusual Network,chrome.exe,LOW,Open,FALSE_POSITIVE
+EDR000071,2026-03-02T19:56:30Z,D0095,U0389,Unusual Network,chrome.exe,HIGH,Open,FALSE_POSITIVE
+EDR001426,2026-03-11T12:15:00Z,D0139,U0354,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000544,2026-03-02 18:21:48,D0072,U0224,Unusual Network,chrome.exe,Low,Closed,
+EDR001501,2026-03-11 16:00:00,D0044,U0374,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001556,2026-03-11 18:45:00,D0025,U0205,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000982,2026-03-21 08:38:09,D0044,U0016,Unusual Network,chrome.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001636,2026-03-07T13:32:53Z,D0086,U0200,Credential Access,rundll32.exe,Critical,In Progress,NEEDS_INVESTIGATION
+EDR000684,2026-03-07 17:20:53,D0008,U0263,PUP Detected,sccm_client.exe,LOW,Open,FALSE_POSITIVE
+EDR000456,2026-03-14 08:44:38,D0014,U0207,Unusual Network,outlook.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000787,2026-03-03 14:46:17,D0149,U0163,PUP Detected,teams.exe,LOW,Closed,FALSE_POSITIVE
+EDR001676,2026-03-09 17:55:47,D0177,U0318,Unusual Network,sccm_client.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR000959,2026-03-10T14:17:57Z,D0018,U0047,Suspicious Process,antivirus_update.exe,Medium,Closed,FALSE_POSITIVE
+EDR001494,2026-03-11T15:39:00Z,D0112,U0252,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000415,2026-03-11 16:57:35,D0077,U0379,Suspicious Process,python.exe,Low,In Progress,FALSE_POSITIVE
+EDR001451,2026-03-11 13:30:00,D0181,U0309,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000426,2026-03-02 12:51:06,D0032,U0293,Suspicious Process,outlook.exe,Low,In Progress,FALSE_POSITIVE
+EDR001691,2026-03-04T16:20:45Z,D0182,U0395,Credential Access,outlook.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR001591,2026-03-08 08:12:03,D0107,U0049,Credential Access,chrome.exe,CRITICAL,Open,NEEDS_INVESTIGATION
+EDR001490,2026-03-11 15:27:00,D0046,U0099,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001695,2026-03-16 18:54:13,D0045,U0380,PUP Detected,mimikatz.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR001347,2026-03-11T08:18:00Z,D0048,U0389,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001783,2026-03-12 02:51:00,D0003,U0007,PowerShell Abuse,mimikatz.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001583,2026-03-06 09:50:05,D0095,U0356,Unusual Network,psexec.exe,Critical,In Progress,
+EDR001716,2026-03-13 10:30:29,D0146,U0369,Suspicious Process,antivirus_update.exe,High,Open,
+EDR001746,2026-03-17 12:35:58,D0172,U0386,Credential Access,psexec.exe,critical,Closed,TRUE_POSITIVE
+EDR001460,2026-03-11T13:57:00Z,D0177,U0205,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001481,2026-03-11 15:00:00,D0004,U0157,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000108,2026-03-20 17:47:19,D0116,U0238,PUP Detected,outlook.exe,High,Closed,FALSE_POSITIVE
+EDR000643,2026-03-03 09:10:40,D0146,U0250,Suspicious Process,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR001033,2026-03-19 15:54:47,D0154,U0075,Suspicious Process,antivirus_update.exe,Low,In Progress,FALSE_POSITIVE
+EDR000708,2026-03-21 15:40:56,D0041,U0093,PUP Detected,antivirus_update.exe,Medium,Closed,FALSE_POSITIVE
+EDR000996,2026-03-16T15:51:50Z,D0198,U0189,Unusual Network,outlook.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000553,2026-03-19 15:24:04,D0021,U0085,PUP Detected,inventory_scan.exe,Low,Closed,FALSE_POSITIVE
+EDR001044,2026-03-17 10:14:07,D0056,U0125,PUP Detected,python.exe,Medium,In Progress,FALSE_POSITIVE
+EDR000829,2026-03-18 14:55:13,D0159,U0238,Unusual Network,teams.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001675,2026-03-02 08:43:22,D0097,U0068,Unusual Network,chrome.exe,Critical,In Progress,
+EDR000013,2026-03-08 12:03:27,D0078,U0112,PUP Detected,inventory_scan.exe,low,Closed,FALSE_POSITIVE
+EDR001578,2026-03-11 19:51:00,D0143,U0094,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001710,2026-03-22 10:34:08,D0175,U0284,Ransomware Behaviour,powershell_enc.exe,critical,In Progress,NEEDS_INVESTIGATION
+EDR000030,2026-03-02 13:14:51,D0067,U0138,Unusual Network,outlook.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001616,2026-03-12 09:34:11,D0169,U0157,Unusual Network,mimikatz.exe,Low,Open,NEEDS_INVESTIGATION
+EDR000582,2026-03-17 13:27:23,D0193,U0283,Unusual Network,outlook.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000208,2026-03-09 11:46:08,D0001,U0149,PUP Detected,outlook.exe,High,In Progress,FALSE_POSITIVE
+EDR001392,2026-03-11 10:33:00,D0176,U0068,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000769,2026-03-15 09:06:39,D0142,U0381,PUP Detected,python.exe,LOW,Open,FALSE_POSITIVE
+EDR001632,2026-03-12 14:19:52,D0192,U0124,Unusual Network,outlook.exe,medium,Open,NEEDS_INVESTIGATION
+EDR001759,2026-03-11T11:43:56Z,D0074,U0358,PowerShell Abuse,mimikatz.exe,high,Closed,TRUE_POSITIVE
+EDR001164,2026-03-16 18:38:29,D0166,U0089,PUP Detected,teams.exe,high,Closed,FALSE_POSITIVE
+EDR000241,2026-03-22 10:26:15,D0182,U0001,Suspicious Process,outlook.exe,low,Open,FALSE_POSITIVE
+EDR001506,2026-03-11 16:15:00,D0091,U0042,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001046,2026-03-13T18:46:56Z,D0123,U0047,PUP Detected,outlook.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001402,2026-03-11T11:03:00Z,D0194,U0013,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR001418,2026-03-11T11:51:00Z,D0093,U0092,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000522,2026-03-02T14:53:50Z,D0046,U0047,PUP Detected,chrome.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000493,2026-03-13T08:23:38Z,D0057,U0367,Suspicious Process,outlook.exe,medium,In Progress,FALSE_POSITIVE
+EDR000714,2026-03-10 11:53:36,D0019,U0281,Suspicious Process,python.exe,HIGH,Open,
+EDR000963,2026-03-16 12:24:10,D0112,U0358,Suspicious Process,inventory_scan.exe,low,Closed,FALSE_POSITIVE
+EDR001510,2026-03-11T16:27:00Z,D0029,U0177,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000799,2026-03-17T18:17:34Z,D0131,U0200,PUP Detected,antivirus_update.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR000296,2026-03-02 13:38:34,D0054,U0279,PUP Detected,teams.exe,High,Closed,FALSE_POSITIVE
+EDR001424,2026-03-11 12:09:00,D0137,U0305,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001182,2026-03-11 00:03:00,D0136,U0259,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000275,2026-03-18T12:41:41Z,D0172,U0171,Suspicious Process,outlook.exe,Medium,Open,FALSE_POSITIVE
+EDR000053,2026-03-12 09:24:34,D0118,U0031,Unusual Network,sccm_client.exe,high,Open,FALSE_POSITIVE
+EDR001495,2026-03-11 15:42:00,D0044,U0107,Suspicious Process,backup_agent.exe,High,Closed,
+EDR000454,2026-03-05T10:08:10Z,D0058,U0103,Suspicious Process,antivirus_update.exe,High,Open,FALSE_POSITIVE
+EDR001723,2026-03-03 09:02:18,D0058,U0162,Persistence Attempt,powershell_enc.exe,HIGH,Open,NEEDS_INVESTIGATION
+EDR001328,2026-03-11 07:21:00,D0064,U0054,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000805,2026-03-19 17:32:28,D0124,U0109,PUP Detected,teams.exe,Medium,In Progress,
+EDR000166,2026-03-13 12:27:30,D0153,U0194,Suspicious Process,antivirus_update.exe,Low,In Progress,FALSE_POSITIVE
+EDR000818,2026-03-07 13:34:41,D0154,U0382,Suspicious Process,inventory_scan.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000123,2026-03-16 15:37:16,D0170,U0264,Suspicious Process,sccm_client.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001183,2026-03-11T00:06:00Z,D0143,U0265,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001010,2026-03-15 17:51:27,D0056,U0303,Suspicious Process,python.exe,Medium,Closed,FALSE_POSITIVE
+EDR000008,2026-03-18 16:55:24,D0162,U0013,Suspicious Process,sccm_client.exe,High,Open,FALSE_POSITIVE
+EDR000892,2026-03-22T19:47:00Z,D0164,U0345,Suspicious Process,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR000226,2026-03-08 15:06:59,D0084,U0302,Suspicious Process,inventory_scan.exe,HIGH,In Progress,FALSE_POSITIVE
+EDR001592,2026-03-10 14:48:18,D0081,U0323,Unusual Network,teams.exe,medium,Open,NEEDS_INVESTIGATION
+EDR001063,2026-03-11 08:11:38,D0160,U0026,PUP Detected,teams.exe,Medium,Closed,FALSE_POSITIVE
+EDR001261,2026-03-11 04:00:00,D0120,U0066,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000160,2026-03-11T13:00:11Z,D0009,U0012,PUP Detected,teams.exe,low,Open,FALSE_POSITIVE
+EDR000165,2026-03-02 14:03:18,D0116,U0291,Suspicious Process,inventory_scan.exe,High,In Progress,FALSE_POSITIVE
+EDR000237,2026-03-04 12:45:00,D0062,U0072,Unusual Network,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001294,2026-03-11 05:39:00,D0189,U0357,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000106,2026-03-17 08:08:12,D0072,U0200,Suspicious Process,chrome.exe,Medium,In Progress,FALSE_POSITIVE
+EDR001365,2026-03-11 09:12:00,D0146,U0246,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000449,2026-03-06 12:18:39,D0075,U0134,Suspicious Process,sccm_client.exe,LOW,In Progress,FALSE_POSITIVE
+EDR001669,2026-03-15 17:55:03,D0178,U0042,Suspicious Process,mimikatz.exe,LOW,In Progress,NEEDS_INVESTIGATION
+EDR000038,2026-03-05 09:09:41,D0120,U0333,Unusual Network,inventory_scan.exe,medium,Closed,FALSE_POSITIVE
+EDR001175,2026-03-08 17:34:12,D0052,U0192,Unusual Network,python.exe,low,In Progress,FALSE_POSITIVE
+EDR000752,2026-03-04 15:20:36,D0057,U0302,Suspicious Process,outlook.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001834,2026-03-22 11:23:01,D9008,U0258,Credential Access,powershell_enc.exe,CRITICAL,Closed,FALSE_POSITIVE
+EDR000895,2026-03-07 13:32:15,D0022,U0005,Suspicious Process,chrome.exe,low,In Progress,FALSE_POSITIVE
+EDR000828,2026-03-15 09:32:26,D0175,U0241,Suspicious Process,sccm_client.exe,LOW,Open,FALSE_POSITIVE
+EDR000715,2026-03-21 08:30:10,D0135,U0293,Unusual Network,chrome.exe,LOW,Closed,FALSE_POSITIVE
+EDR001528,2026-03-11T17:21:00Z,D0110,U0369,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000520,2026-03-17 09:10:15,D0173,U0186,Unusual Network,python.exe,medium,Closed,FALSE_POSITIVE
+EDR000397,2026-03-18 12:05:42,D0045,U0107,PUP Detected,outlook.exe,Low,Closed,
+EDR000659,2026-03-12T14:28:07Z,D0135,U0365,Suspicious Process,sccm_client.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR001320,2026-03-11T06:57:00Z,D0127,U0194,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000439,2026-03-05 14:22:24,D0164,U0134,PUP Detected,python.exe,high,In Progress,FALSE_POSITIVE
+EDR001092,2026-03-11T19:47:06Z,D0198,U0044,Suspicious Process,teams.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR001705,2026-03-14 19:35:40,D0025,U0008,Suspicious Process,mimikatz.exe,low,In Progress,NEEDS_INVESTIGATION
+EDR001120,2026-03-02 08:52:27,D0015,U0324,Suspicious Process,outlook.exe,MEDIUM,Closed,FALSE_POSITIVE
+EDR000379,2026-03-10T11:32:29Z,D0166,U0294,PUP Detected,teams.exe,high,Open,FALSE_POSITIVE
+EDR001372,2026-03-11 09:33:00,D0027,U0251,Suspicious Process,backup_agent.exe,high,Closed,FALSE_POSITIVE
+EDR000824,2026-03-22 08:06:15,D0015,U0094,Suspicious Process,inventory_scan.exe,Low,Closed,FALSE_POSITIVE
+EDR000268,2026-03-17T12:05:28Z,D0130,U0269,PUP Detected,teams.exe,Medium,Open,FALSE_POSITIVE
+EDR000274,2026-03-08 15:20:12,D0153,U0286,Unusual Network,outlook.exe,Medium,Open,
+EDR001298,2026-03-11 05:51:00,D0183,U0056,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000834,2026-03-21 14:45:49,D0007,U0339,Unusual Network,inventory_scan.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR000447,2026-03-17 14:12:02,D0176,U0364,Suspicious Process,teams.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001525,2026-03-11 17:12:00,D0165,U0388,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR001097,2026-03-08 08:40:57,D0143,U0036,Suspicious Process,chrome.exe,Low,In Progress,FALSE_POSITIVE
+EDR000693,2026-03-13T10:30:50Z,D0021,U0047,Suspicious Process,python.exe,low,Open,FALSE_POSITIVE
+EDR000233,2026-03-08T12:17:39Z,D0062,U0391,PUP Detected,sccm_client.exe,MEDIUM,Open,FALSE_POSITIVE
+EDR000836,2026-03-19 15:23:42,D0133,U0087,Unusual Network,antivirus_update.exe,medium,Open,FALSE_POSITIVE
+EDR000661,2026-03-15 15:19:00,D0130,U0320,Unusual Network,antivirus_update.exe,LOW,Closed,FALSE_POSITIVE
+EDR001793,2026-03-12 03:21:00,D0003,U0007,Credential Access,cryptolock.exe,HIGH,In Progress,NEEDS_INVESTIGATION
+EDR000044,2026-03-10 12:39:51,D0030,U0123,Unusual Network,inventory_scan.exe,medium,Open,
+EDR000549,2026-03-21 19:57:28,D0086,U0297,Suspicious Process,teams.exe,MEDIUM,In Progress,FALSE_POSITIVE
+EDR001457,2026-03-11T13:48:00Z,D0161,U0045,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR000361,2026-03-09 16:30:05,D0171,U0380,Suspicious Process,antivirus_update.exe,medium,Open,
+EDR000704,2026-03-10 17:33:07,D0055,U0389,Suspicious Process,antivirus_update.exe,HIGH,Open,FALSE_POSITIVE
+EDR001505,2026-03-11 16:12:00,D0123,U0077,Suspicious Process,backup_agent.exe,High,Closed,FALSE_POSITIVE
+EDR001323,2026-03-11 07:06:00,D0153,U0124,Suspicious Process,backup_agent.exe,HIGH,Closed,FALSE_POSITIVE
+EDR000059,2026-03-16 11:51:16,D0055,U0212,Suspicious Process,inventory_scan.exe,LOW,Open,
+EDR000782,2026-03-20 14:14:41,D0119,U0394,Suspicious Process,antivirus_update.exe,MEDIUM,Open,FALSE_POSITIVE
