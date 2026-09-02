@@ -41,3 +41,9 @@ L'audit des sources a été réalisé selon les 6 dimensions fondamentales de la
 * Gestion des champs invalides : Les adresses IP mal formées ne sont pas supprimées mais isolées via un indicateur booléen d'audit (is_valid_ip) et exportées dans data/processed/invalid_ips.csv pour investigation de sécurité.
 * Normalisation temporelle : Conversion systématique de tous les horodatages au format unifié UTC (datetime avec fuseau horaire). 
 * Standardisation textuelle : Harmonisation de la casse et suppression des espaces superflus pour fiabiliser les futures jointures. 
+
+## 5. Mesure d'Impact sur le Projet
+
+* Backlog : Ajout de tâches transverses de nettoyage de données et de mise en place de scripts de contrôle d'intégrité référentielle avant toute phase de modélisation.
+* Planning : Extension de la phase de cadrage et de préparation des données pour absorber la complexité des retraitements et de la documentation d'audit.
+* Risques : Maîtrise du risque de faux positifs et de perte de signaux faibles grâce à l'implémentation de tables d'anomalies au lieu de suppressions pures et simples.
