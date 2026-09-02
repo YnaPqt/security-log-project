@@ -89,6 +89,38 @@ if 'src_ip' in df_auth.columns:
         print(f"Fichier d'audit généré avec succès : {audit_path}")
 
 
+# Isolation et sauvegarde des "orphan users"
+# #########################################################
+
+# Conformément à la règle d'or en cybersécurité, les logs d'authentification 
+# rattachés à des identifiants absents du référentiel ne sont pas supprimés[cite: 1, 3] ;
+# ils sont isolés et sauvegardés pour révéler de potentiels cas de Shadow IT ou d'usurpation.
+
+os.makedirs(os.path.join("data", "processed"), exist_ok=True)
+
+if 'user_id' in df_auth.columns and 'user_id' in df_users.columns:
+    # Identification des utilisateurs absents du référentiel users.csv
+    valid_users = set(df_users['user_id'].dropna())
+    df_auth['is_known_user'] = df_auth['user_id'].isin(valid_users)
+    
+    # Isolation des enregistrements orphelins
+    df_orphan_users = df_auth[~df_auth['is_known_user']].copy()
+    orphan_count = len(df_orphan_users)
+    
+    print(f"🔍 [ACCURACY] {orphan_count} logs d'authentification avec un 'user_id' inconnu (hors référentiel RH)[cite: 1, 3].")
+    
+    if orphan_count > 0:
+        # Ajout du motif d'audit pour la traçabilité
+        df_orphan_users['audit_reason'] = 'ORPHAN_USER_ID (Absent de users.csv)'
+        
+        # Sauvegarde au format CSV dans le dossier processed
+        audit_path_user = os.path.join("data", "processed", "orphan_auth_users.csv")
+        df_orphan_users.to_csv(audit_path_user, index=False)
+
+
+
+
+
 ########################  5. TRAITEMENT DES VALEURS MANQUANTES (Completeness)
 
 # Le champ analyst_decision est partiel (normal selon l'IT) -> Marquage explicite
@@ -112,7 +144,10 @@ print("Standardisation textuelle (casse et espaces) appliquée.")
 
 
 
-########################  7. CONSTRUCTION DU FORMAT COMMUN (Compil des sources)
+
+
+
+########################  8. CONSTRUCTION DU FORMAT COMMUN (Compil des sources)
 
 # Utilisation de LEFT JOIN depuis les tables de faits vers les référentiels
 # Ne perdre aucune alerte ou log, même si la machine ou l'user est inconnu (Shadow IT / Obsolescence)
