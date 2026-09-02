@@ -142,11 +142,6 @@ df_auth['event_type'] = df_auth['event_type'].str.upper().str.strip()
 
 print("Standardisation textuelle (casse et espaces) appliquée.")
 
-
-
-
-
-
 ########################  8. CONSTRUCTION DU FORMAT COMMUN (Compil des sources)
 
 # Utilisation de LEFT JOIN depuis les tables de faits vers les référentiels
