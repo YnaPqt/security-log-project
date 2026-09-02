@@ -22,16 +22,17 @@ security-log-project/
 
 Les données fournies sont entièrement synthétiques, livrées sans contrôle qualité préalable et accompagnées de documentations partielles issues d'outils hétérogènes.
 
-![inventaire](./docs/image.png)
+![inventaire](./notebooks/inventaire.png)
 
 ## 3. Évaluation de la Qualité des Données (Data Quality)
 
 L'audit des sources a été réalisé selon les 6 dimensions fondamentales de la qualité des données :
 
-* Completeness (Complétude) : Taux de vacuité massif sur analyst_decision (comportement nominal validé par l'IT) et trous ponctuels sur les attributs descriptifs des actifs et des logs.  
-* Consistency (Cohérence) : Divergences de casse (LOGIN vs login), espaces superflus et variations dans les désignations de systèmes d'exploitation.  
-* Validity (Validité) : Présence d'horodatages hétérogènes (mélange d'ISO 8601 et de formats locaux) et d'adresses IP mal formées.  * Uniqueness (Unicité) : Détection de doublons stricts (lignes 100% identiques) et de doublons sur les clés primaires (device_id, user_id).  
-* Accuracy (Exactitude) : Enregistrements orphelins détectés lors des croisements entre les logs opérationnels et les référentiels (users.csv / assets.csv), révélant de potentiels cas de Shadow IT.  
+* Completeness (Complétude) : Taux de champs vide massif sur analyst_decision (comportement nominal validé par l'IT) et trous ponctuels sur les attributs descriptifs des actifs et des logs.  
+* Consistency (Cohérence) : Divergences de casse (LOGIN vs login), espaces et variations dans les désignations de systèmes d'exploitation.  
+* Validity (Validité) : Présence des timestamps hétérogènes (mélange d'ISO 8601 et de formats locaux) et d'adresses IP mal formées.  
+* Uniqueness (Unicité) : Détection de doublons exacts (lignes 100% identiques) et de doublons sur les clés primaires (device_id, user_id).  
+* Accuracy (Exactitude) : Enregistrements des "orphaned users" détectés lors des croisements entre les logs opérationnels et les référentiels (users.csv / assets.csv), révélant de potentiels cas de Shadow IT.  
 * Timeliness (Actualité) : Désynchronisation potentielle des référentiels RH/IT face aux connexions observées sur le terrain
 
 
