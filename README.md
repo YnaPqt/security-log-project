@@ -6,12 +6,12 @@ Ce projet s'inscrit dans le module de Gestion et Suivi de Projet. L'objectif est
 
 ## 2. Structure du Dépôt (Arborescence Git)
 
-`security-log-project/
-`├── data/
-`│   ├── raw/          # Fichiers sources d'origine (immuables)
-`│   └── processed/    # Données nettoyées, normalisées et journaux d'audit
-`├── docs/             # Documentation des règles de gestion et dictionnaires
-`├── notebooks/        # Notebooks d'exploration (EDA) et de nettoyage
-`├── src/              # Scripts de transformation Python
-`├── tests/            # Tests unitaires sur les règles de qualité
-`└── README.md         # Documentation principale du projet
+> `security-log-project/
+> `├── data/
+> `│   ├── raw/          # Fichiers sources d'origine (immuables)
+> `│   └── processed/    # Données nettoyées, normalisées et journaux d'audit
+> `├── docs/             # Documentation des règles de gestion et dictionnaires
+> `├── notebooks/        # Notebooks d'exploration (EDA) et de nettoyage
+> `├── src/              # Scripts de transformation Python
+> `├── tests/            # Tests unitaires sur les règles de qualité
+> `└── README.md         # Documentation principale du projet
