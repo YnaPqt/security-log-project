@@ -22,4 +22,5 @@ security-log-project/
 
 Les données fournies sont entièrement synthétiques, livrées sans contrôle qualité préalable et accompagnées de documentations partielles issues d'outils hétérogènes.
 
-![inventaire](./docs/image.png)
+
+![inventaire-logo](https://github.com/YnaPqt/security-log-project/docs/image.png)
