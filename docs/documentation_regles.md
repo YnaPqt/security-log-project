@@ -53,4 +53,4 @@ Le dossier des données traitées centralise les livrables suivants :
 * `audit_deleted_rows.csv` : Journal centralisé des doublons et lignes supprimées.
 * `invalid_ips.csv` : Relevé des logs d'authentification présentant des formats d'IP incorrects.
 * `orphan_auth_users.csv` : Liste des connexions rattachées à des utilisateurs hors référentiel.
-* Datasets nettoyés et consolidés prêts pour l'étape de modélisation.
+* `combined_data.csv` : Datasets nettoyés et consolidés prêts pour l'étape de modélisation.
