@@ -72,12 +72,18 @@ def clean_and_audit_duplicates(df_auth, df_edr, df_assets, df_users, processed_d
 # 3. NORMALISATION TEMPORELLE (Validity)
 # ==========================================
 def normalize_timestamps(df_auth, df_edr):
-    """Convertit les horodatages au format UTC standardisé."""
+    """Convertit les timestamps au format UTC puis applique le format 'JJ/MM/AAAA' (%d/%m/%Y)."""
     for name, df in [("authentication_logs.csv", df_auth), ("edr_alerts.csv", df_edr)]:
         if df is not None and 'timestamp' in df.columns:
-            df['timestamp'] = pd.to_datetime(df['timestamp'], utc=True, errors='coerce')
-            invalid_dates = df['timestamp'].isnull().sum()
-            print(f"{name} : {invalid_dates} timestamps invalides convertis en NaT.")
+            # 1. Conversion en datetime UTC pour interpréter les différents formats bruts
+            parsed_dates = pd.to_datetime(df['timestamp'], utc=True, errors='coerce')
+            invalid_dates = parsed_dates.isnull().sum()
+            
+            # 2. Formatage au format cible %d/%m/%Y (JJ/MM/AAAA)
+            df['timestamp'] = parsed_dates.dt.strftime('%d/%m/%Y')
+            
+            print(f" {name} : {invalid_dates} timestamps invalides convertis en NaT (format '%d/%m/%Y' appliqué).")
+            
     return df_auth, df_edr
 
 # ==========================================
@@ -142,17 +148,30 @@ def clean_missing_and_standardize(df_auth, df_edr, df_assets, df_users):
 # ==========================================
 # 6. CONSOLIDATION ET EXPORTATION FINALE
 # ==========================================
-def consolidate_datasets(df_auth, df_users, df_assets, processed_dir="data/processed"):
-    """Combine les sources via LEFT JOIN pour préserver tous les événements de sécurité."""
-    os.makedirs(processed_dir, exist_ok=True)
-    df_consolidated = df_auth.merge(
-        df_users, on='user_id', how='left', suffixes=('', '_user')
-    ).merge(
-        df_assets, on='device_id', how='left', suffixes=('', '_asset')
-    )
-    
-    print(f"\nDataset consolidé généré : {df_consolidated.shape[0]} lignes, {df_consolidated.shape[1]} colonnes.")
-    consolidated_path = os.path.join(processed_dir, "combined_data.csv")
-    df_consolidated.to_csv(consolidated_path, index=False)
-    print(f"Dataset consolidé exporté : {consolidated_path}")
-    return df_consolidated
+def consolidate_datasets(
+    df_auth, df_users, df_assets, processed_dir="data/processed"):
+  """Combine les sources via LEFT JOIN et remplace les valeurs manquantes par 'INCONNU'."""
+  os.makedirs(processed_dir, exist_ok=True)
+
+  # 1. Rapprochement des sources
+  df_consolidated = df_auth.merge(
+      df_users, on="user_id", how="left", suffixes=("", "_user")
+  ).merge(df_assets, on="device_id", how="left", suffixes=("", "_asset"))
+
+  # 2. Remplacement des valeurs manquantes (NaN) par 'INCONNU'
+  df_consolidated = df_consolidated.fillna("INCONNU")
+
+  print(
+      f"\nDataset consolidé généré : {df_consolidated.shape[0]} lignes,"
+      f" {df_consolidated.shape[1]} colonnes."
+  )
+  print(
+      f"Valeurs manquantes restantes : {df_consolidated.isnull().sum().sum()}"
+  )
+
+  # 3. Exportation vers data/processed/
+  consolidated_path = os.path.join(processed_dir, "combined_data.csv")
+  df_consolidated.to_csv(consolidated_path, index=False)
+  print(f"Dataset consolidé exporté : {consolidated_path}")
+
+  return df_consolidated
