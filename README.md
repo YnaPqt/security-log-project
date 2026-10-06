@@ -1,5 +1,5 @@
 # Security Log Project
-Audit et Qualification des Données
+Analyses et Qualification des Données
 
 ## Contexte du Projet
 Ce projet s'inscrit dans le module de Gestion et Suivi de Projet. L'objectif est de réaliser un audit de qualité, un nettoyage et une normalisation des données historiques transmises par les équipes IT afin de déterminer leur exploitabilité pour la conception d'un système de classification et de priorisation des événements de sécurité.
